@@ -1,0 +1,827 @@
+@1 = ~Si nous voulons aller de l'avant, cette guilde rivale doit être détruite, ou à tout le moins, neutralisée. Et c'est vous qui allez devoir assumer l'essentiel de cette tâche, <CHARNAME>.~
+@2 = ~A ce sujet, j'ai une autre proposition à vous faire. Voici Fade, une de mes meilleures recrues. Elle souhaite vous offrir son aide, et j'ai accédé à sa demande... si ça vous intéresse, bien entendu.~
+@3 = ~Et pour quelle raison voudrait-elle m'aider?~
+@4 = ~Pourquoi m'encombrerais-je d'un de vos espions, Aran? Tout ceci n'a pour but que de vous permettre de garder un oeil sur moi.~
+@5 = ~Je vous remercie de cette proposition, Aran, mais j'ai déjà suffisamment de compagnons et n'en cherche pas davantage. Désolé.~
+@6 = ~Peut-être devrais-je répondre moi-même à cette question.~
+@7 = ~(Une elfe d'un aspect assez inhabituel, avec les cheveux rouges, émerge de l'ombre. Quand elle s'approche davantage, vous remarquez que ses yeux sont aussi rouges que ses cheveux, et à votre grande surprise, qu'elle a une queue. Elle interroge Aran du regard, et, celui-ci ayant signifié son approbation, elle s'incline devant vous, mais ne sourit pas)~
+@8 = ~Aran m'a chargée récemment de réunir autant d'informations que possible concernant cette guilde rivale... sachant qu'il t'a confié la même tâche, il me semble plus sage d'unir nos forces.~
+@9 = ~J'ai également été témoin du combat sur la Promenade de Waukyne... en réalité, je suis la seule de ma guilde à avoir survécu. J'ai vu les Mages Cagoulés emmener ton amie, et j'ai trouvé ça... extrêmement déplaisant.~
+@10 = ~De ce fait, même si ma priorité est de remplir ma mission pour Aran et d'éliminer nos rivaux, je souhaiterais aussi t'aider à retrouver ton amie. C'est pour cette raison que j'ai demandé à Aran de m'autoriser à me joindre à ton groupe. Si ma proposition t'intéresse, bien entendu.~
+@11 = ~D'accord, tu peux venir avec nous. Mais sache que même si je me suis engagé à rapporter le plus d'informations possible au sujet de cette guilde rivale, *ma* priorité à moi c'est de tirer mon amie Imoen des griffes des Mages Cagoulés.~
+@12 = ~D'accord, tu peux venir avec nous. Mais tu dois savoir que même si je collabore avec Aran pour en apprendre le maximum sur cette guilde rivale, *ma* priorité à moi c'est de retrouver le mage Irenicus et de le faire payer pour tout ce qu'il m'a fait.~
+@13 = ~Je te remercie de cette proposition, Fade, mais j'ai déjà suffisamment de compagnons et n'en cherche pas davantage. Désolé.~
+@14 = ~Même s'il est vrai que ce que tu as pu apprendre au sujet de cette guilde rivale pourrait m'être utile, je ne peux en toute conscience permettre à une Voleuse de l'Ombre de se joindre à mon groupe. Il m'est déjà suffisamment pénible de devoir participer à des activités aussi douteuses, et je tiens à limiter cette collaboration au strict nécessaire. Je suis désolé.~
+@15 = ~Ca ne change en rien son allégeance envers moi, <CHARNAME>, mais je vous assure que cette proposition vient bien de Fade elle-même, et non de moi. Elle est venue m'en parler, et je pense en effet qu'elle pourrait vous être très utile. Votre histoire l'a... touchée, je pense.~
+@16 = ~Touchée? Pour quelle raison?~
+@17 = ~Alors c'est d'accord. Elle peut se joindre à nous.~
+@18 = ~Merci de me donner ma chance, <CHARNAME>. Je ne te décevrai pas.~
+@19 = ~D'accord, mais n'oublie pas que même si je me suis engagé à rapporter le plus d'informations possible sur cette guilde rivale, *ma* priorité à moi c'est de tirer mon amie Imoen des griffes des Mages Cagoulés.~
+@20 = ~D'accord, mais tu dois savoir que même si je collabore avec Aran pour en apprendre le maximum sur cette guilde rivale, *ma* priorité à moi c'est de retrouver le mage Irenicus et de le faire payer pour tout ce qu'il m'a fait.~
+@21 = ~J'apprécie le geste, mais j'ai déjà suffisamment de compagnons et n'en cherche pas davantage. Désolé.~
+@22 = ~Je comprends, <CHARNAME>. Si toutefois vous changez d'avis, vous la trouverez ici-même.~
+@23 = ~Je comprends, <CHARNAME>, et je te souhaite bonne chance. mais si jamais tu changes d'avis, tu me trouveras ici.~
+@24 = ~J'étais présente lors du combat sur la Promenade de Waukyne, et j'ai vu les Mages Cagoulés emmener ton amie. Disons simplement que je comprends très bien ce que tu peux ressentir, <CHARNAME>, et cela suffira pour le moment.~
+@25 = ~Aran m'a chargée de réunir autant d'informations que possible concernant cette guilde rivale, et sachant qu'il t'a confié la même tâche, il me semble logique d'unir nos forces. Alors, ta réponse?~
+@26 = ~C'est très clair, <CHARNAME>. Reviens me voir quand Aran t'aura donné toutes les informations. Je serai prête à partir dès que tu en donneras le signal.~
+@27 = ~Bien, tout est réglé? Parfait, maintenant revenons-en à nos affaires.~
+@28 = ~Très bien. Maintenant revenons-en à nos affaires.~
+
+@29 = ~Vous vous précipitez vers le portail, mais juste au moment où vous l'atteignez, celui-ci se referme sous vos yeux. Un morceau de parchemin en partie déchiré traîne sur le sol; un maigre indice, mais le seul dont vous disposiez pour essayer de comprendre ce qui vient de se produire.~
+@30 = ~Je viens reprendre Fade, crapules d'esclavagistes!~
+@31 = ~Ah. C'est donc toi. Nous nous demandions quand tu allais apparaître. Peu importe. On s'occupera de toi bien assez tôt.~
+@32 = ~Enfin. Fade. C'a été dur de te retrouver. Tu n'as pas volé ton surnom... du moins, jusqu'à récemment. Non, vraiment, si tu tenais à rester discrète, tu aurais dû éviter de te montrer en si... voyante compagnie.~
+@33 = ~Tu me cherchais? Qui es-tu, et que me veux-tu?~
+@34 = ~Disons simplement que j'aide ceux qui ont perdu quelque chose à retrouver leur bien. Contre rétribution, cela va sans dire. Tu as quitté ta dernière... résidence plutôt brusquement. Je crains que ça n'ait agacé un certain nombre de gens.~
+@35 = ~Quoi? Comment est-ce que tu as--~
+@36 = ~Comment je suis au courant? C'est sans importance. Tout ce que tu as besoin de savoir, c'est qu'on m'a chargé de te ramener.~
+@37 = ~Donc, est-ce que tu vas nous suivre gentiment, ou devrons-nous avoir recours à la force?~
+@38 = ~(pouffe) Dis-lui de choisir la deuxième solution, Mallon... J'aime bien quand ils se défendent un peu.~
+@39 = ~Jamais! Je ne vous laisserai jamais me ramener là-bas! Jamais!~
+@40 = ~Je pensais bien que tu dirais ça. Malheureusement, ou heureusement en ce qui nous concerne, tu n'as pas vraiment le choix.~
+@41 = ~Allons-y, jeune fille.~
+@42 = ~Lâche-moi, espèce de sale-- <CHARNAME>, aide-moi!~
+@43 = ~Fade kidnappée.
+
+Fade a été kidnappée par un homme appelé Mallon et ses complices, et emmenée quelque part via un portail de téléportation. Le seul indice dont je dispose pour trouver leur repaire est un morceau de parchemin déchiré qu'un des kidnappeurs a perdu. D'après ce que j'ai pu déchiffrer du message, le District du Temple est vraisemblement le meilleur endroit où commencer mes recherches.~
+
+@44 = ~Halte! Qui es-tu?~
+@45 = ~Je suis <CHARNAME>, et je suis venu pour Fade!~
+@46 = ~Sans importance. C'est une belle demeure que tu vous avez là, même si votre hospitalité laisse quelque peu à désirer.~
+@47 = ~Je pense que tu sais très bien qui je suis et pourquoi je suis ici. Maintenant laisse-moi passer si tu tiens à la vie.~
+@48 = ~Fade? Alors tu dois être ce rejeton de Bhaal dont elle parle sans arrêt. Eh bien, je suis désolé, <CHARNAME>, mais je ne fais que reprendre possession des biens légitimes de mon maître. Comme il est inscrit sur ce parchemin, elle est sa propriété, et tu ne peux rien y faire.~
+@49 = ~Faux. Je peux te tuer, pour commencer.~
+@50 = ~Dans ce cas, je vais te racheter son contrat.~
+@51 = ~Fade n'est la *propriété* de personne, espèce de salopard!~
+@52 = ~Je n'en disconviens pas. J'attends donc que tu me paies ce que tu me dois pour avoir pris soin de ta marchandise. Sans quoi je serai forcé de te tuer, de reprendre la marchandise et de la vendre pour mon propre compte.~
+@53 = ~Quoi? Qu'est-ce que tu racontes? Tu pénètres ici, tu massacres mes associés, et ensuite tu viens tranquillement faire des commentaires sur la décoration? Qu'est-ce que tu veux?~
+@54 = ~Je crois que tu sais parfaitement bien pourquoi je suis ici. Maintenant laisse-moi passer ou tu subiras le même sort que tes "associés".~
+@55 = ~Ce que je veux? Fade. MAINTENANT.~
+@56 = ~Moi? Rien. J'allais justement partir.~
+@57 = ~Parfait, bon débarras. Rappelle-toi à l'avenir que ceci est une propriété privée. La prochaine fois, je risque de ne pas être aussi indulgent.~
+@58 = ~Ahhh... alors tu dois être ce rejeton de Bhaal dont le démon parle sans arrêt. Eh bien, je suis désolé, <CHARNAME>, mais je ne fais que reprendre possession des biens légitimes de mon maître. Comme il est inscrit sur ce parchemin, elle est sa propriété, et tu ne peux rien y faire.~
+@59 = ~Tu veux me la... racheter? Combien tu donnerais pour l'avoir?~
+@60 = ~500 pièces d'or. Tout plutôt que d'avoir à combattre.~
+@61 = ~1000 pièces d'or. Je préfère éviter un combat.~
+@62 = ~2000 pièces d'or. Elle les vaut.~
+@63 = ~Non, j'ai changé d'avis. Je pense que je vais te tuer pour la reprendre.~
+@64 = ~C'est là où tu te trompes. Si tu me la reprends, c'est le Pacha que tu voles... et il n'appréciera pas du tout.~
+@65 = ~Et si je rachetais son contrat? Est-ce que ça suffirait?~
+@66 = ~Et bien c'est ce qu'on verra! Prépare-toi à mourir!~
+@67 = ~(Il observe vos armes, décontenancé) Très bien. Combien veux-tu pour me laisser quitter cet endroit sans encombre, avec le démon?~
+@68 = ~500 pièces d'or me conviendraient.~
+@69 = ~1000 pièces d'or devraient suffire.~
+@70 = ~Pas moins de 2000 pièces d'or, j'en ai peur.~
+@71 = ~C'est insuffisant, je le crains. Tu vas devoir faire un effort.~
+@72 = ~D'accord, alors que dis-tu de 1000 pièces d'or? Je préfère éviter un combat.~
+@73 = ~D'accord, alors que dis-tu de 2000 pièces d'or? Elle les vaut.~
+@74 = ~Désolé, je n'ai pas l'intention d'offrir davantage. Je pense que je vais devoir te tuer pour la reprendre.~
+@75 = ~Non, désolé. C'est un spécimen plutôt rare, et le Pacha était très fier de l'avoir dans sa collection. Tu vas devoir faire un effort.~
+@76 = ~D'accord, alors disons 2000 pièces d'or? C'est ma dernière offre.~
+@77 = ~2000 pièces d'or? Bon... très bien. Dans ce cas... marché conclu. Elle est à toi.~
+@78 = ~(sourire) Marché conclu.~
+@79 = ~(Il semble hésitant, puis regarde à nouveau votre main négligemment posée sur la garde de votre épée et finit par acquiescer) Très bien, 1000 pièces d'or, marché conclu.~
+@80 = ~Non, je ne paierai pas une telle somme!~
+@81 = ~Alors tant pis, je vais te tuer et je la vendrai moi-même.~
+@82 = ~Bon, et si je me contentais de 1000 pièces d'or?~
+@83 = ~Hmmm... et si je me contentais de 500 pièces d'or?~
+@84 = ~Tu veux un combat? Tu vas en avoir un--et je vais faire en sorte que ce soit ton dernier!~
+@85 = ~Fade kidnappée.
+
+J'ai retrouvé Mallon dans une demeure gardée du district du Temple, mais j'ai préféré partir sans insister davantage. Je ne sais toujours pas où est Fade, et maintenant que Mallon est parti, il y a peu de chances que je la revoie un jour.~
+@86 = ~Fade kidnappée.
+
+J'ai retrouvé Mallon dans une demeure gardée du district du Temple. Il avait apparemment été engagé par l'ancien maître de Fade pour la retrouver. Un peu d'or a eu raison de ses scrupules et il est parti. Fade devrait se trouver quelque part dans la pièce devant laquelle il montait la garde.~
+@87 = ~Fade kidnappée.
+
+J'ai retrouvé Mallon dans une demeure gardée du district du Temple. Il avait apparemment été engagé par l'ancien maître de Fade pour la retrouver. J'ai accepté de le laisser partir en vie en échange d'une belle somme. Il a quitté les lieux, en emmenant probablement Fade avec lui, et il est fort peu probable que je les revoie un jour.~
+@88 = ~Fade kidnappée.
+
+J'ai retrouvé Mallon dans une demeure gardée du district du Temple. Il avait apparemment été engagé par l'ancien maître de Fade pour la retrouver. Maintenant que je lui ai réglé son compte, je devrais trouver Fade dans la pièce devant laquelle il montait la garde.~
+
+@89 = ~Je vois que le Maître des Ombres a finalement accédé à ta demande, Fade.~
+@90 = ~(sourire) Oui.~
+@91 = ~Alors prends soin de toi, môme. Tu sais où me trouver si jamais tu as... besoin de moi. Tu n'auras qu'à crier.~
+@92 = ~Je le ferai.~
+@93 = ~Alors tu es de retour... et en un seul morceau!~
+@94 = ~Tu en doutais?~
+@95 = ~Non, du tout. Tu as toujours eu une chance diabolique.~
+@96 = ~Non, du tout. Tu as toujours eu une chance diabolique. Est-ce que... tu vas rester, cette fois?~
+@97 = ~Je ne sais pas. Ca va dépendre des projets de <CHARNAME>.~
+@98 = ~Ahhh. <CHARNAME>.~
+@99 = ~Sidge... ne sois pas comme ça.~
+@100 = ~Alors... est-ce que tu restes un peu?~
+@101 = ~<CHARNAME>?~
+@102 = ~Non, ce n'est pas ce que j'ai prévu.~
+@103 = ~Si tu veux. Je n'ai rien prévu de particulier.~
+@104 = ~Je vois. C'est très bien.~
+@105 = ~(soupir)~
+@106 = ~Quel est le problème?~
+@107 = ~Désolé. J'ai l'impression que j'ai un peu énervé ton petit ami.~
+@108 = ~Alors dans ce cas, est-ce que je pourrais... te voir un peu plus tard?~
+@109 = ~Je... je ne savais pas que tu fréquentais quelqu'un, Fade.~
+@110 = ~Bon, si tu m'expliquais ce qui se passe, là?~
+@111 = ~Rien.~
+@112 = ~Comment ça, "rien"? J'ai des yeux, tout de même.~
+@113 = ~Comme tu veux, Fade. Tu n'es pas obligée de me raconter si tu n'en as pas envie.~
+@114 = ~Ce n'est pas mon petit ami.~
+@115 = ~Non? Alors il est quoi, pour toi?~
+@116 = ~On aurait dit, pourtant. Je sais reconnaître un amoureux éconduit quand j'en vois un.~
+@117 = ~Ah, d'accord... c'est très bien.~
+@118 = ~Je ne fréquente personne. Sidge est juste un... ami.~
+@119 = ~Juste un ami? Il y a deux minutes, il t'a dit qu'il te "verrait un peu plus tard". Entre ça et la façon dont il t'a regardée, ça ne ressemble pas vraiment à une invitation pour prendre le thé.~
+@120 = ~Et vous êtes "amis" jusqu'à quel point, exactement?~
+@121 = ~Mais je te dis que ce n'est rien. Sidge est juste un... ami à moi.~
+@122 = ~Juste un ami? On aurait pu croire autre chose, pourtant.~
+@123 = ~(soupir) Bien sûr que tu veux savoir, <CHARNAME>. A chaque fois, tu dis "tu n'es pas obligée de me raconter..." en espérant que je vais me mettre à table malgré tout. Sidge est juste un ami à moi, et rien de plus.~
+@124 = ~C'est juste... un ami.~
+@125 = ~Qu'est-ce que tu sous-entends, là? Sidge est juste un ami à moi. Un ami... proche, c'est vrai, mais rien de plus. Ca ne te regarde pas, de toute façon.~
+@126 = ~Ca ne me regarde pas? Tant que tu feras partie de mon groupe, tout me regarde, au contraire!~
+@127 = ~"Proche" à quel point, exactement? Proche dans le genre "cinq fois pendant la nuit, six si tu comptes celle du matin"?~
+@128 = ~Est-ce que tu... éprouves des... sentiments pour lui?~
+@129 = ~"Très bien"? C'est à dire?~
+@130 = ~Non, rien. Rien du tout.~
+@131 = ~C'est très bien, parce que ça veut dire que je n'aurai pas besoin de me torturer en t'imaginant... avec lui.~
+@132 = ~(Elle laisse échapper un soupir exaspéré, et sa queue commence à se tortiller) Oui, c'est *juste* un ami. Un ami... proche, c'est vrai, mais rien de plus. Ca ne te regarde pas, de toute façon.~
+@133 = ~De bons amis. (soupir) Pourquoi tiens-tu absolument à savoir ce qu'il y a entre Sidge et moi, d'abord? Serais-tu... jaloux?~
+@134 = ~Oui!~
+@135 = ~Non! Bien sûr que non!~
+@136 = ~Non, je ne suis pas jaloux. Je veux juste m'assurer que tu restes bien concentrée sur notre mission, et pas sur ton "ami" Sidge. Rien de plus.~
+@137 = ~C'est quoi ton problème, <CHARNAME>? Tu n'es pas... jaloux, n'est-ce pas?~
+@138 = ~Et si c'était le cas?!~
+@139 = ~Quoi? Tu plaisantes, j'espère? Je t'en prie, dis-moi que tu plaisantes.~
+@140 = ~Je le savais. Est-ce que tu... éprouves des... sentiments pour lui?~
+@141 = ~Quoi? Des sentiments? <CHARNAME>... non. Sidge est un garçon adorable et tout ça, mais... non, je n'éprouve rien pour lui. C'est juste un arrangement mutuel. Ca nous convient... convenait... à tous les deux. Il sait à quoi s'en tenir--on est là l'un pour l'autre quand le... besoin s'en fait sentir. Rien de plus.~
+@142 = ~"Quand le besoin s'en fait sentir"? J'espère que ça ne veut pas dire ce que je crois.~
+@143 = ~Donc, si tu rencontrais quelqu'un d'autre, il comprendrait que tu n'aies plus... "besoin" de lui?~
+@144 = ~Oh non. Tu ne t'en sortiras pas si facilement. Pourquoi tu as dit que c'était "très bien"?~
+@145 = ~Pour rien, je t'ai dit, et quand je dis "rien", ça veut dire "rien"! On passe à autre chose, merci.~
+@146 = ~Parce que ça veut dire que je n'aurai pas besoin de me torturer en... en vous imaginant tous les deux.~
+@147 = ~D'accord, d'accord. Ca ne voulait *rien* dire. C'est bon, j'ai compris.~
+@148 = ~(rougir) Ah.~
+@149 = ~Ah? J'avais raison, c'est ça? Parce que c'est le genre d'"ami proche" qui te réchauffe sous la couette, pas vrai?!~
+@150 = ~Ah? Je vois. Est-ce que tu... éprouves des... sentiments pour lui?~
+@151 = ~Tu es jaloux? Mais pourquoi? Tu n'as absolument aucune raison d'être jaloux de Sidge.~
+@152 = ~Oh que si!.~
+@153 = ~Aucune raison d'être jaloux? Alors pourquoi est-ce que tu... le vois?~
+@154 = ~Alors pourquoi tu en fais toute une histoire? Puisque tu dis que ça ne te dérange pas... ~
+@155 = ~D'accord, d'accord, oui, c'est vrai, je suis jaloux! Vraiment jaloux!~
+@156 = ~Non, ça ne me dérange pas! Alors, on va aller voir son petit Sidgie d'amour ce soir, hmm?~
+@157 = ~Oui, <CHARNAME>. Je porte toute mon attention à la réussite de notre mission, et pas sur Sidge. Je suis même capable de marcher, de parler et de penser en même temps, tu sais.~
+@158 = ~Non, je suis sérieuse. Pourquoi tu en fais toute une histoire? Tu es jaloux ou quoi?~
+@159 = ~Si, et je crois que tu le sais. Pourquoi tu en fais toute une histoire? Tu es jaloux ou quoi?~
+@160 = ~Dans ce cas-là, je ne le verrais plus. Du moins, pas pour *ça*. Comme je te l'ai dit, il en est bien conscient. <CHARNAME>... tu n'as vraiment aucune raison d'être jaloux de lui, tu sais.~
+@161 = ~Mais qui a parlé de jalousie? Je n'ai jamais dit que j'étais jaloux.~
+@162 = ~(Elle détourne le regard en rougissant) Non, aucune raison. Je t'assure.~
+@163 = ~(Elle a un sourire hésitant mais chaleureux, et vous touche timidement le bras) Tu n'as vraiment pas de raison de t'inquiéter.~
+@164 = ~Parce que... parce qu'une fille a parfois certains... besoins, <CHARNAME>. Je pense que tu peux comprendre ça?~
+@165 = ~"Certains besoins"?! Et c'est tout? Et pourquoi tu crois que les Dieux nous ont donné des mains, Fade?!~
+@166 = ~Oui, je peux comprendre ça. Ce n'est pas pour ça que ça doit me plaire pour autant. Mais, et si tu rencontrais quelqu'un qui sache répondre à ces... besoins?~
+@167 = ~Arrête d'être con, <CHARNAME>! Décompresse un peu, d'accord? Tu n'as aucune, je dis bien aucune raison d'être jaloux. Je n'ai pas l'intention de voir Sidge cette nuit, alors relax.~
+@168 = ~(Elle semble tout d'abord choquée, puis en colère, et finalement éclate de rire malgré elle) Celle-là, il faudra que je m'en souvienne, à l'avenir, <CHARNAME>... ~
+@169 = ~(A ces mots, vous éclatez de rire à votre tour. Quand le fou-rire cesse enfin, Fade sourit, essuyant les larmes de ses yeux)~
+@170 = ~Mais plus de crise de jalousie, d'accord? Et je suis sérieuse. (Elle agite un index faussement réprobateur et sourit de nouveau)~
+@171 = ~Et bien dans ce cas-là, je n'aurais plus besoin de voir Sidge, pas vrai? (clin d'oeil)~
+
+@172 = ~Mais avant cela... je, euh, je viens juste de me souvenir de quelque chose que je dois faire. Fade, je me demandais si toi et tes compagnons pourriez... me rendre un petit service?~
+@173 = ~Bien sûr. D'accord, <CHARNAME>?~
+@174 = ~Du moment que ça ne prend pas trop longtemps.~
+@175 = ~Non, le temps nous manque. Allons régler cette histoire de guilde rivale.~
+@176 = ~Non, ça ne prendra pas longtemps. J'ai seulement besoin d'une personne sûre à qui je puisse confier une... commission assez particulière. Il s'agit d'une somme d'argent que je dois faire parvenir à ma mère.~
+@177 = ~Euh, sauf le respect que je vous dois, monsieur, j'ai déjà fait ça auparavant et je crois que votre mère ne euh... ne m'apprécie guère. Est-ce que vous ne pourriez pas envoyer quelqu'un d'autre?~
+@178 = ~Assez curieusement, Fade, je crois que tu es une des rares personnes que ma mère laissera entrer dans sa maison. Elle est souvent... désorientée.~
+@179 = ~(marmonne) "Désorientée", mon cul. Elle est timbrée!~
+@180 = ~Bien. Voici la sacoche qu'il vous faut livrer, et--juste un petit avertissement, Fade--pas la peine d'essayer de la découper ou de faire sauter les scellés. Je le saurai, si c'est le cas.~
+@181 = ~Tu sais où se trouve la maison de ma mère, bien entendu--c'est la maison avec un étal à poissons juste devant, au nord-est du district du Pont. Sois aimable, dis-lui que j'aimerais beaucoup passer la voir, mais que je suis trop occupé pour le moment. Enfin, tu connais la chanson.~
+@182 = ~(soupir) Oui, monsieur.~
+@183 = ~Ah, c'est bien dommage. Je vais devoir envoyer quelqu'un d'autre.~
+@184 = ~Très bien, alors. Revenons-en à l'élimination de cette Bodhi et de sa guilde de vampires.~
+@185 = ~Une "commission particulière" pour Aran.
+
+Fade a accepté de rendre service à Aran en allant déposer une certaine somme d'argent chez la mère de celui-ci. La dévotion filiale existe même chez un Maître des Ombres, apparemment. La maison de Mme Linvail est située au nord-est du district du Pont.~
+@186 = ~Ce n'est pas que je veuille vous presser ou quoi que ce soit, <CHARNAME>, mais vous avez promis de faire parvenir cet argent à ma mère. Elle a tendance à devenir... un peu pénible quand elle n'obtient pas rapidement ce qu'elle attend, et j'aimerais autant éviter ça.~
+@187 = ~Ah, vous voici de retour. Comment était ma mère?~
+@188 = ~Aussi pénible que d'habitude.~
+@189 = ~Hélas, c'est un mal néces--je veux dire, il faut bien que je prenne soin de ma pauvre vieille mère qui n'a plus toute sa tête.~
+@190 = ~Pénible. Mais je ne sais pas pourquoi, je pense que vous connaissiez déjà la réponse.~
+@191 = ~La demeure de Mme Linvail~
+@192 = ~Qui est là? Je ne suis qu'une pauvre vieille femme qui n'a pour tout repas qu'une croûte de pain rassis, il n'y a rien à voler ici... ~
+@193 = ~Bonjour, Mme Linvail! Je suis venue vous remettre un peu d'argent de la part de votre fils.~
+@194 = ~Aran? Mon Aran est ici? Non, toujours bien trop occupé pour rendre visite à sa mère, toujours à travailler, à amasser, qui aurait cru qu'acheter et vendre de vieux charriots prenait tellement de temps qu'on ne peut même plus rendre visite à sa vieille mère une fois de temps en temps, je vous le demande!~
+@195 = ~Et moi, qui suis une femme âgée, toute seule dans cette maison, on ne sait jamais ce qui peut arriver, je pourrais aussi bien être violentée par des gnomes pendant mon sommeil, on entend de ces choses, vous savez? Désirez-vous une tasse de thé?~
+@196 = ~Acheter et vendre... quoi? Mais Aran est le--~
+@197 = ~Euh, oui, je prendrai volontiers un peu de thé, Mme Linvail.~
+@198 = ~Violentée par des gnomes?~
+@199 = ~(Fade vous écrase férocement le pied) Taistoitaistoitaistoitaistoi... ~
+@200 = ~Sa mère ignore qu'Aran est un Voleur de l'Ombre! Elle croit qu'il est marchand, et elle le prendrait... plutôt mal si elle découvrait que son fils est un voleur. Elle voulait le voir devenir chevalier, tu imagines.~
+@201 = ~Ah, Mme Linvail! Ummmm... merci pour le thé.~
+@202 = ~Vous, jeune fille, je vous reconnais. Mais *vous*... vous êtes nouveau?~
+@203 = ~Oui, je suis le nouveau livreur.~ ~Oui, je suis nouvelle, je m'occupe des livraisons.~
+@204 = ~Non, je suis juste un ami de Fade.~ ~Non, je suis juste une amie de Fade.~
+@205 = ~J'ai oublié de te le dire avant d'entrer--sa mère ignore qu'Aran est un Voleur de l'Ombre! Elle croit qu'il est marchand, et elle le prendrait... plutôt mal si elle découvrait que son fils est un voleur. Elle voulait le voir devenir chevalier, tu imagines.~
+@206 = ~Ooooh, oui. Vous n'êtes pas un gnome, n'est-ce pas? Parce que si vous en êtes un, j'ai un gros tisonnier, et je sais m'en servir! Je m'en vais vous chasser de cette maison, sale petit démon, toujours à essayer de reluquer dans ma chambre la nuit, comme si je n'avais pas vu!~
+@207 = ~Non, je ne suis pas un gnome. Je suis un <PRO_RACE>.~ ~Non, je ne suis pas un gnome. Je suis une <PRO_RACE>.~
+@208 = ~En fait, oui, je suis un gnome.~
+@209 = ~Mais qu'y a-t-il de mal à être un gnome? Moi, par exemple, je descends d'une longue lignée de gnomes tout ce qu'il y a de plus convenables, tous (et toutes) sans exception d'honnêtes négociants, inventifs et novateurs. Une femme de votre... condition hautement respectable n'aurait certainement rien à redouter d'humbles gnomes tels que nous. Tenez, même le Cousin--~
+@210 = ~Un gnome! Dans ma maison! Mais on ne respecte donc plus rien, je vous le demande? Ecoutez-moi bien, sale petit démon, si vous faites encore un pas, je vous caresse les oreilles, est-ce que c'est clair? C'est une maison respectable ici, et on n'y tolère que des personnes respectables, je ne veux pas de gens de votre espèce chez moi, à se pavaner dans tous les coins, tripoter mes tapisseries et essayer de me vendre de la camelote!~
+@211 = ~Je sais bien comment ça se passe, moi! La Mère Gammage, qui habite un peu plus haut dans la rue, ça lui est arrivé à elle, elle s'est réveillée au milieu de la nuit et il y avait des *centaines* de ces sales petites créatures, plein sa chambre, tous en train d'essayer de lui soulever sa chemise de nuit!~
+@212 = ~Mais Mme Linvail, la Mère Gammage se prend pour une théière la moitié du temps... ~
+@213 = ~Oooooooooh! Ne soyez pas insolente, jeune fille! Vous ne valez guère mieux qu'eux, avec vos trucs d'elfe. Quelle jeune fille convenable aurait une *chose* pareille accrochée au derrière, je vous demande un peu? Je sais bien ce que vous trafiquez!~
+@214 = ~(Elle se tourne et s'adresse à vous dans ce qu'elle pense apparemment être un *murmure* , même si tout le quartier l'entend) Si vous voulez mon avis, je trouve qu'elle a quelque chose de bizarre, cette fille. On entend des choses, vous savez? Des histoires de rites impies, de démons et de diables, et y font des choses avec les prêtresses, dans des pays loin là-bas... ~
+@215 = ~Euh, oui, c'est possible.~
+@216 = ~Je ne saurais dire, Mme Linvail. Visiblement vous êtes mieux renseignée que moi sur ce genre de choses.~
+@217 = ~Vous ne devriez pas être aussi impolie avec Fade, Mme Linvail.~
+@218 = ~Ah oui, mon Aran a de plus en plus de gens qui travaillent pour lui, maintenant, même si je dois dire que ça ne me plaît guère qu'il s'obstine à embaucher tous ces petits salopiots, surtout ces sales gnomes.~
+@219 = ~Vous n'êtes pas un gnome, n'est-ce pas? Parce que si vous en êtes un, j'ai un gros tisonnier, et je sais m'en servir! Je m'en vais vous chasser de cette maison, sale petit démon, toujours à essayer de reluquer dans ma chambre la nuit, comme si je n'avais pas vu!~
+@220 = ~Un ami? Hmmmm... vous la connaissez depuis longtemps? C'est elle que mon Aran a envoyée pour me déposer mon argent la dernière fois. Mon Aran c'est un bon garçon, il prend soin de sa vieille maman. N'empêche, j'aurais bien aimé qu'il aille rejoindre le Coeur Radieux, comme tous ces jeunes gens comme il faut, eux ils sont toujours aux petits soins avec leur maman, ils ne se contentent pas d'envoyer de l'argent, ils vont aussi lui rendre visite, oh oui!~ ~Une amie? Hmmmm... vous la connaissez depuis longtemps? C'est elle que mon Aran a envoyée pour me déposer mon argent la dernière fois. Mon Aran c'est un bon garçon, il prend soin de sa vieille maman. N'empêche, j'aurais bien aimé qu'il aille rejoindre le Coeur Radieux, comme tous ces jeunes gens comme il faut, eux ils sont toujours aux petits soins avec leur maman, ils ne se contentent pas d'envoyer de l'argent, ils vont aussi lui rendre visite, oh oui!~
+@221 = ~Pourquoi mon garçon a voulu se lancer dans les affaires, ça, je n'en sais trop rien. "Aran," que je lui ai dit, "va donc rejoindre tous ces braves gens du Coeur Radieux, qui sauront prendre soin de toi." Mais non, il a fallu qu'il écoute son père, les-Dieux-aient-son-âme. "Fais ce que tu as envie de faire, mon fils."... tss tss. Si seulement il avait écouté sa mère, comme un *bon* garçon, il serait Prélat maintenant, vous pouvez me croire!~
+@222 = ~Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau.~
+@223 = ~(marmonne) Contente-toi de sourire et d'acquiescer, sois aimable, et avec un peu de chance on sera ressortis avant la fin de la semaine.~
+@224 = ~Mais qu'est-ce qu'elle baragouine?~
+@225 = ~Je n'en sais rien. Je ne comprends jamais rien à ce qu'elle raconte. On va essayer de s'en aller vite fait.~
+@226 = ~Voilà, une belle grosse part de gâteau. Ne vous en faites pas pour tous ces poils, c'est le chat qui s'est endormi dessus, il n'y a qu'à souffler dessus un bon coup et ils s'en vont. Allez, mangez!~
+@227 = ~Euh, merci. (faire semblant de prendre une bouchée)~
+@228 = ~Oh, merci beaucoup. (grignoter un petit coin en signe de bonne volonté)~
+@229 = ~Non merci. Je ne suis pas très gâteau.~
+@230 = ~Eh bien, c'est rassurant, même si vous avez un peu l'accent de ces Nordistes consanguins. Est-ce que vous êtes l'un de ces Nordistes consanguins? Des païens, tous autant qu'ils sont. On dit qu'ils boivent le sang de leurs ennemis et qu'ils se peignent le corps tout en bleu avant d'aller au combat, est-ce que vous avez déjà fait ça?~
+@231 = ~Non, je suis sûre que non. Vous êtes un peu trop jeune, et si vous êtes avec mon Aran, c'est que vous devez être un brave garçon. Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau.~ ~Non, je suis sûre que non. Vous êtes un peu trop jeune, et si vous êtes avec mon Aran, c'est que vous devez être une brave fille. Allons, buvez-moi ça, et je m'en vais vous chercher un petit morceau de gâteau.~
+@232 = ~Un elfe? Oooooh, je ne peux pas supporter les elfes, ça mange des pâquerettes et ça fait des câlins aux arbres, ça fait jamais rien de ses dix doigts et en plus ça vole nos femmes... Pourquoi est-ce qu'ils font ça? Il y a quelque chose qui ne va pas avec les leurs? De toute façon leurs sacrés bonshommes ressemblent déjà à des femmes, alors.~ ~Une elfe? Oooooh, je ne peux pas supporter les elfes, ça mange des pâquerettes et ça fait des câlins aux arbres, ça fait jamais rien de ses dix doigts et en plus ça vole nos femmes... Pourquoi est-ce qu'ils font ça? Il y a quelque chose qui ne va pas avec les leurs? De toute façon leurs sacrés bonshommes ressemblent déjà à des femmes, alors.~
+@233 = ~Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau. Je suppose que vous aimez ça, même si vous êtes un de ces sacrés elfes.~
+@234 = ~Ooooh, alors vous êtes sang-mêlé, hein? Je ne leur fais pas confiance, moi, à ces demi-elfes, z'ont toujours l'air d'être en train de mijoter quelque chose... Est-ce que vous êtes en train de mijoter quelque chose? Quand même, sont pas aussi mauvais que ces gnomes, de sales petites crapules ceux-là, toujours à me voler mes culottes pendant qu'elles sèchent, mais on sait jamais à quoi s'en tenir avec les demi-elfes, ni vraiment l'un, ni vraiment l'autre. Comme si nos filles ne pouvaient pas épouser un humain bien comme il faut, comme mon Aran, il ferait un bon mari, vous savez qu'il n'est toujours pas marié.~
+@235 = ~Oh, je sais que parfois nos hommes se laissent tenter par ces filles elfes, voilà ce qui arrive quand on se promène toute la journée dans des robes transparentes, toutes des coureuses, ces filles elfes je veux dire, pas les hommes, aucun homme qui se respecte ne se promènerait en robe transparente, encore que j'aie des doutes au sujet de M. Beesworth qui habite au 36.~
+@236 = ~Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau.~
+@237 = ~Oooh, Aran envoie tellement d'inconnus sonner à ma porte, il m'a déjà envoyé un demi-orque, vous savez! Ca ne me plaît pas du tout, oh non, je ne leur fais pas du tout confiance, j'aime autant cogner dessus d'abord. Je lui ai mis un bon coup sur la tête, à ce cochon-là, avant qu'il ne brûle ma maison, je les connais les gens de votre espèce, ils brûlent tout. Et ils pillent aussi. Ooooooh, j'en ai entendu, des histoires épouvantables... ~
+@238 = ~Bah, vous ne devez pas être bien méchant si vous êtes avec mon Aran, alors buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau.~ ~Bah, vous ne devez pas être bien méchante si vous êtes avec mon Aran, alors buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau.~
+@239 = ~Ooooh, de sacrés petits malins que vous êtes, vous autres nains, pas vrai? Et votre hache, alors, elle est où? Les nains, ça a toujours une hache, une hache et une barbe assez fournie pour y cacher un blaireau. De quelle mine vous venez, alors? Je sais que vous venez tous d'une mine, moi je ne fais pas confiance à des gens qui se sentent mieux sous terre que dessus, toujours à chanter des chansons pleines de sang et d'or, je les vois bien, dans la rue, saouls comme des cochons, boire, c'est tout ce que vous faites, non?~
+@240 = ~Enfin je veux dire, pas vous personnellement, bien sûr. Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau.~
+@241 = ~Je ne tolère pas de petites-personnes dans cette maison! Certainement pas! Sont pas aussi mauvaises que ces sales petites crapules lubriques... les gnomes... mais les petites-personnes ça vous chipe tout ce qui n'est pas solidement fixé, et ça va même essayer d'arracher le reste, juste au cas où! Mon Aran m'avait envoyé ce troupeau de petites-personnes une fois, avec mon argent, et il manquait deux pièces d'or! De sales petits voleurs, voilà ce que c'est!~
+@242 = ~Est-ce que je vais devoir compter cet or également, jeune homme? J'espère que non, car si je découvre qu'il en manque, je m'en vais vous caresser les oreilles, c'est moi qui vous le dis! Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau, je sais que les gens de votre espèce aiment les gâteaux.~ ~Est-ce que je vais devoir compter cet or également, jeune fille? J'espère que non, car si je découvre qu'il en manque, je m'en vais vous caresser les oreilles, c'est moi qui vous le dis! Allons, buvez votre thé, et je m'en vais vous chercher un petit morceau de gâteau, je sais que les gens de votre espèce aiment les gâteaux.~
+@243 = ~Pourquoi est-ce que vous n'aimez pas les gnomes, Mme Linvail?~
+@244 = ~Vous voyez! Il est d'accord avec moi. Il y a quelque chose de pas net chez vous, jeune fille, et je n'aime pas bien que mon Aran fraye avec des gens de votre espèce, je l'ai prévenu, oh oui, mais est-ce qu'il écouterait sa mère, pour une fois? Bien sûr que non... envoyer des gnomes et des filles avec une queue chez moi, oh je me demande comment mon pauvre coeur malade peut supporter ça, parfois... ~ ~Vous voyez! Elle est d'accord avec moi. Il y a quelque chose de pas net chez vous, jeune fille, et je n'aime pas bien que mon Aran fraye avec des gens de votre espèce, je l'ai prévenu, oh oui, mais est-ce qu'il écouterait sa mère, pour une fois? Bien sûr que non... envoyer des gnomes et des filles avec une queue chez moi, oh je me demande comment mon pauvre coeur malade peut supporter ça, parfois.~
+@245 = ~(serre les dents) Bien, Mme Linvail, voici votre argent. C'a été un plaisir, comme toujours, mais nous devons partir maintenant, n'est-ce pas, <CHARNAME>?~
+@246 = ~Euh, oui en effet. Plein de choses à faire, des gens à voir, de vieilles folles à éviter... ~
+@247 = ~Oh, nous avons tout le temps, Fade. Je suis sûr que Mme Linvail apprécie d'avoir un peu de compagnie, pour une fois.~ ~Oh, nous avons tout le temps, Fade. Je suis sûre que Mme Linvail apprécie d'avoir un peu de compagnie, pour une fois.~
+@248 = ~Ah, vous n'avez pas vécu aussi longtemps que moi... ~
+@249 = ~(marmonne) Ca se voit.~
+@250 = ~... mais on m'a raconté bien des choses, hors des murs d'Athkatla, c'est un monde barbare et païen--ces gens ne sont pas comme nous, vous savez, avec leurs rites impies et leur nourriture épicée, ça vous change les gens. Ce qu'il faut c'est un bon morceau de gâteau, *ça* au moins c'est de la nourriture saine, pas comme ces cochonneries exotiques, croyez-moi, c'est à cause de ça que mon Aran fricote avec des gens comme elle.~
+@251 = ~Quoi? Aran a engagé Fade à cause de la nourriture exotique?~
+@252 = ~Oh, mais quelle INSOLENCE! Une femme de mon âge, à demi-sourde, et avec mon pauvre coeur si malade, et ce morveux qui se permet de me donner des leçons de politesse!~ ~Oh, mais quelle INSOLENCE! Une femme de mon âge, à demi-sourde, et avec mon pauvre coeur si malade, et cette morveuse qui se permet de me donner des leçons de politesse!~
+@253 = ~Je n'arrive pas à croire que mon Aran puisse envoyer cette... cette... traînée ici chez moi, une fille avec une queue, c'est pas naturel moi je vous dis! Et vous savez ce qu'on dit à propos des femmes aux cheveux roux... ~
+@254 = ~C'est très injuste de votre part, Mme Linvail!~
+@255 = ~(renifle) Allez clamer votre innocence ailleurs, jeune fille! Donnez-moi mon or et débarrassez le plancher! Vous et votre... croupe tortillante.~
+@256 = ~Parfait! Voilà votre or... (entre ses dents) vieille peau... ~
+@257 = ~Je vous ai entendu!~
+@258 = ~Au *revoir*, Mme Linvail!~
+@259 = ~(Le gâteau a une odeur de moisi, et vous êtes certain qu'il n'y pas que des poils de chat collés dessus) C'est bien. Ca ne vous ferait pas de mal de grossir un peu, maigrichon comme vous êtes... ~ ~(Le gâteau a une odeur de moisi, et vous êtes certain qu'il n'y pas que des poils de chat collés dessus) C'est bien. Ca ne vous ferait pas de mal de grossir un peu, maigrichonne comme vous êtes... ~
+@260 = ~M-merci, Mme Linvail. (implorer Fade du regard)~
+@261 = ~(reposer l'assiette sur la table d'un geste décidé) Eh bien, ç'a été agréable de discuter avec vous, Mme Linvail, mais il va falloir que nous partions. N'est-ce pas, Fade?~
+@262 = ~(décoller du gâteau quelque chose d'aspect indéfinissable et répugnant) Erkk! Mais qu'est-ce que c'est que *ça*?~
+@263 = ~(Le gâteau a un goût immonde--et vous avez la bouche pleine de poils de chats et probablement d'autre choses encore moins ragoûtantes) C'est bien. Ca ne vous ferait pas de mal de grossir un peu, maigrichon comme vous êtes... ~ ~(Le gâteau a un goût immonde--et vous avez la bouche pleine de poils de chats et probablement d'autre choses encore moins ragoûtantes) C'est bien. Ca ne vous ferait pas de mal de grossir un peu, vous êtes toute maigrichonne... ~
+@264 = ~(murmure) Tu l'as mangé? Oh lala, tu vas être malade, c'est sûr.~
+@265 = ~C-c'est... très bon. Merci, Mme Linvail.~
+@266 = ~(retirer de votre bouche quelque chose d'aspect indéfinissable et répugnant) Erkk! Mais qu'est-ce que c'est que *ça*?~
+@267 = ~Mais si, voyons! Tout le monde aime les gâteaux--c'est plein de... de bonnes choses, jeune homme! Allez, mangez!~ ~Mais si, voyons! Tout le monde aime les gâteaux--c'est plein de... de bonnes choses, jeune fille! Allez, mangez!~
+@268 = ~Oui, Mme Linvail, bien sûr, Mme Linvail. Vous avez tout à fait raison! (faire semblant de prendre une bouchée)~
+@269 = ~Euh, d'accord. (grignoter un petit coin en signe de bonne volonté)~
+@270 = ~Non, Mme Linvail, je préfère m'abstenir. Je surveille ma ligne, vous comprenez.~
+@271 = ~Parce que je sais de quoi il retourne! De sales petits vicieux, voilà ce que c'est, ils ne pensent qu'à ça, suffit de voir la taille de leur nez--aucune femme honorable n'est en sécurité, avec ces gens-là! Toujours à voler mes culottes et se cacher derrière les portes--si j'avais une fille, il faudrait que je la tienne enfermée, rien que pour la protéger!~
+@272 = ~Mais je n'ai jamais rencontré de gnome qui ait--~
+@273 = ~Je parle des femmes honorables, espèce de fille des rues! Pas de celles qui ont une queue!~
+@274 = ~Bon, et donc, où est mon or?~
+@275 = ~Le voici, Mme Linvail. Je vais le poser là, sur la table.~
+@276 = ~Et moi je vais le compter! Et même deux fois, pour plus de sûreté!~
+@277 = ~Très bien! Au *revoir*, Mme Linvail!~
+@278 = ~(entre ses dents) Des fois je te déteste.~
+@279 = ~Oh, vous êtes bien aimable. Tenez, prenez un peu de gâteau. Ne vous en faites pas pour tous ces poils, c'est le chat qui s'est endormi dessus, il n'y a qu'à souffler dessus un bon coup et ils s'en vont. Allez, mangez!~
+@280 = ~Seriez-vous idiot? Non! C'est à cause de toutes ces choses étrangères! On voit bien que c'en est une, d'étrangère, pas une jeune fille convenable d'Athkatla... les jeunes filles convenables d'Athkatla n'ont pas de queue!~
+@281 = ~Oooh, mais je vous en prie, vous êtes trop aimable! On voit bien que vous aimez ça, je le lis sur votre visage! Est-ce que vous voulez en emporter un peu, pour chez vous?~
+@282 = ~NON! Je veux dire... on ne va pas repasser à la maison, Mme Linvail, on a du travail à faire. D'ailleurs il faut vraiment qu'on y aille, là.~
+@283 = ~Oui, <CHARNAME>. Tu as raison, il faut qu'on y aille!~
+@284 = ~Rien que des bonnes choses! Des protéines supplémentaires, ça rend les os plus solides et c'est bon pour la... pour la peau, je crois, ou quelque chose comme ça. Mangez, au lieu de poser des questions!~
+@285 = ~Non, Mme Linvail. Je crois que nous allons devoir vous laisser, maintenant.~
+@286 = ~Oh, déjà? Bon, et donc, où est mon or? N'allez pas croire que j'aie oublié. Je n'ai pas oublié!~
+@287 = ~Un maigrichon comme vous, surveiller sa ligne? Je ne vous crois pas! Allez, mangez! Ca ne peut pas vous faire de mal!~ ~Une maigrichonne comme vous, surveiller sa ligne? Je ne vous crois pas! Allez, mangez! Ca ne peut pas vous faire de mal!~
+@288 = ~Et qu'est-ce que vous faites encore ici? On est venu voler une pauvre vieille dame, c'est ça? Sortez, ou vous allez goûter de mon tisonnier!~
+@289 = ~Ne bougez pas, le thé sera prêt dans une minute... ~
+@290 = ~Une "commission particulière" pour Aran.
+
+Fade et moi avons remis l'argent à la mère d'Aran, et avons finalement réussi à sortir de la maison en un seul morceau. Avec un peu de chance, le Maître des Ombres ne me confiera plus ce genre de tâches à l'avenir.~
+@291 = ~Oui, et je m'en occuperai dès que possible.~
+@292 = ~Non, en fin de compte j'ai décidé que nous n'avions pas le temps de nous occuper de ça.~
+
+@293 = ~Et pour prouver que je ne plaisante pas, je vais prendre quelque chose qui vous est cher. J'ai cru comprendre que vous aviez développé quelque "affection" envers cette démone--celle-là sait mieux que quiconque à quel point il est difficile de combattre ses instincts.~
+@294 = ~Essaie seulement de me toucher ou de toucher un seul cheveu de <CHARNAME>, garce, et tu le regretteras.~
+@295 = ~Oh, voilà qui m'étonnerait fort.~
+@296 = ~Le Combat Final contre Bodhi.
+
+Bodhi m'a tendu une embuscade tout près de son repaire. Elle savait que j'étais à ses trousses et m'a pris la personne qui compte le plus pour moi: Fade.  Avant de disparaître en lâchant ses créatures sur moi, Bodhi m'a prévenu que si je continuais, j'y perdrais encore plus que ce que je pouvais imaginer.  Je ne veux pas lui abandonner le Rhynn Lanthorn... mais désormais ce sont aussi la vie et l'âme immortelle de la femme que j'aime qui sont en jeu!~
+@297 = ~Alors ne traînons pas davantage ici et allons débarrasser ces catacombes des vampires une bonne fois pour toutes!~
+@298 = ~Peu m'importe! Tout ce que je veux c'est aider Imoen et leur reprendre Fade!~
+@299 = ~(ignorer Drizzt et vous précipiter au secours de Fade)~
+@300 = ~Bien dit! Je serai à vos côtés dans ce combat, <CHARNAME>.~
+@301 = ~Je sais... j'ai entendu ce qui s'est passé. Nous combattrons côte à côte, en priant pour que votre bien-aimée soit saine et sauve.~
+@302 = ~Je ressens votre souffrance, mon ami, mais je vous en prie, soyez prudent. Vous devez envisager la possibilité que votre bien-aimée ne soit plus celle qu'elle a été. Pour autant, nous combattrons ensemble pour la retrouver.~
+@303 = ~Où est Fade? Qu'est-ce que vous lui avez fait?~
+@304 = ~(L'espace d'un instant, une lueur d'incertitude voile son regard. Elle désigne d'un geste une forme immobile allongée sur le sol à proximité) Ton démon? Elle est ici... ~
+@305 = ~Sale garce! Si vous l'avez tuée... ~
+@306 = ~Qu'est-ce que... Qu'est-ce que vous avez fait? Fade... je t'en prie, je t'en supplie, réveille-toi!~
+@307 = ~(Tenter de l'approcher) Non! Fade... mon amour... je t'en prie... ~
+@308 = ~Oh, elle n'est pas morte. Il semblerait que le vampirisme affecte différemment ceux qui ont un héritage démoniaque. Elle a sombré dans une sorte de sommeil dont nous ne parvenons pas à la tirer... et je suis impatiente de voir ce qui va émerger quand elle se réveillera.~
+@309 = ~Si vous êtes tellement impatiente, pourquoi est-ce que je vois de la peur dans vos yeux?~
+@310 = ~Vous n'aviez pas prévu ça, n'est-ce pas? Vous pensiez qu'elle se soumettrait à votre volonté, mais ça ne s'est pas passé comme prévu, je me trompe? Vous me l'avez enlevée, mais vous ne pouvez pas la retourner contre moi. Vous ne pouvez pas l'utiliser du tout!~
+@311 = ~Comment ça, "ce qui va émerger"? Mais qu'est-ce que vous lui avez fait?~
+@312 = ~Elle ne peut pas vous entendre, <CHARNAME>. Elle est plongée dans une sorte de... transe. Il semblerait que le vampirisme affecte différemment ceux qui ont un héritage démoniaque. Elle a sombré dans une sorte de sommeil dont nous ne parvenons pas à la tirer... et je suis impatiente de voir ce qui va émerger quand elle se réveillera.~
+@313 = ~Vous êtes bien assez près comme ça. Elle n'est pas morte. Il semblerait que le vampirisme affecte différemment ceux qui ont un héritage démoniaque. Elle a sombré dans une sorte de sommeil dont nous ne parvenons pas à la tirer... et je suis impatiente de voir ce qui va émerger quand elle se réveillera.~
+@314 = ~SILENCE! Quand elle se réveillera, *vous* ne lui serez plus d'aucune utilité... elle *devra* se joindre à nous! Elle n'aura pas le choix.~
+@315 = ~(tirer votre épée) Oh si, on a toujours le choix, Bodhi. On a TOUJOURS le choix.~
+@316 = ~Vous ne l'aurez pas! Je vous arrêterai, je ramènerai Fade et je rendrai son âme à Imoen! Je vous le promets, Bodhi!~
+@317 = ~(rire) Ca, j'en doute, <CHARNAME>. A ma connaissance, c'est la première fois qu'une créature avec du sang démoniaque est exposée au vampirisme. Qui sait ce qu'il en ressortira? Ce que je sais, en revanche, c'est que *vous* ne lui serez plus d'aucune utilité... elle *devra* se joindre à nous! Elle n'aura pas le choix.~
+@318 = ~Oh, soyez sans crainte, <CHARNAME>. Je suis impatiente de voir ce que va donner le mélange du sang vampirique et du sang de Tan'ari. Qui sait ce qu'il en ressortira? Ce que je sais, en revanche, c'est que *vous* ne lui serez plus d'aucune utilité... elle *devra* se joindre à nous! Elle n'aura pas le choix.~
+@319 = ~Nous savions tous les deux que ça se terminerait ainsi, je pense. Je garderai cette âme et Fade sera à moi! Adieu, <CHARNAME>. C'aura été avec grand plaisir... ~
+@320 = ~Vos pathétiques vantardises ne m'effraient pas, <CHARNAME>. L'âme d'Imoen est à moi, et votre bien-aimée Fade également! Peut-être vous garderai-je en vie, juste le temps pour vous de voir ce qu'elle sera devenue... avant qu'elle ne se nourrisse de vous!~
+@321 = ~Le Combat Final contre Bodhi.
+
+Bodhi a fait de Fade un vampire! Ou... ou peu s'en faut. Le fait qu'elle possède du sang démoniaque semble avoir plus ou moins interrompu le processus, et elle est maintenant plongée dans une sorte de coma. Bodhi a laissé entendre qu'à son réveil, elle pourrait fort bien s'être... changée en quelque chose d'autre. Je dois pouvoir faire quelque chose, sans quoi je l'aurai perdue à jamais.~
+@322 = ~Mais pour Fade... Oh, je suis tellement désolée, <CHARNAME>. Il y a peut-être des indices ici sur la façon dont on pourrait la ramener... cherchons-les.~
+
+@323 = ~(Après quelques battements de cils, Fade ouvre les yeux et votre coeur s'emballe, mais votre joie est de courte durée. Elle promène un regard affamé autour d'elle, et ne paraît même pas vous voir. Elle se lève et semble grandir à vue d'oeil; sortie de nulle part, une paire d'ailes apparaît dans son dos, ses doigts se changent en griffes acérées, et les traits de son visage se déforment en une horrible parodie de son ancienne beauté)~
+@324 = ~Haha! Libre!~
+@325 = ~Fade? Mais qu'est-ce qui t'arrive?~
+@326 = ~Non, tu n'es pas Fade! Tu es... autre chose.~
+@327 = ~Tu crois que je suis ton petit démon de compagnie? Non... mais elle est ici, tout près... elle se terre. Le vampire sans cervelle a affaibli l'essence de la créature que tu appelles "Fade", et ainsi j'ai pu prendre le contrôle de cette enveloppe.~
+@328 = ~"Ce qui va émerger"... je comprends maintenant ce que voulait dire Bodhi. Je vais te tuer, démon, et je ramènerai Fade!~
+@329 = ~Fade! Je sais que tu peux m'entendre. S'il te plaît, réponds-moi... je t'en prie... je t'aime... ~
+@330 = ~Tu ne contrôleras pas son "enveloppe" plus longtemps, démon! Je vais t'en chasser!~
+@331 = ~Oh, elle est ici... elle se terre, elle se cache de moi, de ce qu'elle fut autrefois. Elle a été des nôtres! J'étais son guide, mais elle nous a abandonnés et m'a renvoyé pourrir dans les Abysses.~
+@332 = ~Mais je suis de retour, plus fort que jamais! Le vampire sans cervelle a affaibli l'essence de la créature que tu appelles "Fade", et ainsi j'ai pu prendre le contrôle de cette enveloppe.~
+@333 = ~Me tuer? Mais l'essence de ta "bien-aimée" et la mienne sont liées... si tu me tues, tu la tueras en même temps!~
+@334 = ~Non! Je ne te crois pas! Je te vaincrai et je la ramènerai!~
+@335 = ~Que... qu'est-ce que tu racontes?~
+@336 = ~(rire) Oh... comme c'est touchant. Elle ne peut pas t'entendre, <CHARNAME>--elle a bien trop peur de moi!~
+@337 = ~Alors je vais te tuer, démon, et je la ramènerai!~
+@338 = ~Je ne te laisserai pas la posséder, démon! Je te chasserai de cette enveloppe par la force!~
+@339 = ~Par la force? Tu prendrais le risque d'abîmer cette enveloppe, le corps de celle que tu aimes? L'essence de ta "bien-aimée" et la mienne sont liées... si tu me tues, tu la tueras en même temps!~
+@340 = ~Qu'il en soit ainsi!~
+@341 = ~Nous ne faisons qu'un! Voyons jusqu'où tu iras pour la sauver... ~
+@342 = ~<CHARNAME>... pas morte... suis toujours là... si faible... prêtre... (elle perd conscience)~
+@343 = ~Le Combat Final contre Bodhi.
+
+La morsure de Bodhi a affaibli l'âme et le corps de Fade au point qu'un démon a pu prendre possession d'elle. J'ai vaincu le démon, mais il occupe toujours le corps de Fade, et elle s'affaiblit davantage à chaque minute. Peut-être que ceux qui connaissent les moyens de guérir du vampirisme sauront comment l'aider.~
+
+@344 = ~Déjà de retour, mon fils? Quel est le problème?~
+@345 = ~Ca n'a pas marché! Fade est toujours possédée par une sorte de force démoniaque. Je... je ne sais pas quoi faire. Je vous en prie, aidez-moi!~
+@346 = ~Je crois que je l'ai guérie du vampirisme, malheureusement il y a bien pire. Il semble qu'un esprit démoniaque ait pris possession de Fade. Je l'ai vaincu pour le moment, mais je ne sais pas comment le chasser définitivement.~
+@347 = ~Ceci n'est pas Fade, c'est une sorte d'esprit démoniaque. Il faut le renvoyer d'où il vient!~
+@348 = ~Vous semblez troublé, mon fils. Puis-je vous aider?~
+@349 = ~Je l'espère. Ma bien-aimée, Fade, est possédée par une sorte de force démoniaque. Je... je ne sais pas comment la chasser. Je vous en prie, aidez-moi!~
+@350 = ~C'est un peu compliqué. Ma bien-aimée, Fade, a été exposée au vampirisme. Je pense avoir réussi à inverser le processus, malheureusement il y a bien pire. Il semble qu'un esprit démoniaque ait pris possession de Fade. Je l'ai vaincu pour le moment, mais je ne sais pas comment le chasser définitivement.~
+@351 = ~Ma bien-aimée, Fade, a été exposée au vampirisme. J'ai pu inverser le processus, mais ce n'est pas Fade qui est revenue, c'est une sorte d'esprit démoniaque. Il faut le renvoyer d'où il vient!~
+@352 = ~S'il vous plaît, calmez-vous. Déposez la jeune femme ici. Oui... c'est bien un cas de possession. Vous allez devoir faire un choix très difficile.~
+@353 = ~Voici quel est le choix: tout d'abord je peux bannir l'esprit, mais si l'esprit de Fade est trop intimement lié à celui du démon, elle sera probablement bannie de ce plan elle aussi, et pour toujours.~
+@354 = ~Ou bien, vous pouvez combattre et tuer le démon, ce qui le bannira de ce plan, et devrait normalement libérer l'esprit de votre amie. Quel que soit votre choix, il aura de lourdes conséquences, pour vous comme pour la jeune fille.~
+@355 = ~Donc je peux chasser cet esprit démoniaque, mais au risque de bannir Fade en même temps? Tant pis, j'en prends le risque. Bannissez la créature.~
+@356 = ~Mais j'ai déjà combattu le démon, et il est toujours là!~
+@357 = ~Mais dans les deux cas, je cours le risque de perdre Fade! Lequel est le plus dangereux?~
+@358 = ~Alors je combattrai la créature à nouveau... mais je ne sais pas comment la tuer.~
+@359 = ~Je vois... mais il est heureux que vous ayez réussi à garder la tête froide. C'est bien un cas de possession, en effet, ce qui signifie que vous allez devoir faire un choix très difficile.~
+@360 = ~Il le faut, en effet. Déposez la jeune femme ici, s'il vous plaît. Oui... c'est bien un cas de possession. Vous allez devoir faire un choix très difficile.~
+@361 = ~Avant d'aller plus loin, il y a quelque chose que vous devez savoir à propos de Fade. C'est une Fey'ri; elle est elle-même partiellement démoniaque. Je pense que c'est grâce à cela que le démon a pu prendre possession d'elle au départ.~
+@362 = ~Le bannissement? Etes-vous bien sûr de votre choix? Le démon s'accrochera à elle autant qu'il pourra.~
+@363 = ~Faites-le. Peu importent les conséquences, ce démon ne doit pas survivre.~
+@364 = ~Alors je ne prendrai pas un tel risque. Je combattrai à nouveau la créature, mais je dois savoir comment la tuer.~
+@365 = ~C'est parce qu'une arme normale ne peut pas le tuer. Vous aurez besoin d'un puissant artéfact pour occire ce démon.~
+@366 = ~J'ai ici le croc d'un dragon rouge. Est-ce que ça conviendra?~
+@367 = ~Je comprends. Je trouverai ce qu'il faut. Je vous en prie, prenez soin de Fade en mon absence.~
+@368 = ~Non, c'est trop de complications. Bannissez le démon et qu'on en finisse!~
+@369 = ~Les deux choix présentent des risques, mais si le démon est trop intimement lié à l'essence de votre amie, elle sera bannie en même temps que lui. Combattre le démon sera très dangereux pour vous, mais ça brisera le lien entre eux deux, me permettant de le bannir lui, et lui seulement. Mais comme je vous l'ai dit, le choix vous appartient.~
+@370 = ~Alors il n'y a pas à hésiter. Je combattrai à nouveau la créature, mais je dois savoir comment la tuer.~
+@371 = ~Oui, je pense que c'est le meilleur choix si vous voulez avoir une chance de revoir votre bien-aimée. Cependant, les armes normales ne peuvent pas tuer cette créature.Vous aurez besoin d'un puissant artéfact pour occire le démon.~
+@372 = ~Quelque chose comme... voyons... les restes d'une puissante créature, une griffe ou un croc dont on pourrait faire une arme--cela pourrait marcher. Un démon supérieur, ou un dragon... ~
+@373 = ~Ah... je vois. Oui, cela aura sans doute facilité la tâche à cet esprit. Permettez-moi de trouver... discutable votre relation amoureuse avec une telle... femme; quoi qu'il en soit, le bannissement de l'esprit aurait très probablement comme conséquence le bannissement de Fade--le sort ne ferait pas la différence entre les deux.~
+@374 = ~Combattre le démon sera très dangereux pour vous, mais ça brisera le lien entre eux, me permettant de le bannir lui, et lui seulement. Mais comme je vous l'ai dit, le choix vous appartient.~
+@375 = ~Comme vous voudrez.~
+@376 = ~C'est ce que je craignais. Elle est partie. Je ne peux rien faire de plus. Vous avez fait votre choix. Le démon n'est plus ici, mais l'esprit de la jeune fille est parti avec lui.~
+@377 = ~Je... je vois. Vous avez fait de votre mieux. Je dois... vous laisser, à présent.~
+@378 = ~Fade! NON! Vous l'avez tuée! Ramenez-la! Rendez-la moi, MAINTENANT!~
+@379 = ~C'est parfait. Ca devrait marcher. Je vais appeler le démon, et dès qu'il sera affaibli, vous devrez lui enfoncer ce croc dans le coeur. Alors j'accomplirai le rituel de bannissement.~
+@380 = ~Normalement, le démon quittera le corps de la jeune fille--sans emporter son esprit. J'espère seulement que votre lien avec elle est très fort. Etes-vous prêt?~
+@381 = ~Oui!~
+@382 = ~Non, attendez un moment, il faut que je me prépare.~
+@383 = ~Je le ferai, n'ayez crainte... mais ne tardez pas trop! J'ai entendu quelques rumeurs à propos d'un antique Dragon Rouge dont l'antre serait quelque part dans les Collines de Lancevent--vous devriez peut-être commencer par chercher là-bas. Bonne chance.~
+@384 = ~Le Combat Final contre Bodhi.
+
+Pour vaincre définitivement le démon, il me faut la griffe ou le croc d'une créature puissante--un démon supérieur ou un dragon. Le prêtre d'Oghma m'a conseillé de chercher un Dragon Rouge qui d'après certaines rumeurs aurait son antre dans les Collines de Lancevent.~
+@385 = ~Je suis... navré que cela se termine ainsi.~
+@386 = ~Je vous avais prévenu des dangers! Tâchez de trouver quelque réconfort à l'idée que l'esprit démoniaque a été chassé lui aussi. Le sacrifice de Fade n'aura pas été vain. Je suis... navré que cela se termine ainsi, mais je ne puis rien y faire.~
+@387 = ~Très bien. Dites-le moi quand vous serez prêt.~
+@388 = ~Etes-vous prêt?~
+@389 = ~Non, j'y ai bien réfléchi, et j'ai changé d'avis. Bannissez la créature--je ne tiens pas à la combattre.~
+@390 = ~Avez-vous trouvé l'arme dont nous avons besoin?~
+@391 = ~Non, pas encore. Je vais continuer à chercher.~
+@392 = ~(Fade gît, inconsciente, et sa respiration est dangeureusement faible)~
+@393 = ~Le Combat Final contre Bodhi.
+
+Le démon a été détruit, mais je l'ai payé au prix fort. Fade a été bannie en même temps que lui.~
+@394 = ~(Mortellement blessé, le démon rugit de douleur)~
+@395 = ~Servez-vous du croc! Maintenant!~
+@396 = ~(Vous plongez le croc profondément dans le coeur du démon. L'esprit démoniaque hurle et ce hurlement vous glace le sang car c'est la voix de Fade que vous entendez, cent fois plus puissante mais familière)~
+
+@397 = ~Moi j'adore les jolies choses... tu ne me trouves pas jolie?  (gloussement)~
+@398 = ~(ricanement)~
+@399 = ~Qu'est-ce qui te fait rire, démon?~
+@400 = ~Rien... rien.~
+@401 = ~Oui, eh bien abstiens-toi, alors. J'en ai assez de toi et de ta façon de tourner autour de mon Aran!~
+@402 = ~Quoi? Je n'ai jamais... je ne... qu'est-ce que tu racontes?! Aran est mon employeur, et rien de plus!~
+@403 = ~Et je tiens à ce que ça continue comme ça! Maintenant disparais avant que j'aille dire à mon chéri que tu as recommencé à m'embêter.~
+
+@404 = ~Ah, te v'là, Fade. J'me demandais justement quand t'allais m'rendre ces trucs que tu m'as emprûntés y a un moment? Ca m'dérange pas que tu m'emprûntes des trucs, mais c'est qu'elles sont en bon acier Turmish, m'ont coûté la peau des fesses... ~
+@405 = ~(rougit) Taistoitaistoitaistoitaistoi!!~
+@406 = ~C'est quoi cette histoire, Fade?~
+@407 = ~(éviter de la faire rougir davantage et ne pas commenter)~
+@408 = ~C'est rien! Rien du tout!~
+@409 = ~Bon dis, fillette, tu vas pô les garder éternellement. J'vais t'dire, si elles t'plaisent tant qu'ça, j't'en prends une paire supplémentaire la prochaine fois qu'je--~
+@410 = ~Booter, S'IL TE PLAIT!~
+@411 = ~(sourire) Rhooo, arrête ton cirque. J'peux t'dire qu'y va pas mett'longtemps à l'savoir de toute façon, hein!.~
+@412 = ~(marmonne) S'il vous plaît, faites que je meure ici maintenant tout de suite... ~
+@413 = ~Je ne vais pas mettre longtemps à le savoir... tiens tiens... je sens venir des choses intéressantes, on dirait.~
+@414 = ~Attends un peu--avant de savoir quoi?~
+@415 = ~(Elle vous jette un coup d'oeil rapide et marmonne à l'intention de Booter quelque chose que vous ne parvenez pas à entendre)~
+@416 = ~D'accord, J'passerai les r'prendre quand j'aurai cinq minutes. Maintenant allez donc vous amuser un peu. (sourire)~
+@417 = ~Oh, toi ça va, hein! (Elle marmonne à l'intention de Booter quelque chose que vous ne parvenez pas à entendre)~
+@418 = ~Ah, faut pas avoir peur, hein. J'suis sûr qu'elle ira doucement la première fois, si vous mmppffhh mmmfpphff mmmmm... ~
+@419 = ~(Rouge comme une pivoine, elle plaque sa main sur la bouche de Booter and lui marmonne quelque chose que vous ne parvenez pas à entendre)~
+@420 = ~D'accord, d'accord, c'tait juss pour plaisanter. J'passerai les r'prendre quand j'aurai cinq minutes. Maintenant allez donc vous amuser un peu. (sourire)~
+
+@421 = ~Je constate qu'Aran t'a écoutée,finalement, Fade? (soupir) J'espérais que tout ceci se ferait sans complications supplémentaires, mais visiblement ce ne sera pas le cas, n'est-ce pas?~
+@422 = ~Je ne vois pas ce que vous voulez dire, monsieur. Je n'ai pas l'intention de compromettre quoi que ce soit, je vous en donne ma parole.~
+@423 = ~Non? Et si quelqu'un de chez Mae'var te reconnaît? Si Mae'Var lui-même te reconnaît?~
+@424 = ~Je ferai en sorte que ça n'arrive pas, monsieur. <CHARNAME> sera au centre de l'attention--c'est à lui qu'on confiera les tâches. Je resterai en retrait et garderai un profil bas.~ ~Je ferai en sorte que ça n'arrive pas, monsieur. <CHARNAME> sera au centre de l'attention--c'est à elle qu'on confiera les tâches. Je resterai en retrait et garderai un profil bas.~
+@425 = ~Ca vaudrait mieux pour toi! Aran te mange peut-être dans la main, mais moi je vois clair dans ton jeu, Fade. Si cette mission échoue, je saurai à qui m'en prendre. Me suis-je bien fait comprendre?~
+@426 = ~Parfaitement bien, *monsieur*.~
+
+@427 = ~Ma compagne, Fade.~
+
+@428 = ~Des laquais, en somme? Je ne suis rien de tel, princesse, et je te conseille de ne pas l'oublier!~
+@429 = ~Non, je n'ai pas dit ça dans ce sens-là! Je voulais dire--~
+@430 = ~je sais parfaitement bien ce que tu voulais dire, Nalia. Et ça ne me plaît pas beaucoup.~
+@431 = ~Dès que <CHARNAME> a accepté de m'aider, vous avez immédiatement suivi, Fade. Je vous demande de ne pas l'oublier. Comme je vous le disais, Daleson, le temps n'est plus aux secrets.~
+@432 = ~Des inférieurs? Non mais, espèce de vieille peau prétentieuse! Donne-moi une seule bonne raison de ne pas te cass-- mmmpphhhfff mmmppphhhf!~
+@433 = ~Euh, désolé. Elle ne pensait pas ce qu'elle a dit.~
+@434 = ~Fade, tu ne nous aides pas, là.~
+@435 = ~Je vous en prie, veuillez ignorer ses propos, ma Dame. Mon amie est un peu sur les nerfs.~
+@436 = ~Des voyous? On est venus te secourir, espèce de vieille peau prétentieuse! Vas-y, donne-moi une seule bonne raison de ne pas te cass-- mmmpphhhfff mmmppphhhf!~
+@437 = ~(frissonne) Quelle méprisable créature.~
+@438 = ~Nalia, rien qu'à l'idée de te voir frayer avec une aussi répugnante créature, j'en ai des hauts-le-coeur!~
+@439 = ~Pensez ce que vous voulez, ma Dame, mais pour le moment nous devons vous faire sortir d'ici. Je vous prie, restez tranquille, vous allez attirer nos ennemis par ici.~
+@440 = ~Je vous demande pardon? Mon amie manque parfois peut-être un peu de... diplomatie, mais ça ne vous autorise pas à l'insulter pour autant. Elle est ici, comme le reste d'entre nous, pour essayer de sauver votre peau, alors je pense que vous pourriez lui témoigner un peu plus de respect!~
+@441 = ~Espèce de vieille sorcière. Fade--je te la laisse.~
+@442 = ~Rien que d'imaginer Nalia côtoyer une aussi répugnante créature, j'en ai des frissons!~
+@443 = ~Eh bien, il s'en trouve au moins un parmi vous qui possède quelques rudiments de politesse et de respect élémentaire. Qui est donc cette méprisable créature?~
+@444 = ~Sur les nerfs? Je ne suis pas sur les nerfs! Je suis complètement écoeurée, voilà ce que je suis! Comment est-ce que cette... cette femme *ose* nous parler de cette façon, alors qu'on vient la sauver?~
+@445 = ~Comment j'ose parler de cette façon? Parce que ma NAISSANCE m'en donne le droit, stupide petite traînée! Qu'êtes-vous donc pour seulement en douter?~
+@446 = ~(murmure) Tu es vraiment TRES lâche, parfois, tu sais, <CHARNAME>?~
+@447 = ~Pensez ce que vous voulez, ma Dame, mais pour le moment nous devons vous faire sortir d'ici. Allons-y. MAINTENANT.~
+@448 = ~De respect? Que me chantez-vous là? Je suis la Maîtresse de cette demeure, et c'est donc à moi d'exiger le respect qui m'est dû! Vous devriez être honorés de pouvoir me servir ainsi!~
+@449 = ~Avec grand plaisir.~
+@450 = ~Voilà, ça lui apprendra!~
+@451 = ~Pourquoi tu as fait ça? Je sais bien qu'elle est désagréable, mais de là à lui taper dessus!~
+@452 = ~Un beau crochet du droit! Mais maintenant qu'elle est dans les pommes, on va devoir trouver une explication plausible.~
+@453 = ~Bon sang, Fade--Où est-ce que tu as appris à cogner comme ça?~
+@454 = ~V_vous l'avez frappée--vous l'avez vraiment frappée! Comment avez-vous pu faire ça?! Je veux dire, je sais qu'elle peut être vraiment insupportable, mais... vous avez osé la frapper! C'est la Dame de cette demeure et--~
+@455 = ~Nalia, ferme-là. A moins que tu en veuilles aussi, évidemment.~
+@456 = ~J'en avais besoin, <CHARNAME>... et elle aussi d'ailleurs.~
+@457 = ~C'est un troll qui lui a fait ça. Saletés de trolls.~
+@458 = ~Quand on vit sur les Docks, on apprend vite quelques trucs utiles, <CHARNAME>. (sourire)~
+
+@459 = ~(Fade devient très pâle et sa bouche n'est plus qu'un mince trait rectiligne) Nous devons arrêter ça, <CHARNAME>. C'est monstrueux.~
+@460 = ~Tu n'as pas besoin de nous supplier, mon ami. Tout ce que je vois ici me donne envie de vomir. Nous allons te libérer et nous t'aiderons autant que nous le pourrons.~
+@461 = ~Eh bien, eh bien, mais qu'avons-nous là? O incandescente beauté, vous avez enflammé mon coeur!~
+@462 = ~Quoi? C'est de l'humour, ou quelque chose comme ça?~
+@463 = ~Jamais de la vie, ô sublime phénix... je ne demande rien d'autre qu'une chance de pouvoir me perdre dans votre étreinte ardente l'espace d'une nuit!~
+@464 = ~T'es sérieux, là?~
+@465 = ~Euhhh... oui... je ne dem... euh... Aha! Ma beauté de braise, je brûle de passion comme aucun autre!~
+@466 = ~Et?~
+@467 = ~Euh... voilà, quoi.~
+@468 = ~Donc, en gros, ce que tu voudrais, c'est tirer un petit coup vite fait?~
+@469 = ~Hmmm... ce serait... l'idée, oui?~
+@470 = ~(Elle sourit en découvrant lentement ses dents, de façon à bien montrer à Salvanas des canines plus pointues que la moyenne, avant d'agiter sa queue sous son nez)~
+@471 = ~(déglutit difficilement) Qu'est-ce que c'est que ça?~
+@472 = ~(sourire) Ma queue.~
+@473 = ~Une queue? Mais alors vous êtes une... ~
+@474 = ~Oui, je suis une tieffeline. Une elfe tieffeline. Une Fey'ri--en partie succube, pour être exacte.~
+@475 = ~Vraiment?! Bien! C'a été un plaisir de parler avec vous, charmante... euh... charmante démone, mais là je dois... je dois... euhhh... je dois y aller, maintenant.~
+@476 = ~La succube est de retour! Et toujours je me languis de vous. (à mi-voix) même si je dois admettre que vous m'effrayez quelque peu... ~
+@477 = ~(soupir) Oh non, encore toi.~
+@478 = ~Oh, vous êtes cruelle, mon ardente tentatrice! Je ne demande rien d'autre que de pouvoir enfin caresser ces mèches enflammées... brûler ma peau contre la vôtre... ouvrir ce rideau que j'imagine rougeoyant... ~
+@479 = ~HE!! Le don juan d'opérette, là! Si quelqu'un doit lui ouvrir son rideau, rougeoyant ou pas, ce sera moi et personne d'autre, vu?? Que ce soit bien clair!~
+@480 = ~Comme c'est chou. En tout cas, cette fois-ci n'oublie pas de nettoyer les restes quand tu auras fini, Fade.~
+@481 = ~Excusez-moi, mais je n'apprécie pas beaucoup que vous vous adressiez à ma compagne de cette façon, donc je voulais juste en profiter pour vous dire que si vous continuez dans cette voie, je vais devoir vous arracher les bras. D'accord?~
+@482 = ~Oh... quoi? Euh... c'était juste histoire de plaisanter, enfin vous comprenez, je voulais juste... écoutez, ne me faites pas de mal, s'il vous plaît! Je m'en vais!~
+@483 = ~(déglutit difficilement) Les restes?~
+@484 = ~Oh, c'est juste que parfois j'ai un peu de mal à... maîtriser mon enthousiasme, tu vois.~
+@485 = ~Ah... oui? Ohlala, il est déjà si tard? C'était agréable de parler un peu avec vous, mais là je dois y aller! Euh... salut!~
+@486 = ~D'accord, message reçu! Je pense que je vais aller voir un peu plus loin, hein? D'accord. Ca me semble une bonne idée aussi... ~
+
+@487 = ~Ca, c'est le parcours d'entraînement des Voleurs de l'Ombre, l'ami. Mon domaine. Et *toi*, Mam'zelle, je ne me rappelle pas t'avoir beaucoup vue par ici, ces temps derniers!~
+@488 = ~Quoi, moi? Oh, mais je suis là tout le temps, c'est juste que vous m'avez probablement... euh... pas... vue.~
+@489 = ~Ne me mens pas, jeune fille. Je sais bien que ça fait longtemps que tu n'as pas mis les pieds ici. Je me fiche de savoir à quel point tu crois être douée, c'est toujours utile de s'entraîner sur le parcours de temps en temps!~
+@490 = ~(soupir) Oui, Pelanna. C'est promis, je viendrai à l'entraînement dès que je serais revenue de ma miss--~
+@491 = ~Oh, non. Tu vas me faire un parcours TOUT DE SUITE. Ce n'est pas parce qu'Aran t'envoie faire joujou à droite et à gauche que *moi* je t'ai dispensée d'entraînement!~
+@492 = ~Faire joujou?? Aran m'a envoyée en repérage pour liquider l'autre guilde!~
+@493 = ~Oui, je sais. Mais je sais aussi que vadrouiller dans la nature avec des gens comme lui, c'est sûrement plus agréable qu'une séance d'entraînement avec moi. Maintenant tu me fais ce parcours ou je te fais goûter du plat de mon épée!~ ~Oui, je sais. Mais je sais aussi que vadrouiller dans la nature avec des gens comme elle, c'est sûrement plus agréable qu'une séance d'entraînement avec moi. Maintenant tu me fais ce parcours ou je te fais goûter du plat de mon épée!~
+@494 = ~(Oui) Oui, Pelanna.~
+@495 = ~Voilà, c'est fait. Vous êtes satisfaite?~
+@496 = ~Hmmm. Pas mal. J'espère que tu feras mieux la prochaine fois. Tu peux y aller.~
+@497 = ~(sourire) Oui, enfin tu aimerais bien! Disons le meilleur dans les Docks, et c'est déjà pas si mal.~
+@498 = ~Effrontée! Va falloir la surveiller celle-là, elle est trop maline, ça y jouera des tours un d'ces quatre. (sourire) Alors t'es sur le départ? Eh ben, bonne chance et tout et tout. J'peux pas dire que j't'envie, mais j'suis sûr que tu vas très bien t'en tirer.~
+
+@499 = ~Hé, je croyais t'avoir dit de ne plus remettre les pieds ici, voleuse! Aran connaît les règles--pas de Voleurs de l'Ombre en train de rôder dans ma boutique!~
+@500 = ~Bonjour, Ribald! Ca fait plaisir de vous revoir. Alors vous ne voulez vraiment pas oublier mon petit faux-pas d'il y a... combien de temps déjà? Oh, au moins trois ans, non?~
+@501 = ~Oui, à peu près, mais ce n'est pas la question!~
+@502 = ~(soupir) Ohlala, combien de fois il faudra que je vous dise que je ne viens pas piller votre boutique? J'ai commis une erreur, et une fois encore, je m'en excuse!  Maintenant est-ce qu'on pourrait passer à autre chose, s'il vous plaît? Je crois que <CHARNAME> voudrait acheter quelque chose.~
+
+@503 = ~Ahhh... et pis j'vois qu'vous avez la p'tite avec la queue avec vous. Comment va, Fade?~
+@504 = ~Ca va bien, Le Pouce. Et toi?~
+@505 = ~Plutôt bien d'puis que j't'ai vue, ma toute belle. Alors, tu prendras comme d'hab'?~
+@506 = ~Non, demande plutôt à <CHARNAME>. C'est lui qui commande, maintenant.~ ~Non, demande plutôt à <CHARNAME>. C'est elle qui commande, maintenant.~
+
+@507 = ~En ce qui me concerne, ta proposition, tu peux te la fourrer dans le --~
+@508 = ~FADE!!~
+@509 = ~(ahèm) Je veux dire que ta proposition, tu peux te la garder et aller au diable!~
+
+@510 = ~Et félicitations à toi aussi, Fade. Peut-être que je t'ai un peu... sous-estimée, par le passé. Tu t'es montrée loyale envers la Guilde et le Maître des Ombres. Nous pourrions peut-être "enterrer la hache de guerre", comme on dit?~
+@511 = ~Ou-oui, monsieur. J'aimerais beaucoup en effet.~
+@512 = ~Du bon boulot!~
+@513 = ~(hoquet de surprise) <CHARNAME>, il te donne la guilde! Tu deviendrais un Maître de Guilde! C'est un grand honneur!~
+@514 = ~Et pour une fois, Fade, tu as parfaitement raison. Alors, qu'en dites-vous, <CHARNAME>?~
+@515 = ~(sourire) J'imagine que je vais devoir t'appeler "chef", désormais? Bienvenue chez les Voleurs de l'Ombre!~
+@516 = ~(clin d'oeil) Je suis sûre qu'on va bien s'amuser... ~
+
+@517 = ~Tu dois la venger, Anomen. Si tu ne le fais pas, personne d'autre ne le fera.~
+
+@518 = ~Oh, allez, <CHARNAME>. On n'est jeune qu'une seule fois.~
+
+@519 = ~J'aurais dû m'en douter... il n'y a pas plus rancunier qu'un dragon. (murmure) il n'y a pas plus riche non plus.~
+@520 = ~C'est vraiment tout ce qui compte, pour toi? On est face au Grand Ver, celui qui souffle la Flamme de l'Effroi, et toi, tout ce qui te vient à l'esprit, c'est son trésor? C'est méprisable!~
+@521 = ~Méprisable, pragmatique, tout ce que tu voudras. Tout ce que je sais, c'est que ce lézard surdimensionné doit avoir un tas d'or plus haut que ta tour d'ivoire, si tant est que ça soit possible, et qui n'attend que nos poches!~
+
+@522 = ~(marmonne) Et c'est reparti. Mais ferme-la, Anulmen... ~
+@523 = ~Qu'est-ce que tu as dit?~
+@524 = ~Mais de quoi tu parles, encore?~
+@525 = ~Tu as dit quelque chose!~
+@526 = ~Moi?~
+@527 = ~Oui!~
+@528 = ~Ca m'étonnerait--peut-être que tu devrais te faire examiner les oreilles? (marmonne) Ou te faire percer les tympans, ça te dégonflerait un peu la tête... ~
+@529 = ~La bassesse de tes propos ne m'atteint pas, démon. <CHARNAME>, comme je le disais, un groupe d'aventuriers qui accepte en son sein de tels... rebuts ne mérite guère de considération.~
+
+@530 = ~L'amulette a été conçue à l'usage exclusif de Fade. Aux yeux de la loi, votre acte pourra être considéré comme constituant une appropriation illégale, punie  de six mois à cinq ans de prison, ainsi qu'une amende.~
+@531 = ~L'amulette a été conçue à l'usage exclusif de Fade et <CHARNAME>. Aux yeux de la loi, votre acte pourra être considéré comme constituant une appropriation illégale, punie  de six mois à cinq ans de prison, ainsi qu'une amende.~
+
+@532 = ~Je ne peux pas accepter ça, <CHARNAME>! Je m'en vais, immédiatement!~
+
+@533 = ~Le paladin a raison. Nous devons tout faire pour que cesse ce commerce ignoble.~
+@534 = ~Je dois bien l'admettre, je n'aurais jamais pensé entendre de telles choses venant de vous. Qu'est-ce qui vous fait dire ça?~
+@535 = ~A chacun ses raisons, Keldorn. Nul n'a le droit de posséder quelqu'un d'autre.~
+@536 = ~L'esclavage est déjà suffisamment répugnant quand il s'agit d'adultes, mais là, des enfants? C'est abject. Ces gens n'ont-ils donc aucune limite? <CHARNAME>, nous devons mettre un terme à tout ça, une bonne fois pour toutes.~
+@537 = ~<CHARNAME>! Comment tu peux dire une chose pareille? Nous devons aider ces gens!~
+@538 = ~Et si jamais tu as encore besoin de notre aide, nous... je... serai heureuse de combattre à tes côtés. Sache-le bien.~
+@539 = ~Salopards d'esclavagistes! Je vais tous vous égorger comme des porcs que vous êtes!~
+@540 = ~Non, calme-toi, on ne te veut aucun mal. La voie est dégagée... tu es libre!~
+@541 = ~Si on ne t'avait pas secourue, la mort aurait sans doute été préférable à ce que ce genre d'hommes est capable de faire.~
+@542 = ~Parce que certains hommes ne sont que d'ignobles crapules. C'est l'ivresse du pouvoir--ils croient qu'ils ont le droit de traiter les gens, même des enfants, comme des marionnettes, et de s'en servir pour leurs plaisirs dégénérés. (frisson) Dis-toi qu'on a au moins sauvé cette petite fille; grâce à nous elle aura au moins une chance de vivre une vie normale.~
+@543 = ~Jaheira a raison--lui donner de quoi survivre, c'était la moindre des choses.~
+@544 = ~Je suis heureuse que tu aies aidé cette pauvre petite, même si je ne suis pas sûre qu'elle aura encore cet or dans sa poche d'ici ce soir. J'aurais aimé pouvoir faire davantage.~
+
+@545 = ~"Il était une fois une elfe au sang de démon,
+Qui n'avait que mépris pour filles et garçons,
+mais ensuite elle fut capturée, 
+puis s'échappa, brisée et blessée,
+Et depuis lors, à ses trousses toujours ils sont!"~
+@546 = ~Qu-quoi? D'où est-ce que tu sors ces absurdités?! Réponds-moi!~
+
+@547 = ~Sois prudent, <CHARNAME>. J'ai un mauvais pressentiment. Ce type est cinglé, c'est évident... s'il nous demande de faire quelque chose pour lui, ce ne sera sûrement pas d'aller lui faire ses courses.~
+
+@548 = ~Hé, vous, là! La fille avec la queue!~
+@549 = ~C'est pas moi! Je n'ai rien fait, d'ailleurs il n'y avait pas de témoin, alors vous ne pouvez pas prouver que c'était moi!!~
+@550 = ~Euh... oui, bon, d'accord. Vous voyez cette magnifique sphère, là? Elle est à vous pour à peine 500 pièces d'or!  Qu'est-ce que vous en dites?~
+@551 = ~Quoi? Vous vous fichez de moi! Tout le monde sait que les Mages Cagoulés veulent cette sphère pour eux. Je n'y toucherais même pas avec un bâton de dix mètres de long!~
+
+@552 = ~(sourire) Ce type est *génial*! Un vrai spectacle à lui tout seul! On peut le garder?~
+@553 = ~Ne te moque pas de ces malheureux! Ne vois-tu pas qu'ils ont perdu l'esprit? Tu devrais avoir honte!~
+
+@554 = ~Cette paume est bien étrange. Je vois un conflit très profond, ici... vous combattez votre vraie nature, et vous avez peur de perdre cette bataille.~
+@555 = ~Mais vous n'êtes pas seule, cependant. Il y a quelqu'un... quelqu'un qui vous aidera à affronter vos démons intérieurs. Vous ne vous perdrez pas de nouveau. Soyez confiante et laissez les choses se faire.~
+@556 = ~Je... j'espère que vous avez raison. Merci, en tout cas. (Elle vous jette un regard rapide)~
+@557 = ~Mais il y a une grande force en vous, même si vous ne la ressentez pas pour le moment. Apprenez à vous écouter--ne doutez plus! Ce qui semble faux au départ se révèlera bientôt être vrai.~
+@558 = ~Hmmm... nous verrons bien. Merci, en tout cas.~
+
+@559 = ~Fade! Tu es difficile à trouver. Le Maître des Ombres veut te voir immédiatement à son QG--il a une nouvelle tâche pour toi. Ne tarde pas!~
+@560 = ~Une nouvelle tâche? Je vois. <CHARNAME>, je suis désolée, je dois y aller. Quand le Maître des Ombres te convoque, il faut lui obéir.~
+@561 = ~Bien entendu, Fade. Nous y allons tout de suite.~
+@562 = ~Nous avons des choses plus importantes à faire ici. Aran peut sûrement attendre un peu?~
+@563 = ~Une fois de plus, Aran claque des doigts et toi tu accours. J'aurais espéré qu'avec les sentiments que tu as pour moi, c'était moi, désormais, ta priorité, et que tu serais de mon côté. Apparemment , j'avais tort.~
+@564 = ~Merci, <CHARNAME>. Je savais que je pouvais compter sur toi.~
+@565 = ~Aran a horreur d'attendre. Nous devrions aller voir ce qu'il nous veut aussi vite que possible. Je t'en prie, ça doit être important pour qu'il envoie des messagers me chercher!~
+@566 = ~D'accord, allons-y, on verra bien ce qu'il veut.~
+@567 = ~Non! Pas question que je continue à faire ses quatre volontés! Tu veux y aller Fade, très bien--mais je n'irai pas avec toi!~
+@568 = ~Mais bien sûr que je suis de ton côté! Je t'en prie, ne réagis pas comme ça, <CHARNAME>!  Ca doit être important pour qu'il envoie des messagers me chercher, tu sais. S'il te plaît... Allons-y et au moins voyons ce qu'il nous veut.~
+@569 = ~Alors tu ne me laisses pas le choix! Je dois y aller.~
+
+@570 = ~Ah, te voilà--je te remercie d'être revenue si vite. J'ai besoin que tu fasses quelque chose pour moi.~
+@571 = ~Oui, monsieur. Que désirez-vous que je fasse?~
+@572 = ~C'est une mission assez délicate, et qui nécessite un certain doigté. Cependant, <CHARNAME>, vous n'êtes pas tenu d'y participer, si vous n'en avez pas envie. C'est un travail pour Fade.~
+@573 = ~Si c'est un travail pour Fade, alors c'est aussi un travail pour moi. Dites-nous ce que vous attendez de nous.~
+@574 = ~Mais si Fade entreprend cette mission, elle ne fera plus partie de ma vie, et ça, il n'en est pas question. Quel est le but de la mission?~
+@575 = ~Vraiment? Je ne suis pas tenu d'y participer? Alors *ça*, c'est original.~
+@576 = ~Bien, dans ce cas, j'ai mieux à faire. A un de ces jours, Fade!~
+@577 = ~Très bien... il y a eu plusieurs agressions sanglantes, récemment, perpetrées par un ou plusieurs inconnus. Allez à l'Auberge des Cinq Chopes--vous y rencontrerez deux contacts qui vous donneront davantage de détails.~
+@578 = ~Je vois. Très bien... il y a eu plusieurs agressions sanglantes, récemment, perpetrées par un ou plusieurs inconnus. Allez à l'Auberge des Cinq Chopes--vous y rencontrerez deux contacts qui vous donneront davantage de détails.~
+@579 = ~<CHARNAME>... est-ce que tu veux dire que je dois me charger de cette mission toute seule et quitter le groupe?~
+@580 = ~Non, bien sûr que non! Ce que je voulais dire c'est que pour une fois, on ne m'oblige pas à aller régler les problèmes des autres! Bien sûr que je vais t'aider.~
+@581 = ~Ouais. J'ai mieux à faire. Désolé. Tu sais comment c'est.~
+@582 = ~Très bien, alors je me chargerai de cette mission toute seule. Au revoir, <CHARNAME>. Je pensais qu'il y avait un peu plus que ça entre nous. Visiblement je me trompais. Tu ne me reverras pas.~
+@583 = ~Bien, je vois que tu t'es enfin décidée à venir! Quand le Maître des Ombres te fait mander, Fade, tu ne le fais pas attendre! Que s'est-il passé?~
+@584 = ~Oui, monsieur. Je sais, monsieur, et je m'en excuse. Nous avons été retenus par différentes choses... Je suis vraiment, vraiment désolée. Maintenant que nous sommes ici, que désirez-vous que nous fassions?~
+@585 = ~Ce n'est pas une excuse. J'attends davantage de la part de mes voleurs! C'est une mission assez délicate, et qui nécessite un certain doigté--j'ai besoin de savoir si je peux compter sur toi. Cependant, <CHARNAME>, vous n'êtes pas tenu d'y participer, si vous n'en avez pas envie. C'est un travail pour Fade.~
+@586 = ~Ah, vous êtes venu, en fin de compte? J'avoue que j'ai été un peu surpris de voir Fade revenir seule--et je n'ai guère apprécié qu'elle me demande de patienter encore davantage pour voir si vous alliez la rejoindre! Quand il y a une tâche à accomplir, j'entends qu'elle soit accomplie sur le champ!~
+@587 = ~Oui, monsieur. Je sais, monsieur, et je m'en excuse, monsieur. Mais je ne savais pas si j'étais capable d'entreprendre cette mission sans l'aide de <CHARNAME>, et j'avais juste besoin d'un petit délai, le temps de voir s'il venait me rejoindre...~
+@588 = ~Est-ce que... est-ce que vous désirez lui exposer le problème, ou dois-je le faire?~
+@589 = ~Je vais le faire. C'est une mission assez délicate, et qui nécessite un certain doigté. Cependant, contrairement à Fade, vous n'êtes pas tenu d'y participer, <CHARNAME>, si vous n'en avez pas envie. C'est un travail pour elle.~
+
+@590 = ~Parlez à Darla.~
+@591 = ~Fade! Aran a dit qu'il t'envoyait t'occuper de cette histoire pour lui. C'est ton nouvel ami qui est là?~
+@592 = ~Bonjour! Je m'appelle Darla--Je suis une petite-personne, tout comme Ella que voici. Sauf qu'elle parle assez peu, ce que certains trouvent un peu étrange pour une petite-personne, mais dans notre village ça ne posait pas de problème vu qu'on avait peu de contact avec les grandes gens, sauf quand on les chassait, mais on ne fait plus ça... du moins, pas ici parce que les gens n'apprécient pas vraiment, mais en même temps vous les citadins vous faites la même chose avec les orques, et pourtant j'en ai rencontrés de vraiment *très* charmants, des orques, et comme...~
+@593 = ~Darla...~
+@594 = ~Hein? Oui, comme je le disais, on avait surtout des contacts avec des orques, au village. Il y avait quelques gnomes aussi, de braves gens, on avait monté une Oeuvre de Bienfaisance pour Petites-Personnes, avec eux... enfin, c'était plutôt une sorte d'Oeuvre de Bienfaisance pour Personnes de Petite Taille, même s'il y avait davantage de petites-personnes que de gnomes parmi les membres, mais les gens ont cru que c'était une couverture pour une Guilde de Voleurs! C'était un établissement honnête, la plus grande partie des stocks était obtenue par des moyens tout à fait honorables... Je veux dire, la moitié du temps, ces trucs n'étaient même pas utilisés, et c'est vraiment une honte de voir de bonnes choses se gâter et de devoir les jeter comme ça...~
+@595 = ~DARLA!! S'il te plaît tais-toi et écoute-moi--c'est important!~
+@596 = ~C'est toujours le problème avec les grandes gens--ils se croient toujours si importants!~
+@597 = ~Darla, je t'en prie, Aran a dit que tu avais des informations pour moi concernant ces inconnus. Il n'a pas voulu être plus précis, il a juste dit que c'était mieux que ce soit moi qui m'en occupe. Qu'est-ce qui se passe?~
+@598 = ~Bon... mais je n'en parle que parce que tu insistes, hein... mais en effet, il se passe des choses étranges. Des gens se font tuer et... et... et... ~
+@599 = ~Et... quoi? Quel est le rapport avec moi? Parle, Darla!~
+@600 = ~(soupir) Et... ils ont dit qu'un des assaillants avait de long cheveux rouges, et une queue. Ca te rappelle quelqu'un?~
+@601 = ~Quoi?! Ils disent que c'était moi?? Et d'abord, "ils", c'est qui?~
+@602 = ~Tu sais bien. Eux. On. Les gens. Et "ils" n'ont pas dit que c'était toi, je veux dire "toi, personnellement". Il n'y a que les gens qui te connaissent qui ont fait le rapprochement avec la description. Et on sait bien que ça ne peut pas être toi--ces choses se sont produites pendant que tu courais la campagne avec ton joli coeur, là. On ne sait pas du tout pourquoi ils font ça. C'est vraiment... bizarre, non?~
+@603 = ~Ca dépend. Il y a peut-être bien une raison, en fait. Mais j'espère vraiment que je me trompe.~
+@604 = ~Eh bien, la dernière fois qu'on a vu cette personne, c'était dans le district des Docks--du côté de la Guilde des Voleurs. Tu pourrais commencer à chercher par là. Bonne chance!~
+@605 = ~Ouais. Merci, Darla. A toi aussi, Ella.~
+@606 = ~Pas de problème. Fais attention à toi, d'accord?~
+@607 = ~Ella?! Mais c'était presque une conversation, dis-donc!~
+@608 = ~(soupir)~
+@609 = ~Vous n'êtes pas la personne que nous devions rencontrer, n'est-ce pas? Non, je ne pense pas!~
+
+@610 = ~Est-ce que je te connais? Non, je ne crois pas. Ma patience étant très limitée, je te suggère de partir avant que je ne décide de t'étriper comme le chien que tu es.~
+@611 = ~Tiens, tiens. Mais on dirait bien que ma soeur chérie est finalement réapparue.~
+@612 = ~Xek'ral... J'avais espéré que ce ne serait pas toi, mais j'imagine que ça devait finir par arriver.~
+@613 = ~Alors, ma chère soeur... j'avais fini par croire que tu étais bel et bien morte, mais non, te voilà qui réapparaît, comme un fruit gâté dans un dessert. Tu t'es bien amusée, toutes ces années loin de nous?~
+@614 = ~D'ailleurs, entre nous soit dit, je te vois là en bien piètre compagnie. Tsss, tsss. Voyager avec des inférieurs, non, mais on n'a pas idée.~
+@615 = ~Pour quelqu'un qui me croyait morte, tu n'as pas l'air tellement étonné de me voir! Et de quel droit tu te permets de critiquer  <CHARNAME> et ses compagnons?~
+@616 = ~Ahh, je vois qu'il te reste un peu de ta fureur abyssale--il y a peut-être encore un peu d'espoir, pour toi! Oui, Cirion nous a dit que tu étais morte, mais il faudrait être stupide pour croire un mot venant de cette vieille crapule.~
+@617 = ~Et d'ailleurs, quelqu'un m'a appelé "Fade" l'autre jour, et il me semble que c'était le surnom idiot que tu avais commencé à porter peu avant que tu ne partes. J'en ai conclu que tu n'étais pas morte. Quel dommage.~
+@618 = ~Cirion? Cirion est ici?? Où il est?! Pourquoi est-ce que vous êtes venus à Athkatla? Est-ce que vous allez me persécuter encore longtemps?!~
+@619 = ~Oh, voyons, reprends-toi un peu. Tu as toujours été si égocentrique. Ce n'est pas pour toi que nous sommes venus! Nous avons des choses bien plus importantes à faire. A vrai dire, te tuer ne sera qu'un petit bonus supplémentaire bien agréable. Adieu, ma chère soeur.~
+
+@620 = ~Te revoilà! Est-ce que tu as trouvé la personne? Est-ce que c'était bien celle à laquelle tu pensais? Le problème est réglé, alors? Comment ça, non? Mais alors, qu'est-ce que tu attends?~
+@621 = ~Salut mam'zelle! Tu es de retour! Est-ce que tu as trouvé la personne? Est-ce que c'était bien celle à laquelle tu pensais? Le problème est réglé, alors? Est-ce que tu--~
+@622 = ~Darla, ferme-la et jette un coup d'oeil à cette lettre. Qu'est-ce que tu comprends là-dedans?~
+@623 = ~Fade, c'est du sérieux, là! Je veux dire... ces types, ils n'ont pas l'air de plaisanter, hein?~
+@624 = ~J'ai bien peur que non. Tu es plutôt douée pour les énigmes. Où est-ce que tu commencerais à chercher, toi?~
+@625 = ~"Les entrailles de la cité..." Ca, ça pourrait être n'importe où, hein? Il y en a, des endroits où on peut se cacher...~
+@626 = ~Les égouts.~
+@627 = ~Je crois qu'Ella a raison. Ce serait assez logique de commencer par là. Fais bien attention à toi, d'acc'?~
+@628 = ~Eh bien, je crois qu'on ne peut plus rien pour vous, alors bonne chance. Nous, on s'en va!~
+
+@629 = ~Salut, Roger. Par hasard, tu n'aurais pas vu passer des gens bizarres dans le coin récemment?~
+@630 = ~Ahh! Si, en effet! Il y a bien un groupe d'invididus du genre pas courant qui sont passés par ici il n'y a pas longtemps. Je voulais leur proposer quelques-uns de mes meilleurs articles, mais quand j'ai vu leur chef, j'ai vite changé d'avis... une vraie tête d'assassin, celui-là!~
+@631 = ~Dans quelle direction ils allaient?~
+@632 = ~Eh bien, ils ont pris par l'entrée nord-ouest, vers les niveaux inférieurs.~
+@633 = ~Merci, Roger. Tu as été très utile.~
+
+@634 = ~Est-ce que quelqu'un d'autre est passé par ici récemment?~
+@635 = ~Oui, un groupe de gens terribles! Michel est allé leur parler, pour les prévenir des dangers qui les attendaient, et... et ils l'ont tué. Ils ne sont pas repassés par ici--soit ils sont morts, soit ils sont toujours en bas. Si vous voulez mon avis, vous feriez bien de les éviter!~
+@636 = ~Je ne pense pas que nous aurons le choix, mais merci de votre conseil.~
+@637 = ~Mais... mais que venez-vous chercher ici, Seigneur?~ ~Mais... mais que venez-vous chercher ici, ma Dame?~
+@638 = ~Je vous ai dit tout ce que je savais! Je vous en prie... ne nous faites pas de mal.~
+
+@639 = ~Voilà qu'on nous dérange de nouveau. Je vous préviens, quittez cet endroit sur le champ, ou bien votre mort sera lente et douloureuse.~
+@640 = ~Voilà qu'on nous dérange de nouveau. Très bien, de toute façon nous manquons un peu d'exercice, ces temps-ci, alors...~
+@641 = ~Bonjour, Cirion. Ca faisait longtemps.~
+@642 = ~Quoi? Kher'tal? Eh bien, ça faisait longtemps, en effet! Ton cher frère Xek'ral pensait bien que tu étais dans les parages--dire que je l'ai traité d'imbécile! Et te voilà, en chair et en os... comment vas-tu?~
+@643 = ~Comment je vais? COMMENT JE VAIS?!? Tu m'as vendue comme ESCLAVE, espèce de salopard!!~
+@644 = ~Oh oui, c'est exact. Ma foi, il fallait bien que je gagne un peu d'argent, pas vrai? Ca ne t'a pas vraiment plu d'avoir à obéir, si je comprends bien? Le reste ne devait pas te déranger beaucoup, par contre... la position couchée, c'était plutôt ton style. "Coucher d'abord, tuer ensuite", c'était ton truc, si je me rappelle bien.~
+@645 = ~De tout façon, ton apparition soudaine est sans importance. Ce n'est pas pour toi que nous sommes ici--nous avons un objectif bien plus important. Alors emmène donc tes... ah, et en plus tu voyages avec des inférieurs, maintenant... eh bien, prends donc tes "gens" et allez-vous en.~
+@646 = ~Je n'irai nulle part, et tu le sais! Tu vas payer, Cirion!~
+@647 = ~MOI, je vais payer? Tu fais preuve d'un certain courage, Kher'tal, mais--~
+@648 = ~NE M'APPELLE PAS COMME CA!! Je ne suis PLUS Kher'tal! Tu as tout fait pour ça! Tu m'as volé ma vie sans le moindre remords, tu t'es débarrassée de moi comme d'un vulgaire détritus! Si tu crois que je vais te laisser vivre après ça, tu te trompes lourdement!~
+@649 = ~Je te préviens, Kher'tal, je ne suis pas d'humeur à supporter tes caprices et ta stupidité. Nous sommes venus chercher le Sceptre des Failles, et ce n'est pas toi qui vas nous arrêter.~
+@650 = ~Ha! Vous êtes venus chercher le Sceptre? Eh bien c'est trop tard! Il n'existe plus, il a été détruit par <CHARNAME> ici présent!~
+@651 = ~QUOI?!? Ca ne peut pas être vrai...~
+@652 = ~Et pourtant c'est vrai! Alors, qu'est-ce que tu vas faire, maintenant?!~
+@653 = ~Tu ne me laisses pas le choix...~
+@654 = ~Le Sceptre? Tu es fou? Il va vous détruire!~
+@655 = ~J'en doute--Rappelle-toi d'où nous venons! Il détruirait peut-être les êtres inférieurs, mais nous, nous sommes assez puissants pour l'utiliser!~
+@656 = ~Dans ce cas, raison de plus pour te tuer!~
+@657 = ~Alors viens!~
+
+@658 = ~Déjà de retour, Fade?~
+@659 = ~Espèce de salaud! Vous le saviez!! Vous saviez que c'était ma famille!! Pourquoi vous ne me l'avez pas dit?!~
+@660 = ~Fade, lâche-moi immédiatement! Oui, je le savais--c'est pour ça que que c'est toi qui devais t'en charger! Je ne pouvais envoyer personne d'autre--ils n'auraient pas eu l'ombre d'une chance. Il fallait que j'envoie quelqu'un qui les connaissait bien!~
+@661 = ~Alors vous m'avez manipulée, encore une fois! Mais d'ailleurs, en quoi ça vous concernait, cette affaire?~
+@662 = ~Les aléas de la politique. Parfois, il est préférable que certaines affaires non-officielles soient réglées de façon non-officielle également. Le Conseil en est bien conscient, et la survie de notre Guilde en dépend. Je ne m'attends pas à ce que tu comprennes ça.~
+@663 = ~Vous avez raison, je ne comprends pas! Mais sachez que plus jamais vous ne vous servirez de moi comme ça, Aran, plus jamais!~
+@664 = ~Qu'est-ce que je dois comprendre?~
+@665 = ~Je... je quitte les Voleurs de l'Ombre, Aran. Immédiatement. Et définitivement.~
+@666 = ~(rire) Parce que tu crois que c'est si facile? Tu ne peux pas partir comme ça, Fade. Nous ne sommes pas un petit groupe d'amis que tu peux quitter quand tu en as envie!~
+@667 = ~Elle vient de dire qu'elle voulait partir, Aran, et vous ne pouvez pas l'en empêcher. Elle a supporté beaucoup de choses dans sa vie, et là elle a décidé qu'elle en avait assez. Laissez-la partir.~
+@668 = ~Il a raison, Fade. Tu le savais quand tu as rejoint les Voleurs de l'Ombre. Tu ne peux pas décider de t'en aller comme ça.~
+@669 = ~De quel droit me parlez-vous sur ce ton? Vous voulez la voir quitter la guilde pour qu'elle puisse vous accompagner aux quatre coins du pays! Je ne peux pas tout simplement la laisser partir comme ça!~
+@670 = ~Oh que si vous pouvez, et vous allez la laisser partir, même s'il faut que je vous tue pour ça!~
+@671 = ~Je la veux avec moi parce que je l'aime, Aran! Pour vous elle n'est rien de plus qu'un outil bien pratique, mais elle représente tout pour moi. Je voudrais la voir heureuse, pour changer. Laissez la partir!~
+@672 = ~<CHARNAME>, tu ne vas même pas me soutenir? Je... je n'y arriverai pas sans ton aide!~
+@673 = ~Je suis un homme raisonnable, Fade. Tu peux continuer à voyager avec <CHARNAME>, mais tu resteras sous mes ordres. Et ce n'est pas négociable. Bonne journée.~
+@674 = ~Alors une fois de plus, je n'ai pas le droit de décider de ma propre vie. <CHARNAME>... j'avais espéré que tu serais de mon côté, au nom des sentiments que tu éprouves pour moi. J'avais tort. Rien ne sera plus jamais pareil entre nous, maintenant.~
+@675 = ~Vous osez me menacer? Vous ne sortirez pas d'ici vivant.~
+@676 = ~<CHARNAME>, non! Je ne veux pas que ça se passe comme ça! S'il vous plaît, Aran... je vous en prie... laissez-moi m'en aller. Je ne peux plus rester ici. J'ai besoin d'être auprès de <CHARNAME>.~
+@677 = ~Tu as "besoin" d'être auprès de lui? Hmmm. J'avais entendu dire qu'il y avait quelque chose entre vous, mais je vois que c'est bien plus que ça. Fade, comprends-moi--si je te laissais partir, c'est toute ma guilde que je mettrais en danger!~
+@678 = ~Je ne vous trahirai jamais, Aran! Vous avez été bon avec moi, mais je dois suivre ma propre voie, vivre ma propre vie! Depuis bien trop longtemps, je n'ai fait qu'obéir à des décisions prises par d'autres!~
+@679 = ~Et si tu pars avec <CHARNAME>, c'est à lui que tu devras obéir! Où est la différence?~
+@680 = ~Oui, je le sais. Mais il y a quand même une grande différence: lui, je l'aime. Ca change tout.~
+@681 = ~(soupir) Je vois. De toute façon, tu partiras quoi que je dise, et je serai forcé de te poursuivre. J'aime autant te laisser partir, avec ma bénédiction. <CHARNAME>... veillez sur elle.~
+@682 = ~V-vous voulez dire que...~
+@683 = ~Oui, tu peux partir. Mais si j'apprends que tu nous as trahis d'une façon ou d'une autre, je te traquerai. Est-ce que je me suis bien fait comprendre?~
+@684 = ~Parfaitement! M-merci, Aran.~
+@685 = ~Vous l'aimez? Hmmm. J'avais entendu dire qu'il y avait quelque chose entre vous, mais je vois que c'est bien plus que ça. Fade, comprends-moi--si je te laissais partir, c'est toute ma guilde que je mettrais en danger!~
+
+@686 = ~Vous vous tournez vers Fade, la fascinante Fey'ri, votre compagne de voyage qui désormais tient une si grande place dans votre coeur. Elle regarde l'escalier avec appréhension, et vous la sentez inquiète, et même effrayée, mais avant que vous ne puissiez ouvrir la bouche, elle porte votre main à ses lèvres et y dépose un baiser.~
+@687 = ~Je te mentirais en disant que je ne suis pas terrifiée... mais je ne te laisserai pas affronter cette épreuve tout seul. Non seulement à cause de tout ce que tu as fait pour moi, mais surtout à cause de tout ce que tu *es* pour moi--mon coeur et mon âme, ce que j'ai de plus cher.~
+@688 = ~Je veux que tu saches que je t'aurais accompagné jusqu'aux limites de Féerune et même au-delà, rien que pour être avec toi, rien que pour t'aider. Allons affronter Irenicus. Allons reprendre ton âme!~
+@689 = ~Vous vous tournez vers Fade, la fascinante Fey'ri, votre compagne de voyage qui a tellement changé depuis votre première rencontre. Elle regarde l'escalier avec appréhension, et vous la sentez inquiète, et même effrayée.~
+@690 = ~Fade, ce n'est pas ton combat. Rien ne t'oblige à me suivre.~
+@691 = ~Voilà, nous y sommes. Je dois savoir que je pourrai compter sur toi le moment venu. Tu es sûre de vouloir aller jusqu'au bout?~
+@692 = ~Tu peux encore renoncer, Fade. Je ne t'en voudrai pas si tu préfères retourner chez les Voleurs de l'Ombre.~
+@693 = ~C'est mon combat tout autant que le tien, <CHARNAME>... je ne me vois pas t'abandonner maintenant. Allons affronter Irenicus. Allons reprendre ton âme!~
+@694 = ~(Elle hésite une seconde) Oui, j'en suis sûre. On est arrivés jusqu'ici... ce n'est pas pour t'abandonner maintenant. Allons affronter Irenicus. Allons reprendre ton âme!~
+@695 = ~Mais si je t'abandonnais maintenant, je ne me le pardonnerais jamais. Ce n'est même pas la peine d'y penser, <CHARNAME>! Allons affronter Irenicus. Allons reprendre ton âme!~
+
+@696 = ~Que... qu'est-ce qui s'est passé? Je... j'ai senti que tu m'appelais, et j'ai su que je devais te suivre, que je ne pouvais pas partir, mais... oh non. Tu sais où on est? On est en Enfer! Mon sang va se réveiller ici, <CHARNAME>... je ne veux pas ressentir ça de nouveau! Trouvons un moyen de sortir d'ici, et vite.~
+@697 = ~Que... qu'est-ce qui s'est passé? <CHARNAME>, mon amour... est-ce que tu vas bien? Où es-tu?! Je... j'ai senti que tu m'appelais, et j'ai su que je devais te suivre, que je ne pouvais pas partir, mais... oh non. Tu sais où on est? On est en Enfer! Mon sang va se réveiller ici, <CHARNAME>... je ne veux pas ressentir ça de nouveau! Trouvons un moyen de sortir d'ici, et vite.~
+
+@698 = ~Alors tu croyais pouvoir échapper à ton destin, Irenicus? Je te pensais moins stupide! Les miens sont considérés comme des traîtres par le reste de la communauté elfique, et pourtant jamais ils n'auraient fait ce que tu as fait! Et maintenant te voilà en Enfer. Ca ne peut se terminer que d'une seule façon. Tu vas rester ici et y POURRIR!!~
+
+@699 = ~Nous n'avons jamais caché nos intentions! Le Maître des Ombres voulait simplement débarrasser Athkatla de ton engeance maléfique. Pourquoi se priver de l'aide de <CHARNAME> alors que ses objectifs sont les mêmes que les nôtres?~
+@700 = ~Alors tu es très naïve, et, il faut bien le dire, complètement stupide. Il y a évidemment bien plus que ça, une motivation secrète dont ton précieux Maître des Ombres s'est bien gardé de te parler. Une sage décision, vu que tu sembles incapable de tenir ta langue.~
+@701 = ~Jamais nous n'avons caché nos intentions! Le Maître des Ombres voulait simplement débarrasser Athkatla de ton engeance maléfique. Pourquoi se priver de l'aide de <CHARNAME> alors que ses objectifs sont les mêmes que les nôtres?~
+@702 = ~Pour ton information, les "employeurs" de <CHARNAME> n'ont pas d'autres intentions que celles qu'ils ont déjà annoncées! Le Maître des Ombres voulait simplement débarrasser Athkatla de ton engeance maléfique. Pourquoi se priver de l'aide de <CHARNAME> alors que ses objectifs sont les mêmes que les nôtres?~
+
+@703 = ~Oh que oui tu as une invitée! Même qu'elle t'embrochera volontiers au bout de son épée si l'occasion se présente. Laisse cette malheureuse fille tranquille!~
+@704 = ~Et tu crois pouvoir me donner des ordres, à *moi*? qui es-tu, l'homme? Où sont ces imbéciles de gardes?~ ~Et tu crois pouvoir me donner des ordres, à *moi*? qui es-tu, femme? Où sont ces imbéciles de gardes?~
+
+@705 = ~Si c'était un cas de vampirisme, je pourrais vous être utile, mais ceci... ceci est tout à fait différent. Allez parler au frère là-bas; il pourra peut-être vous aider.~
+
+@706 = ~Ca m'étonnerait... je n'ai jamais été du genre à faire les choses en douceur.~
+
+@707 = ~Allez... Je suis sûre qu'on peut trouver un... arrangement?~
+@708 = ~Un arrangement? Et... à quel genre d'arrangement tu penses, ma jolie?~
+@709 = ~Du genre pas compliqué. Tu nous laisses entrer, et moi je te montre à quel point je peux être... reconnaissante...~
+@710 = ~Fade, non! Je sais que tu as dû utiliser ce genre de... méthodes par le passé, mais tu n'as plus besoin de faire ça. Il y a d'autres moyens!~
+@711 = ~Ca, c'est une bonne initiative--ça va rendre les choses beaucoup plus facile! Essaie quand même de faire vite, d'accord?~
+@712 = ~Mais... j'essayais simplement de t'aider, <CHARNAME>. Je pensais que ce serait le meilleur moyen d'obtenir une audience. Tu crois que ça ne marchera pas?~
+@713 = ~Bien sûr que si, au contraire, ou alors c'est qu'il est aveugle, mais je ne laisserai jamais des types comme lui poser leurs sales pattes sur toi, même pour rendre les choses plus faciles.~
+@714 = ~Peu importe, ce n'est pas le problème. Je ne te laisserai pas te prostituer de cette façon, certainement pas.~
+@715 = ~Ca m'étonnerait. Les types comme ce Seigneur Pirate et ses hommes doivent avoir des tas de jolies filles qui défilent dans leur lit. Une de plus, ça ne changera pas grand'chose.~
+@716 = ~En fait j'avais l'intention de l'entraîner dans un coin et de lui filer un bon coup sur la tête, <CHARNAME>--J'ai tout de même un minimum d'amour-propre!~
+@717 = ~Je croyais vous avoir dit de ficher le camp! Pas la peine de rôder dans le coin en essayant de négocier le droit d'entrer contre une jolie donzelle, ça ne marchera pas. Comme je vous l'ai dit, vous devez prendre un rendez-vous!~
+@718 = ~C'est... très gentil de ta part, <CHARNAME>. J'essayais juste de t'aider, tu sais. J'espère que... je n'ai pas trop baissé dans ton estime.~
+@719 = ~C'est très noble de ta part, <CHARNAME>. En fait j'avais l'intention de l'entraîner dans un coin et de lui filer un bon coup sur la tête. Mais... merci, en tout cas. (sourire)~
+@720 = ~Ben merci, <CHARNAME>. Une fille ne risque pas d'avoir les chevilles qui enflent, avec toi. Encore une fois, je n'arrive pas à décider si c'était un compliment ou une insulte!~
+
+@721 =~Elhan! Regardez ça, c'est le corps à demi-vampirisé de Fade, et c'est à cause de vous! Alors, j'attends!~
+
+@722 = ~Je comprends pourquoi tu poses cette question, mon enfant, mais je m'étonne que tu n'aies pas déjà deviné; il y en a pourtant une près de toi à qui les plans ne sont pas étrangers. (Elle sourit à Fade)~
+@723 = ~Nous venons tous de pays lointains et notre ascendance est multiple. Dites-moi, mon ami... nous aiderez-vous?~ ~Nous venons tous de pays lointains et notre ascendance est multiple. Dites-moi, mon amie... nous aiderez-vous?~
+
+@724 = ~Oh-oh... ça ne sent pas bon, tout ça. Qui pourrait bien se donner tant de mal pour t'impliquer dans le massacre de ces chevaliers? Je crois qu'il va falloir un peu plus qu'un sourire d'excuse et quelques courbettes pour nous tirer de ce traquenard.~
+
+@725 = ~Missy, on a la même discussion chaque fois que je viens ici. Est-ce que tu vois un manteau, sur moi? Est-ce que tu m'as déjà vu porter un manteau? Et de toute façon, qu'est-ce que tu voudrais que j'en fasse, de tes manteaux?! Personne n'en veut, de tes manteaux à la noix! La seule raison pour laquelle les jeune recrues viennent faire les poches ici, c'est pour te faire tourner en bourrique! Alors maintenant calme-toi!~
+
+@726 = ~Moi je vous le dis, c'est un vrai miracle s'il reste quelques recrues à Aran après que cette sadique en a fini avec eux...~
+
+@727 = ~Avez-vous accompli votre mission? Non, je ne crois pas. Allez-y et revenez me voir quand ce sera fait.~
+@728 = ~Très bien, Aran, c'est ce que je vais faire.~
+@729 = ~Il y a quelque chose d'autre dont j'aimerais vous parler.~
+@730 = ~Ah... à propos de votre petit voyage en mer? J'avoue qu'après vous avoir vu partir sur le vaisseau de Saemon, je n'étais pas certain que vous atteindriez l'île, sans même parler d'en revenir.~
+@731 = ~Le moment est assez mal choisi pour une discussion, <CHARNAME>. Laissez-moi, maintenant... allez au cimetière et entrez dans les catacombes dès que vous serez prêts. Mes meilleurs assassins vous y attendront, et j'espère qu'ils suffiront à la tâche. Maintenant, j'ai des préparatifs à faire, alors si vous voulez bien m'excuser... ~
+@732 = ~Il n'y a rien à discuter, <CHARNAME>. Je vous ai indiqué ma décision. Tuez Bodhi, mais vous devrez vous passer de mon aide... et après nous serons quittes. Maintenant quittez cet endroit sur le champ.~
+@733 = ~Que voulez-vous donc? Bodhi est morte, n'est-ce pas? Soit dit en passant, <CHARNAME>, je suis extrêmement satisfait. Tous les Voleurs de l'Ombre vont pouvoir pousser un grand soupir de soulagement. Du travail bien fait.~
+
+@734 = ~Aux dernières nouvelles, jeune fille, c'est encore moi la spécialiste des pièges et de l'entraînement, ici. Maintenant ouste, du balai!~
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,173 @@
+@1 = ~Fade: Un PNJ pour Baldur's Gate II~
+@2 = ~Fade~
+@3 = ~Quand vous interrogez FADE, la mystérieuse et fascinante Fey'ri, à propos de son passé, elle vous répond simplement qu'elle appartient aux Voleurs de l'Ombre depuis un peu plus de trois ans, après qu'Aran Linvail l'eut trouvée vivant au jour le jour dans le district des Docks. Elle refuse d'en dire davantage, et le regard de défi qu'elle vous lance, tout comme sa queue qui s'agite furieusement, vous dissuadent d'insister plus avant.~
+@4 = ~Parchemin déchiré~
+@5 = ~Ce parchemin a été très endommagé au cours de la lutte à laquelle vous avez assisté; il est déchiré et partiellement illisible. Vous ne parvenez à déchiffrer que ces quelques bribes de phrases:
+
+...la garce démoniaque est bien à Athkatla en fin de compte. Je ne vais pas...même si elle se cache d...attention--elle voyage...Bhaa...mmener à la Demeu...Temple...organiserai l'expédition dès que j'aurai reçu votr...ne tardez pas...me fasse rouler!
+
+D
+~
+@6 = ~Silhouette Encapuchonnée~
+@7 = ~Mallon~
+@8 = ~Contrat d'esclavage~
+@9 = ~C'est un contrat de vente pour "un (1) démon femelle". Suit une description sommaire mais correcte de Fade.~
+@10 = ~Peut-être qu'on ferait mieux de partir... Tout de suite!~ [E3FADE01]
+@11 = ~Oh, c'est adorable... Merci mille fois.~ [E3FADE02]
+@12 = ~OK, moi, je suis vannée... il faut que je me repose.~ [E3FADE03]
+@13 = ~Oh allez! Virons tout ça, les gars!~ [E3FADE04]
+@14 = ~Allez, on se les fait!~ [E3FADE05]
+@15 = ~Ha! Et c'est pas fini!~ [E3FADE06]
+@16 = ~C'est trop facile!~ [E3FADE07]
+@17 = ~Tu t'attaques à trop gros pour toi, bonhomme.~ [E3FADE08]
+@18 = ~~ [E3FADE09]
+@19 = ~Ce n'était pas censé se terminer comme ça... ~ [E3FADE10]
+@20 = ~Ah! Ca ne va pas du tout... J'ai besoin de soins, et vite!~ [E3FADE11]
+@21 = ~Oui?~ [E3FADE12]
+@22 = ~Mais oui, bien sûr que je peux faire ça.~ [E3FADE13]
+@23 = ~Mmm...oui.~ [E3FADE14]
+@24 = ~Ha-ha!~ [E3FADE15]
+@25 = ~Bon sang!~ [E3FADE16]
+@26 = ~Ca...marche...d'habitude... Bah! Il me faut une meilleure arme!~ [E3FADE17]
+@27 = ~Non, je transporte déjà bien trop de cochonneries inutiles. Il faut que j'en vire une partie.~ [E3FADE18]
+@28 = ~Mes charmes ont plus d'effet que ça, d'habitude.~ [E3FADE19]
+@29 = ~Mme Linvail~
+@30 = ~Corps de Fade~
+@31 = ~Fade a été capturée par Bodhi et exposée au vampirisme. Elle gît maintenant dans une transe profonde. Il existe peut-être un moyen de la ramener à la conscience, mais vous ignorez lequel.~
+@32 = ~Croc de Firkraag~
+@33 = ~Un des crocs de Firkraag s'est brisé. Vous y jetez un coup d'oeil, et vous avez la nette sensation qu'il recèle un quelconque pouvoir latent. Sans bien pouvoir vous l'expliquer, vous savez que vous devez le conserver--son utilité se révèlera sans doute le moment venu.~
+@34 = ~Le Démon-Fade~
+@35 = ~Fade gît dans un état d'extrême faiblesse après votre combat contre l'esprit démoniaque qui la possède toujours. Il vous faut trouver d'urgence un moyen de la ranimer.~
+@36 = ~Amulette de Fade~
+@37 = ~Cette amulette a été donnée à Fade par le Maître des Ombres pour l'aider dans sa mission d'espionnage de la guilde rivale des Voleurs de l'Ombre.
+
+PARAMETRES
+
+Quand portée:
+Protection contre le Plan Négatif
+Protection from le Mal
+Immunité aux Charmes
+
+Utilisable by:
+Fade~
+@38 = ~Cette amulette a été offerte à <CHARNAME> par Fade pour le protéger des différentes formes d'attaque des vampires.
+
+PARAMETRES
+
+Quand portée:
+Protection contre le Plan Négatif
+Protection from le Mal
+Immunité aux Charmes
+
+Utilisable par:
+Fade
+<CHARNAME>~
+@39 = ~Lettre de Cirion~
+@40 = ~Je pense que nous avons localisé l'objet. S'il est réellement aussi puissant qu'on le prétend, la Comtesse en sera sûrement très satisfaite. Etablissez une base sûre quelque part, et ensuite venez nous rejoindre dans les entrailles de la cité. Tuez tous ceux qui vous barrent la route, mais restez discrets. Etre découverts à ce stade ne ferait que nous créer davantage de problèmes. Une fois que nous aurons l'objet, vous pourrez épancher tout à loisir votre soif de sang.
+
+Cirion
+~
+@41 = ~Messager des Voleurs de l'Ombre~
+@42 = ~Darla~
+@43 = ~Ella~
+@44 = ~Xek'ral~
+@45 = ~Cirion~
+@46 = ~Savanya~
+@47 = ~Jekh'ril~
+@48 = ~Sume~
+@49 = ~Eriale~
+@50 = ~Taeghen~
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "

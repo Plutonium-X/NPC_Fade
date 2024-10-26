@@ -1,0 +1,827 @@
+@1 = ~If we are to make any headway, this rival guild must be destroyed, or at least subdued. And you, <CHARNAME>, will have to bear the brunt of that.~
+@2 = ~To that end, I have another offer to make. This is Fade, and she is one of my finest sneaks. She wishes to help you, and I have agreed to her request... if you want her help, that is.~
+@3 = ~And why would she wish to do that?~
+@4 = ~Why would I want one of your spies in my group, Aran? I have no doubt this is a ploy of yours to keep an eye on me.~
+@5 = ~I am grateful for the offer, Aran, but I have enough travelling companions and have no wish for any more. Sorry.~
+@6 = ~Maybe I should answer that myself.~
+@7 = ~(An unusual-looking elf with crimson hair emerges from the shadows. As she steps closer to you, you notice that her eyes are as red as her hair, and to your surprise, you see she has a tail. She glances at Aran, who nods, and then inclines her head to you, but she does not smile)~
+@8 = ~Aran has recently charged me with uncovering all I can about this rival guild... and since he has charged you with the same task, I thought it prudent that we should join forces.~
+@9 = ~I also saw the battle at Waukeen's Promenade... in fact, I was the only survivor from my guild. I saw the Cowled Wizards take your friend, something that I find... distasteful.~
+@10 = ~So although my first loyalty is to Aran in bringing down our rivals, I would also like to help you recover your friend. I petitioned Aran to allow me to join you for these reasons. If you are willing to have me, of course.~
+@11 = ~Fair enough, you may join. But I must tell you that although I am now bound to discover all I can about this rival guild, *my* first loyalty lies with rescuing my friend Imoen from the Cowled Wizards.~
+@12 = ~Fair enough, you may join with me. But I must inform you that although I am working with Aran to uncover this rival guild, *my* first loyalty is to pursue the mage Irenicus and make him pay for all he has done to me.~
+@13 = ~I am grateful for the offer, Fade, but I have enough travelling companions and have no wish for any more. Sorry.~
+@14 = ~Although your insight into this rival guild may be useful, I cannot in good conscience allow a Shadow Thief into my party. It rankles me enough that I have to be involved in such shadowy dealings, and I do not wish to entrench myself in this organisation. I am sorry.~
+@15 = ~While she would still be under my command, <CHARNAME>, I assure you that Fade wishes to do this herself--I have not forced her in any way. She approached me, and I agree that you may find her skills very useful. Your story has... touched her, you see.~
+@16 = ~Touched her? What do you mean by that?~
+@17 = ~Fair enough then. I will accept her into the party.~
+@18 = ~Thank you for giving me the chance, <CHARNAME>. You will not be disappointed.~
+@19 = ~But you must understand that although I am now bound to discover all I can about this rival guild, my first loyalty lies with rescuing my friend Imoen from the Cowled Wizards.~
+@20 = ~But I must inform you that although I am working with Aran to uncover this rival guild, my main goal is to pursue the mage Irenicus and make him pay for all he has done to me.~
+@21 = ~Although I am grateful for the offer, I am afraid I have enough travelling companions and have no need of any more. Sorry.~
+@22 = ~I understand, <CHARNAME>. If you change your mind, however, she will be here.~
+@23 = ~I understand, <CHARNAME>, and I wish you well. But if you do change your mind, you will find me here.~
+@24 = ~I was there during the battle at Waukeen's Promenade, and I saw the Cowled Wizards take your friend. Let us say that I can sympathise with your situation, <CHARNAME>, and leave it at that.~
+@25 = ~Aran has charged me with uncovering all I can about the rival guild, and since he has given you the same task, it makes sense that we join forces. So, what say you?~
+@26 = ~I understand perfectly, <CHARNAME>. Just speak to me again once Aran is done briefing you. I will be ready to leave when you are.~
+@27 = ~I trust all that is settled? Now then. To continue with the business at hand.~
+@28 = ~Very well. Now, to continue with the business at hand.~
+
+@29 = ~You rush to the portal, only to have it close just as you reach it. Lying on the ground is your only clue to what happened--a partially torn piece of parchment.~
+@30 = ~I'm here to get Fade back, you slaving bastards!~
+@31 = ~Ah. So, it is you. We wondered when you would turn up. No matter. You will be dealt with soon enough.~
+@32 = ~Finally. Fade. It's been hard work tracking you down. You've quite lived up to your name... until lately, that is. Really, if you wanted to stay hidden, you shouldn't have taken up with such... highly visible company.~
+@33 = ~You've been tracking me down? Who are you, and what do you want with me?~
+@34 = ~Suffice to say that I am a retriever of other people's property. For a fee, of course. You did leave town rather abruptly the last time. I'm afraid that upset quite a few people.~
+@35 = ~What? How did you--~
+@36 = ~How did I find out? That's really not important. All you need to know is that I have been tasked with bringing you in.~
+@37 = ~Now, will you cooperate, or shall we be forced to resort to... force?~
+@38 = ~(chuckle) Tell her to make it the second one, Mallon... I like 'em with a bit of fight.~
+@39 = ~Never! I'll never let you take me in! Never!~
+@40 = ~I thought it might be something like that. Unfortunately, or fortunately in our case, the choice is not up to you.~
+@41 = ~Off we go now, girlie.~
+@42 = ~Let me go, you filthy-- <CHARNAME>, help me!~
+@43 = ~Fade abducted.
+
+Fade has been kidnapped, teleported away by a man called Mallon and his accomplices. The only clue to their location is a tattered piece of parchment one of the kidnappers dropped. From what I can make of the message, the Temple District would be the best place to start looking.~
+
+@44 = ~Halt! Who goes there?~
+@45 = ~<CHARNAME> goes here! I have come for Fade!~
+@46 = ~No one of consequence. Nice place you've got here, though your hospitality needs some work.~
+@47 = ~I think you know exactly who I am and why I'm here. Now move aside or be moved.~
+@48 = ~Fade? So you must be the Bhaalspawn keeper she keeps mentioning. Well, I'm sorry, <CHARNAME>, but I'm only retrieving my master's property. It's all here, on this piece of parchment. She belongs to him, and there is nothing you can do about it.~
+@49 = ~Wrong. I can kill you, for a start.~
+@50 = ~Indeed? Then I'll buy her contract from you.~
+@51 = ~You heartless bastard! Fade doesn't "belong" to anyone!~
+@52 = ~Fair enough, although I think you should pay *me* for keeping hold of your property. Otherwise I could just kill you, take the merchandise, and sell her for a profit anyway.~
+@53 = ~What? What do you mean? You come in here, slaughter my associates, and then comment on how *nice* it is in here? What do you really want?~
+@54 = ~I think you know exactly why I'm here. Now step aside, or I'll be forced to teach you the same lesson I taught your "associates".~
+@55 = ~What do I really want? Fade. NOW.~
+@56 = ~Me? Nothing. I'll be going now.~
+@57 = ~Good, and good riddance. Remember, this is private property. The next time you trespass here, I will not be so lenient.~
+@58 = ~Ahhh... so you must be the Bhaalspawn keeper the fiendling keeps mentioning. Well, I'm sorry, <CHARNAME>, but I'm only retrieving my master's property. It's all here, on this piece of parchment. She belongs to him, and there is nothing you can do about it.~
+@59 = ~You'd... buy her from me? How much are we talking here?~
+@60 = ~500 gold. Anything to avoid a fight.~
+@61 = ~1000 gold. I don't want to fight.~
+@62 = ~2000 gold. She's worth it.~
+@63 = ~No, I've changed my mind. I'm going to have to kill you to get her back.~
+@64 = ~That's where you're wrong. If you take her from me, you're stealing from the Pasha... and he will not take too kindly to that.~
+@65 = ~What if I buy her contract? Would that suffice?~
+@66 = ~So be it! Prepare to die!~
+@67 = ~(He eyes your weapons, and appears visibly discomfitted) All right. How much would it take for you to let me leave here with the fiendling, unchallenged?~
+@68 = ~500 gold should do it.~
+@69 = ~1000 gold should suffice.~
+@70 = ~Nothing less than 2000 gold, I'm afraid.~
+@71 = ~That's not enough, I'm afraid. You'll have to offer more than that.~
+@72 = ~Okay, how about 1000 gold? I don't want to fight.~
+@73 = ~Okay, how about 2000 gold? She's worth it.~
+@74 = ~Sorry, I'm not prepared to offer more. I guess I'm going to have to kill you to get her back.~
+@75 = ~No... I'm sorry. She's quite an exotic specimen, and the Pasha was very proud of having her in his collection. You'll have to offer more than that.~
+@76 = ~Okay, how about 2000 gold? That's my final offer.~
+@77 = ~2000 gold? Well, well. In that case... deal. She's yours.~
+@78 = ~(grin) You have yourself a deal.~
+@79 = ~(He looks thoughtful for a moment, but then as you rest your hand on the hilt of your weapon, he nods) All right, you have yourself a deal. 1000 gold it is.~
+@80 = ~No, I'm not going to pay that much!~
+@81 = ~Then I guess I'm going to have to kill you and sell her myself.~
+@82 = ~Okay then, how about 1000 gold?~
+@83 = ~Hmmm... how about 500 gold?~
+@84 = ~If it is a fight you want, a fight you'll get--and I'll see to it personally that it's your last!~
+@85 = ~Fade abducted.
+
+I encountered Mallon at a guarded compound in the Temple District, but chose not to press the issue of Fade. Fade's whereabouts are still unknown, and with Mallon gone, there is little chance I will ever see her again.~
+@86 = ~Fade abducted.
+
+I encountered Mallon at a guarded compound in the Temple District. Apparently he had been hired by Fade's former master to track her down. I managed to bribe him off and he has now left. Fade should be somewhere in the room he was guarding.~
+@87 = ~Fade abducted.
+
+I encountered Mallon at a guarded compound in the Temple District. Apparently he had been hired by Fade's former master to track her down. I managed to "persuade" him to part with some gold for the privilege of leaving the area unchallenged. He has now left, presumably with Fade still in his custody, and it is highly unlikely I will ever see either of them again.~
+@88 = ~Fade abducted.
+
+I encountered Mallon at a guarded compound in the Temple District. Apparently he had been hired by Fade's former master to track her down. Now that I have dispatched him, I should find Fade somewhere in the room he was guarding.~
+
+@89 = ~I see the Shadow Master heard your petition then, Fade.~
+@90 = ~(grin) Yes.~
+@91 = ~Well, take care, kid. You know where I am if you... need me. Just yell.~
+@92 = ~I will.~
+@93 = ~You're back then... and in one piece!~
+@94 = ~Were you expecting otherwise?~
+@95 = ~From you? No. You've always had the luck of the damned.~
+@96 = ~From you? No. You've always had the luck of the damned. Are you... going to be staying?~
+@97 = ~I don't know. Depends on what <CHARNAME> wants to do.~
+@98 = ~Ahhh. <CHARNAME>.~
+@99 = ~Sidge... don't be like that.~
+@100 = ~Well... are you staying?~
+@101 = ~<CHARNAME>?~
+@102 = ~No, I wasn't planning on it.~
+@103 = ~If you want. I've got nothing else planned.~
+@104 = ~I see. Fair enough.~
+@105 = ~(sigh)~
+@106 = ~What was that all about?~
+@107 = ~Sorry. I seem to have upset your boyfriend.~
+@108 = ~Well, if that's the case, might I... see you later?~
+@109 = ~I... didn't know you were seeing anyone, Fade.~
+@110 = ~Okay, what was that all about?~
+@111 = ~Nothing.~
+@112 = ~Nothing? Didn't seem like nothing to me.~
+@113 = ~Okay, Fade. You don't have to tell me if you don't want to.~
+@114 = ~He's not my boyfriend.~
+@115 = ~No? Then what is he?~
+@116 = ~Could have fooled me. That was a "spurned lover" look if I ever saw one.~
+@117 = ~Oh, well... that's good.~
+@118 = ~I'm not. Sidge is just a... friend.~
+@119 = ~Just a friend? He just invited you to "see him later". Added to that look he gave you, it seemed more than an invitation for a game of cards and a quiet drink to me.~
+@120 = ~How good a friend are we talking here?~
+@121 = ~Like I said, it's nothing. Sidge is just a... friend of mine.~
+@122 = ~Just a friend? You could have fooled me.~
+@123 = ~(sigh) I know you want to know, <CHARNAME>. You always say "you don't have to tell me... " and then hope I'll spill my guts anyway. Sidge is just a friend of mine. Nothing else.~
+@124 = ~He's... just a friend.~
+@125 = ~And what is that supposed to mean? Sidge is just a friend of mine. A... good friend, granted, but nothing more. Not that it has anything to do with you.~
+@126 = ~Nothing to do with me? While you're a part of my group, it has everything to do with me!~
+@127 = ~How "good" a friend are we talking here? A "five-times-a-night, -six-if-you-count-the-morning" kind of "good" friend?~
+@128 = ~So, do you have... feelings for him, then?~
+@129 = ~Good? What do you mean?~
+@130 = ~Nothing. Nothing at all.~
+@131 = ~Because it means I don't have to torture myself with... visions of you with him.~
+@132 = ~(She sighs angrily, her tail beginning to twitch) Yes, he's *just* a friend. A... good friend, granted, but nothing more. Not that it has anything to do with you anyway.~
+@133 = ~Good enough. (sigh) Why are you so insistent on knowing about me and Sidge anyway? Are you... jealous?~
+@134 = ~Yes!~
+@135 = ~No! Of course not!~
+@136 = ~No, I'm not. I just need to make sure that your attention is focused on our goals, and not on your "good friend" Sidge. That's all.~
+@137 = ~What's wrong with you, <CHARNAME>? You aren't... jealous, are you?~
+@138 = ~And what if he is?!~
+@139 = ~What? You're not joking, are you? Please tell me you're joking.~
+@140 = ~I knew it. So, do you have... feelings for him, then?~
+@141 = ~What? Feelings? <CHARNAME>... no. Sidge is a great guy and everything... but no, I don't have any feelings for him. We just have an arrangement. It suits... suited... us fine. He knows the score--we are there when we... need each other. Nothing else.~
+@142 = ~"When you need each other"? I hope that doesn't mean what I think it means.~
+@143 = ~So, if you met someone else, he'd understand that you wouldn't... "need" him anymore?~
+@144 = ~Oh no. You're not getting out of this that easily. What do you mean by "good"?~
+@145 = ~I said "nothing" and I mean "nothing"! Let's just drop this. Now.~
+@146 = ~Well, it means I don't have to torture myself with... visions of you two together.~
+@147 = ~All right, all right. You didn't mean *anything*. Fine. Got it.~
+@148 = ~(blush) Oh.~
+@149 = ~Oh? Except I will... won't I? Because he is the kind of "good friend" who keeps your sheets warm at night, isn't he?!~
+@150 = ~Oh? I see. Do you have... feelings for him, then?~
+@151 = ~You... are? Why? You have absolutely no reason to be jealous of Sidge.~
+@152 = ~Yes, I do.~
+@153 = ~I don't? Then why do you... see him?~
+@154 = ~So why all the fuss? If you're not bothered... ~
+@155 = ~Okay, okay, yes! I am jealous! Really jealous!~
+@156 = ~I'm not! So... will you be going to see your little Sidgie-widgie tonight, then?~
+@157 = ~Yes, <CHARNAME>. All my attention is on our goals and not on Sidge. I am actually capable of walking, talking and thinking all at the same time, you know.~
+@158 = ~I'm not joking. Why is this eating at you so much? Are you jealous or something?~
+@159 = ~I... think you know it does. Why is this bothering you so much? Are you jealous or something?~
+@160 = ~Then I wouldn't see him anymore. Not like that, anyway. Like I said, he knows this. <CHARNAME>... you really don't have any reason to be jealous of him, you know.~
+@161 = ~Who said anything about being jealous? I didn't.~
+@162 = ~(She looks away from you, roses of colour tinting her cheeks) No, you don't. I mean it.~
+@163 = ~(She gives you a hesitant, but reassuringly warm smile, and self-consciously touches your arm) You really have absolutely nothing to worry about.~
+@164 = ~Because... sometimes a girl gets... urges, <CHARNAME>. Surely you can appreciate that?~
+@165 = ~"Urges"?! That's it? Why do you think the Gods invented hands, Fade?!~
+@166 = ~Yes, I can appreciate that. It doesn't mean I have to like it, though. But what if you met someone who could satisfy those... urges?~
+@167 = ~Don't be such an arse, <CHARNAME>! Just... get over yourself, okay? You have nothing, and I repeat, *nothing* to be jealous of. I had no intention of seeking Sidge's company today, so just let it be.~
+@168 = ~(She initially looks shocked, then angry, but despite herself, she then bursts out laughing) I'll have to remember that in the future, <CHARNAME>... ~
+@169 = ~(At that, you cannot help but laugh yourself. When your collective laughter eventually subsides, Fade grins, wiping tears from her cheeks)~
+@170 = ~No more jealousy, though, okay? I mean it. (she shakes a mock-admonishing finger at you and grins again)~
+@171 = ~Then I would have no need to see Sidge, would I? (wink)~
+
+@172 = ~But, before that... I, ah, just remembered something I have to do. I wonder, Fade, if you and your companions could help me with a... small task?~
+@173 = ~Of course. Right, <CHARNAME>?~
+@174 = ~As long as it doesn't take too long.~
+@175 = ~No, we're running out of time. Let's just sort out this guild business.~
+@176 = ~No, it won't take long. I just need someone I can trust to run a rather... delicate errand for me. I need some funds dropped off to my mother.~
+@177 = ~Er, no disrespect, sir, but I've done this before, and I don't think your mother, errr, likes me very much. Isn't there anyone else you can send?~
+@178 = ~Oddly enough, Fade, I think you are one of very few whom my mother will let into the house. She... gets confused easily.~
+@179 = ~(mutter) "Confused", my arse. She's insane!~
+@180 = ~Good. Here's the pouch I need you to deliver, and--just a little word of warning, Fade--don't bother trying to slit it open or picking at the seals. I'll know if you have.~
+@181 = ~You know where my mother's house is, of course--northeast side of the Bridge District, the one with the fish stall outside. Talk pleasantries and tell her I'd love to visit, but I'm just too busy at the moment. You know the drill.~
+@182 = ~(sigh) Yes, sir.~
+@183 = ~Well, that's a shame. I'll just have to send someone else along.~
+@184 = ~All right, then. Back to the matter of eliminating this Bodhi and her vampiric guild.~
+@185 = ~Aran's "delicate errand".
+
+Fade has agreed to help Aran deliver some funds to his mother, as amazing as the idea of a Shadowmaster being filial may seem. Mrs. Linvail's home is on the northeast side of the Bridge District.~
+@186 = ~Not to rush you or anything, <CHARNAME>, but you did promise to deliver those funds to my mother. She does tend to get slightly... touchy sometimes when she doesn't get what she's expecting, and I'd rather not have that happen.~
+@187 = ~Ah, I see you have returned. How is my mother?~
+@188 = ~As dreadful as usual.~
+@189 = ~Well, it's a necessary evi--I mean, I have to look after my dear old mother in her dotage, don't I?~
+@190 = ~Dreadful. Though somehow I think you already knew that would be the answer.~
+@191 = ~Mrs. Linvail's Home~
+@192 = ~Who's there? I am but a little old lady, with nothing but a stale crust of bread, there's nothing here worth stealing... ~
+@193 = ~Hello, Mrs. Linvail! I've come to drop some money off to you, from your son.~
+@194 = ~Aran? My Aran is here? No, always too busy to come and see his mother, always busy working, making a profit, who would have thought buying and selling used carts could take up so much time that you can't even visit your old mum once in a while, I ask you!~
+@195 = ~And me, an old woman, all here by myself, you never know what might happen, I might be ravished by gnomes in my bed, well, you do hear stories, don't you? Would you like a cup of tea?~
+@196 = ~Buying and selling... what? But Aran is the--~
+@197 = ~Er, yes, I would like some tea, Mrs. Linvail.~
+@198 = ~Ravished by gnomes?~
+@199 = ~(Fade stamps hard on your foot) Shutupshutupshutup... ~
+@200 = ~Aran's mother doesn't know Aran is a Shadow Thief! She thinks he's a merchant, and she would get rather... upset if she knew her son was a thief. She wanted him to be a knight, you see.~
+@201 = ~Ah, Mrs. Linvail! Ummmm... thank you for the tea.~
+@202 = ~Well, young lady, you I recognize. But *you*... are you new?~
+@203 = ~Yes, I'm the new delivery <PRO_GIRLBOY>.~
+@204 = ~No, I'm just a friend of Fade's.~
+@205 = ~I forgot to tell you outside--Aran's mother doesn't know he's a Shadow Thief! She thinks he's a merchant, and she would get rather... upset if she knew her son was a thief. She wanted him to be a knight, you see.~
+@206 = ~Ooooh, yes. You're not one, are you? Because if you are, I've got a poker, you know! I'll see you off, you little devil, trying to peer into my bedroom at night, I've seen you!~
+@207 = ~No, I'm not a gnome. I'm a <PRO_RACE>.~
+@208 = ~Well, yes, I am a gnome.~
+@209 = ~And what is wrong with being a gnome? I come from a long line of distinguished gnomes, everyone of us an enterprising gentleman (or gentlewoman, of course). A woman of your... social stature and... respectability would have no problem from us humble gnomes. Why, even Cousin--~
+@210 = ~A gnome! In my house! I ask you, is nothing sacred? Now you listen to me, you little devil, if you step one foot closer to me, you'll feel the back of my hand, do I make myself clear? This is a respectable house, where only respectable things happen, and I don't need the likes of you coming in here, swaggering around, fingering my curtains and trying to sell me something!~
+@211 = ~I know the truth! Mother Gammage from up the road, it happened to her, woke up in the middle of the night and there were *hundreds* of the evil little buggers in her room, all of them trying to get under the bedclothes!~
+@212 = ~But Mrs. Linvail, Mother Gammage thinks she's a teapot half the time... ~
+@213 = ~Oooooooooh! Don't you cheek me, girl! I know you're not much better, you and your strange elven ways. I mean, what normal girl has *that* protruding from her bottom? I know what you're up to too!~
+@214 = ~(She turns to you and begins to speak in what she obviously thinks is a conspiratorial whisper, but it's obvious the whole room can hear her) If you ask me, I think there's something odd about her. You hear tales, don't you? Of... unholy rites and of demons and devils, doin' things with them weird priestesses in foreign parts... ~
+@215 = ~Er, yes, you do.~
+@216 = ~I wouldn't know, Mrs. Linvail. I'm obviously not as well informed as you on such matters.~
+@217 = ~I don't think you should be rude to Fade, Mrs. Linvail.~
+@218 = ~Oh yes, my Aran has many people working for him now, even though I'm not too keen on his insistence on hirin' them small buggers, especially them gnomes.~
+@219 = ~You aren't a gnome, are you? Because if you are, I've got a poker, you know! I'll see you off, you little devil, trying to peer into my bedroom at night, I've seen you!~
+@220 = ~A friend? Hmmmm... have you known her long? My Aran sent her along last time with my money. My Aran is a good boy, looking after his mother in her old age. Still, I wish he'd gone off and joined up with those nice boys at the Radiant Heart, they are very kind to their mothers and don't just send money, they visit them too, oh yes!~
+@221 = ~Quite why my boy had to be a merchant, I don't know. "Aran," I said, "go and join up with those nice Radiant Heart boys, they'll look after you." But no, he had to listen to his father, maythegodsresthissoul. "Do what you like, son."... tsk tsk. If'n he had listened to his mother, like a *good* boy, he would be Prelate by now, you mark my words!~
+@222 = ~Come on, drink up and I'll get you cake.~
+@223 = ~(mutter) Just nod, smile and be nice and we might get out of here before the end of the tenday.~
+@224 = ~What the hell is she going on about?~
+@225 = ~I don't know. I never know. We'll make a break for it soon.~
+@226 = ~Here you go, a nice bit of cake. Don't worry about the hairs, the cat was asleep on it, just blow on them and they'll come right off. Eat up now!~
+@227 = ~Uh, thank you. (pretend to take a bite)~
+@228 = ~Oh, thank you very much. (nibble an edge to show willing)~
+@229 = ~No thanks. I don't really care for cake.~
+@230 = ~Well, that's comforting, even if you do sound like one of them inbred northerners. Are you one of those inbred northerners? Heathens, the lot of them. I hears that they drink the blood o' their enemies and paint themselves blue before going into battle, have you ever done that?~
+@231 = ~No, I'm sure you haven't. You're a bit young and if you're with my Aran, you're a good <PRO_GIRLBOY>. Come on, drink up and I'll get you cake.~
+@232 = ~An elf? Oooooh, I can't be havin' with elves, eating daisies and huggin' trees, never knowing a good days work in their lives and running off, stealing our women away... why do they do that? Aren't theirs any good? Their bloody men look like women anyway.~
+@233 = ~Well, drink up and I'll get you some cake. S'pose you'd like that, even if you *are* one o' them elves.~
+@234 = ~Ooooh, so you're a mix n' match, are you? Don't trust half-elves, they always look like they are up to something... are you up to something? Not as bad as them gnomes, filthy little bastards that *they* are, stealing my drawers from the washing line, but you never can tell with half elves, not quite one, and not quite the other. Why can't these human girls just find themselves a nice *human* husband, like my Aran, he would be good, never married you know.~
+@235 = ~Oh, I know that sometimes our men get tempted by those elven wenches, it's what you get for running around in see through dresses all day long, flighty things that they are, that's the elf-girls, not the men, no self-respecting man would run around in a see through dress, although I do worry about Mr. Beesworth from number 36 sometimes.~
+@236 = ~Well, drink up and I'll get you some cake.~
+@237 = ~Oooh, Aran sends along so many strangers to my door, he's sent a half-orc before, you know! I don't hold with that, no I don't, I wouldn't trust 'em as far as I could throw 'em. I got the bugger a good crack on the head before he could burn the house down, I know what your type are like, they burn things. And then they pillage. Ooooooh, the stories I've heard... ~
+@238 = ~Still, you can't be all that bad if you're with Aran, so drink up and I'll get you some cake.~
+@239 = ~A dwarf, eh? Clever little buggers, aren't you? Where's your axe, then? All dwarves got to have an axe, that and a beard you could hide a badger in. So, what mine did you leave? I know you all come from mines, don't like to trust those who feel more underground than over it, always singing bloody songs about gold, I see plenty 'em drunk in the bloody streets, so I do, it's all that quaffing you do, isn't it?~
+@240 = ~Well, not you personally, o' course. Come on, drink up and I'll get you some cake.~
+@241 = ~I do not hold with halflings in this house! No I don't! Not as bad as those little randy buggers... gnomes... but them halflings'll nick anything that's not tied down, and give the tied down stuff a good go at just in case! My Aran sent along this gaggle of halflings once to give me my money, it was two gold short! Thieving little bastards!~
+@242 = ~Will I need to count this out, young <PRO_MANWOMAN>? I hope not, because if I find out this is short, you'll feel the back of my hand, so you shall! Well, drink up and I'll get you some cake, I know you people like your cake.~
+@243 = ~Why don't you like gnomes, Mrs. Linvail?~
+@244 = ~You see! <PRO_HESHE> agrees with me. Something's not quite right about you, girl, not sure I like my Aran messing with the types of you, I *warned* him I did, but does he ever listen to his mother? No, he doesn't... sending gnomes and girls with tails round to my house, oh, I don't know how my poor heart stands it sometimes... ~
+@245 = ~(through gritted teeth) Well, Mrs. Linvail, here's your money. It's been a pleasure, as usual, but we have to go now, don't we, <CHARNAME>?~
+@246 = ~Uh, yes. Things to do, people to meet, crazy old women to avoid... ~
+@247 = ~Oh, Fade, we've got plenty of time. I'm sure Mrs. Linvail would love a bit of company for a while.~
+@248 = ~Ah, well, young'un, you haven't been around as long as I have... ~
+@249 = ~(mutter) More's the pity.~
+@250 = ~... but I've been told tales, it's a heathen world outside the walls of Athkatla--folk aren't the same, you know, indulging in ungodly rites and eatin' spicy food, it's all bad for you. What you need is a nice piece of my cake, at least *that's* wholesome food, none of this foreign rubbish, you mark my words, it's what makes my Aran take in the likes of her.~
+@251 = ~What? Foreign food makes Aran employ Fade?~
+@252 = ~Oh, the CHEEK of it all! Here I am, and old woman what is growing deaf, with my poor, poor heart, and this young upstart here tells me what I can and can't say!~
+@253 = ~I can't believe my Aran sends this... this... *scarlet* woman to my house, her with a tail and all, it can't be natural, I tell you! And you know what they say about thems with red hair, don't you... ~
+@254 = ~Now that's unfair, Mrs. Linvail!~
+@255 = ~(sniff) You can go and protest your innocence elsewhere, young lady! Just give me my gold and be off with you! You and that... swaggering behind of yours.~
+@256 = ~Fine! Here's your gold... (mutter) you old bag... ~
+@257 = ~I heard that!~
+@258 = ~Good-*bye*, Mrs. Linvail!~
+@259 = ~(The cake smells musty, and you're sure that there's more than cat hair clinging to it) There you go. You look like you could do with some fattening up, skinny thing that y'are... ~
+@260 = ~Th-thank you, Mrs. Linvail. (look imploringly at Fade)~
+@261 = ~(set the plate firmly down on the table) Well, it's been lovely chatting to you, Mrs. Linvail, but we should be going now. Shouldn't we, Fade?~
+@262 = ~(pick something indescribable off the cake) Ack! What *is* this?~
+@263 = ~(The cake tastes awful--you now have a mouthful of cat hair and possibly something else less pleasant) There you go. You look like you could do with some fattening up, skinny thing that y'are... ~
+@264 = ~(whisper) You *ate* it? Oh, you're going to be so sick now.~
+@265 = ~L-lovely. Thank you, Mrs. Linvail.~
+@266 = ~(pick something indescribable out of your mouth) Ack! What *is* this?~
+@267 = ~Of course you care for cake! Everyone cares for cake--it's full of... of cakey goodness, young <PRO_MANWOMAN>! Now eat up!~
+@268 = ~Yes, Mrs. Linvail, of course, Mrs. Linvail. Anything you say! (pretend to take a bite)~
+@269 = ~Uh, okay. (nibble an edge to show willing)~
+@270 = ~No, Mrs. Linvail, I'd rather not. Watching my weight, and all that.~
+@271 = ~Because I know the truth! Dirty little beggars they are, only one thing on their minds. You can tell by the size of their noses--no woman of class is safe in their beds! Stealing my bloomers and hiding behind doors--if I had a daughter, I'd lock her up, just in case!~
+@272 = ~But I've never met a gnome who'd ever--~
+@273 = ~I said women of *class*, you little harlot! Not one with a tail!~
+@274 = ~Well, where's my gold, then?~
+@275 = ~It's here, Mrs. Linvail. I'll just leave it here on the table.~
+@276 = ~And I'll be counting it! Twice, just to make sure!~
+@277 = ~Fine! Good-*bye*, Mrs. Linvail!~
+@278 = ~(mutter) I hate you sometimes.~
+@279 = ~Well, that's nice. Here, have some cake. Don't worry about the hairs, the cat was asleep on it, just blow on them and they'll come right off. Eat up now!~
+@280 = ~Are you simple or something? No! Foreign things do! Because she's obviously foreign. Not a good, decent Athkatla girl, that one... good Athkatla girls don't come with tails!~
+@281 = ~Oooh, you are most welcome, dear! And I can see you are enjoying that, just by the look on your face! Would you like some to take home?~
+@282 = ~NO! I mean... we're not going home, Mrs. Linvail, we've got work to do. We really should be going now.~
+@283 = ~Yes, <CHARNAME>. We should be going!~
+@284 = ~It's good for you! Extra protein, builds strong bones and healthy... healthy skin, or something like that. Don't question me! Just eat up!~
+@285 = ~No, Mrs. Linvail. I think we should be going now.~
+@286 = ~Oh, so soon? Well, where's my gold then? Don't think I've forgotten, because I haven't!~
+@287 = ~A skinny thing like you, watching your weight? I don't believe it! Go on, eat it up! It's good for you!~
+@288 = ~And what are you *still* doing in here? Come to rob a poor old lady, have you? Get out, or it's the poker for you!~
+@289 = ~Now you just stay put, I'll have tea ready in a minute... ~
+@290 = ~Aran's "delicate errand".
+
+Fade and I have delivered the money to Aran's mother, and mercifully managed to leave the house with a whole skin. Hopefully the Shadow Master will not require the same type of task from me any time in the foreseeable future.~
+@291 = ~Yes, I'll get on with it as soon as possible.~
+@292 = ~No, I've decided I don't have the time for this.~
+
+@293 = ~And to prove I am serious, I will take something dear to you. I believe you have formed an "attachment" to the fiendling--one who knows only too intimately the struggle of fighting her instincts.~
+@294 = ~You lay a finger on me or <CHARNAME>, bitch, and you'll regret it.~
+@295 = ~Oh, I seriously doubt that.~
+@296 = ~The Final Battle with Bodhi.
+
+Bodhi appeared in an ambush shortly before I reached her haven, warning me that she was aware of my pursuit and stealing from me the one person that is dearest to my heart: Fade.  Before she vanished and unleashed more of her undead creations upon me, Bodhi warned me that if I continue I will lose even more than I thought possible.  I cannot give up on the Rhynn Lanthorn... but now the life and immortal soul of the one I love is at stake, as well!~
+@297 = ~Then let us tarry no longer and rid these catacombs of vampires forever!~
+@298 = ~I don't care! I just want to help Imoen and get Fade back!~
+@299 = ~(ignore Drizzt and stride onwards to rescue Fade)~
+@300 = ~Well said! I will fight at your side in this, <CHARNAME>.~
+@301 = ~I know... I have heard what happened. We shall fight onwards together, and pray that your beloved is unharmed.~
+@302 = ~I feel your pain, my friend, but please exercise caution. You have to face the very real fact that your love may not be what she once was. We shall fight together to retrieve her, though.~
+@303 = ~Where is Fade? What have you done to her?~
+@304 = ~(For a fleeting moment, a flicker of uncertainty flits across her eyes. She gestures to a still form lying close by) Your fiendling? She is here... ~
+@305 = ~You bitch! If you've killed her... ~
+@306 = ~What... what have you done? Fade... please, please get up!~
+@307 = ~(try to go to her) No! Fade... my love... please... ~
+@308 = ~Oh, she is not dead. It seems vampirism affects those of an infernal heritage differently from others. She seems to have fallen into some kind of slumber that we cannot wake her from... and I look forward to see what she emerges as when she awakens.~
+@309 = ~You "look forward" to it, do you? So why do I see fear in your eyes?~
+@310 = ~You didn't even know this would happen, did you? You thought she'd turn to your side willingly... but she hasn't, has she? Not only have you taken her from me, but *you* can't use her either!~
+@311 = ~What do you mean, "emerge"? What the hell have you done to her?~
+@312 = ~She can't hear you, <CHARNAME>. She is in some kind of... trance. It seems vampirism affects those of an infernal heritage differently from others. She seems to have fallen into some kind of slumber that we cannot wake her from... and I look forward to see what she emerges as when she awakens.~
+@313 = ~I think that is close enough. She isn't dead. It seems vampirism affects those of an infernal heritage differently from others. She seems to have fallen in to some kind of slumber that we cannot wake her from... and I look forward to see what she emerges as when she awakens.~
+@314 = ~ENOUGH! When she emerges, *you* will no longer be able to satisfy her... she *will* turn to our ways! She has no choice.~
+@315 = ~(draw your weapon) Oh, there's always a choice, Bodhi. There is ALWAYS a choice.~
+@316 = ~She won't turn to you! I will stop you, I *will* get Fade back and I *will* restore Imoen! That's a promise, Bodhi!~
+@317 = ~(laugh) I doubt that, <CHARNAME>. To my knowledge, there has never been an instance where those with demonic blood have been exposed to vampirism. Who knows what she will emerge as? I do know, however, that you will no longer be able to satisfy her... she *will* turn to our ways! She has no choice.~
+@318 = ~Oh, do not fear, <CHARNAME>. I look forward to seeing what product the mingling of vampiric and Tan'ari blood will be. Who knows what she will emerge as? All I do know, however, is that you will no longer be able to satisfy her... she *will* turn to our ways! She has no choice.~
+@319 = ~I suppose we both knew it would end this way. I *will* keep this soul, and I *will* have Fade! Goodbye, <CHARNAME>. I would say it has been a pleasure... ~
+@320 = ~Your pathetic boastings do not frighten me, <CHARNAME>. Imoen's soul is *mine*, as is your love, Fade! Maybe I will keep you alive, just so you can see what she emerges as... and then I will let her devour you!~
+@321 = ~The Final Battle with Bodhi.
+
+Bodhi has turned Fade into a vampire! Or... or very nearly. The fact of her demonic blood appears to have disrupted the process somewhat, and she now lies in a trance. Bodhi suggested that when she awakens, she may have... transformed into something else altogether. Hopefully something can be done, or I will have lost her.~
+@322 = ~But Fade... Oh, I'm so sorry, <CHARNAME>. Maybe there will be clues here as to how to restore her... let us look.~
+
+@323 = ~(Fade's eyes flutter open and your heart leaps, only to sink further as she looks hungrily around herself, not taking any notice of you at all. Standing up, she seems to grow before your very eyes; as if from the ether a pair of wings materialize, her fingers are replaced with cruel talons, and her features twist into a cruel parody of her former fair countenance)~
+@324 = ~Haha! Free!~
+@325 = ~Fade? What has happened to you?~
+@326 = ~No, you're not Fade! You're... something else.~
+@327 = ~You think I am your fiendling plaything? No... but she is here... she cowers away from me. The stupid vampire weakened that part of the creature you call "Fade" and so allowed me to dominate this shell.~
+@328 = ~So that is what Bodhi meant by "emerging". I shall slay you, demon, and bring Fade back!~
+@329 = ~Fade! I know you are in there. Please answer me... please... I love you... ~
+@330 = ~You shall not inhabit her "shell" for much longer, demon! I shall beat you out of it!~
+@331 = ~Oh, she's here... she cowers from me, from what she once was. Once she embraced our ways! I guided her steps, and then she abandoned us and sent me back to rot in the Abyss.~
+@332 = ~But now I am back, stronger then ever! The stupid vampire weakened that part of the creature you call "Fade" and so allowed me to dominate this shell.~
+@333 = ~Slay me? But we are too closely entwined, your "love" and I... slay me and you slay her!~
+@334 = ~No! That isn't true! I shall beat you and bring her back!~
+@335 = ~Wh-what are you saying?~
+@336 = ~(laugh) Oh... how touching. She can't hear you, <CHARNAME>--too much does she fear me!~
+@337 = ~Then I shall have to slay you, demon, and bring her back!~
+@338 = ~I will not allow you to inhabit her, demon! I shall beat you out of her!~
+@339 = ~Beat? You would beat this shell, the body of the one you love? We are too closely entwined, your "love" and I... slay me and you slay her!~
+@340 = ~So be it!~
+@341 = ~We are one! Let us see how far you will go to rescue her... ~
+@342 = ~<CHARNAME>... not dead... still here, but weakened... priest... (she passes out)~
+@343 = ~The Final Battle with Bodhi.
+
+Bodhi's attempt at turning Fade weakened her hold over body and soul enough to allow a demon to take possession. I defeated the demon, but it still inhabits Fade's body, and she is growing weaker by the minute. Perhaps those who have knowledge of how to deal with vampirism also know something of how to solve this.~
+
+@344 = ~Back so soon, my son? What is wrong?~
+@345 = ~It didn't work! Fade is still inhabited by some kind of demonic force. I... I don't know what to do. Please help me!~
+@346 = ~I think I have reversed the vampirism, but it turns out that was the least of our worries. A demonic spirit seems to have taken up residence in Fade's consciousness, and although I have beaten it back for the moment, I don't know how to get rid of it for good.~
+@347 = ~This isn't Fade, it's some kind of demon-spirit. We have to send it back to where it came from!~
+@348 = ~You seem troubled, my son. Can I help you?~
+@349 = ~I hope so. My love, Fade, has been inhabited by some kind of demonic force. I... I don't know how to get rid of it. Please help me!~
+@350 = ~It is complicated. My love, Fade, was exposed to vampirism. I think that has been reversed, but it turns out that was the least of my worries. A demonic spirit seems to have taken up residence in Fade's consciousness, and although I have beaten it back for the moment, I don't know how to get rid of it for good.~
+@351 = ~My love, Fade, was exposed to vampirism. I have reversed that, but it still isn't Fade, it's some kind of demon-spirit! We have to send it back to where it came from!~
+@352 = ~Please, calm down. Lay the young lady here. Yes... possession. You have a very difficult choice ahead of you now.~
+@353 = ~I can do one of two things. Firstly, I can banish the spirit now, but with that there is the very real risk that her spirit will be too closely entwined with that of the demon's, meaning she will be banished too, forever.~
+@354 = ~Secondly, you can fight and kill the demon, which will banish it from this plane, hopefully leaving your love's spirit here. Both have huge implications, for you, and for the girl.~
+@355 = ~So, I can banish the demon-spirit, but also risk banishing Fade? Then I will take that risk. Banish the creature.~
+@356 = ~But I have fought the demon, and it is still here!~
+@357 = ~But with both choices, I run the risk of losing Fade! Which one has the greater risk?~
+@358 = ~Then I will fight the creature again... but I do not know how to kill it.~
+@359 = ~I see... but it is good that you have kept your head. She has indeed been possessed, which means you have a very difficult choice ahead of you now.~
+@360 = ~Indeed, we do. Please, lay the young lady here. Yes... possession. You have a very difficult choice ahead of you now.~
+@361 = ~Before we continue, there is something I should tell you about Fade. She is a Fey'ri--a part-demon--herself. I think that is how the spirit managed to inhabit her in the first place.~
+@362 = ~Banishment? Are you sure? The demon will hold on to her as closely as possible.~
+@363 = ~No... do it. No matter what happens, the demon must not be allowed to survive.~
+@364 = ~Then the risk is too great. I will fight the creature again, but I must know how to kill it.~
+@365 = ~That is because your normal weapons will not be able to deliver a killing blow--they are not powerful enough. You need a powerful artifact to slay the demon.~
+@366 = ~I have the tooth of a red dragon here. Will that do?~
+@367 = ~I see. I shall go and find what you need. Please take care of Fade in my absence.~
+@368 = ~No, this is too hard. Banish the demon and be done with it!~
+@369 = ~They both have their risks, but if the demon is too closely entangled with your friend, then she will be banished too. Fighting the demon is the harder choice for you, but it will separate the two of them, meaning that I will be able to banish only the demon. The choice is, as I said, yours.~
+@370 = ~Then the choice is clear. I will fight the creature again, but I do not know how to kill it.~
+@371 = ~Yes, I feel that is the safest way to get your love back. Normal weapons will not be able to deliver a killing blow--they are not powerful enough. You need a powerful artifact to slay the demon.~
+@372 = ~Something... some part of a powerful creature, a tooth or a claw that might be fashioned into a weapon--that may work. A devil, or a great Wyrm... ~
+@373 = ~I... see. Yes, that would make things easier for the spirit. While I would question your love for such a... woman, I will say that simply banishing the spirit would almost certainly result in the banishment of Fade--the spell would not differentiate between the two.~
+@374 = ~Fighting the demon is the harder choice for you, but it will separate the two of them, meaning that I will be able to banish only the demon. The choice is, as I said, yours.~
+@375 = ~As you wish.~
+@376 = ~It is as I feared. She is gone. There is nothing more I can do. You made your choice, and while the demon is no longer here, the girl's spirit went with it.~
+@377 = ~I... see. You did your best. I must... go now.~
+@378 = ~Fade! NO! You killed her! Bring her back to me, now!~
+@379 = ~That is perfect. Hopefully this should work. I will call the demon, and as soon as it is weakened, you will plunge the tooth into its heart. I will then perform the banishing ritual.~
+@380 = ~This should mean the demon will leave the girl--and leave her spirit with us. I just hope your bond with her is strong enough. Are you ready?~
+@381 = ~Yes!~
+@382 = ~No, wait a moment, I need to prepare myself.~
+@383 = ~That I shall... but do not take too long! I have heard rumours of an ancient Red Dragon which makes its lair in the Windspear Hills--perhaps you might begin your search there. Good luck.~
+@384 = ~The Final Battle with Bodhi.
+
+In order to defeat the demon for good, I need a claw or tooth from some powerful creature--a devil or a dragon. The priest of Oghma has advised me to search for a Red Dragon rumoured to make its lair in the Windspear Hills.~
+@385 = ~I am... sorry for your loss.~
+@386 = ~I warned you of the dangers! Take some comfort that the demon-spirit is also gone. Her sacrifice was not in vain. I am... sorry for your loss, but there is nothing I can do.~
+@387 = ~Yes. Come and speak to me when you are ready.~
+@388 = ~Are you ready?~
+@389 = ~No, I have had second thoughts. Banish the creature--I do not wish to fight it.~
+@390 = ~Have you found the weapon you need?~
+@391 = ~No, not yet. I will continue looking.~
+@392 = ~(Fade lies unconscious, and her breathing is dangerously shallow)~
+@393 = ~The Final Battle with Bodhi
+
+The demon has been destroyed, but I have paid a high price. Fade has been banished along with it.~
+@394 = ~(Mortally wounded, the demon roars in pain)~
+@395 = ~Now! Use the tooth!~
+@396 = ~(You plunge the tooth deep into the demon's heart. The demon-spirit screams and part of you is horrified to hear that it sounds like Fade, only amplified a hundred times)~
+
+@397 = ~I just love pretty things... don't you think I'm pretty?  (giggle)~
+@398 = ~(snigger)~
+@399 = ~What are you laughing at, fiendling?~
+@400 = ~Nothing... nothing.~
+@401 = ~Well, make sure you aren't. I've had enough of you, sniffing round my Aran!~
+@402 = ~What? I've never... I'm not... how dare you! Aran is my boss, nothing more!~
+@403 = ~And I intend to make sure it stays that way! Now get out of my sight before I tell my sweetie that you've been upsetting me again.~
+
+@404 = ~Ah, there y'are, Fade. I was just wonderin' when ye were going to be givin' me back those things ye borrowed a while back? I don't mind y'borrowin' me stuff, but they were good Turmish steel, cost me a dragon's hoard... ~
+@405 = ~(blush) Shutupshutupshutupshutup!!~
+@406 = ~What's this all about then, Fade?~
+@407 = ~(spare Fade's blushes and say nothing)~
+@408 = ~It's nothing! Nothing at all!~
+@409 = ~Come now, girlie, y'can't be keepin' them for good. Tell ye what, if ye likes them that much, I'll get an extra set next time I--~
+@410 = ~Booter, PLEASE!~
+@411 = ~(grin) Awww, come off it. I can tell t'won't be long afore he's findin' out about it anyway.~
+@412 = ~(mutter) Please, let me die... ~
+@413 = ~I'll find out, will I? Well, I'm sure that's something to look forward to.~
+@414 = ~Hang on--before I find out about what?~
+@415 = ~(She glances quickly at you and then mutters something you don't quite catch to Booter)~
+@416 = ~Okay, I'll get 'em when I have a spare moment. Now you go off and have fun. (grin)~
+@417 = ~Oh, you can shut up too! (She mutters something to Booter you don't quite catch)~
+@418 = ~Ah, doan' be afraid. I'm sure she'd be gentle the firs' time, if you're not mmppffhh mmmfpphff mmmmm... ~
+@419 = ~(Still blushing furiously, she clamps her hand over Booter's mouth and mutters something to him you don't quite catch)~
+@420 = ~Okay, okay, I was jus' teasin'. I'll get 'em when I have a spare moment. Now you go off and have fun. (grin)~
+
+@421 = ~I see Aran must have listened to you then, Fade? (sigh) I was hoping to get this done without any... complications, but obviously that is not going to be the case, is it?~
+@422 = ~I don't know what you mean, sir. I won't compromise anything, I promise.~
+@423 = ~No? Then what if someone at Mae'Var's Guildhouse recognizes you? What if Mae'Var himself recognizes you?~
+@424 = ~I'll make sure he won't, sir. <CHARNAME> will be the focus of all the attention--<PRO_HESHE> will be doing most of the work. I'll stay at the back and keep my head down.~
+@425 = ~Make sure you do! You may be able to twist Aran round your little finger, but I can see through you, Fade. If this mission fails, I will know who to blame. Do I make myself clear?~
+@426 = ~Perfectly, *sir*.~
+
+@427 = ~My companion, Fade.~
+
+@428 = ~Hirelings? I am no such thing, rich kid, and don't you forget it!~
+@429 = ~No, I didn't mean it like that! I meant--~
+@430 = ~I know damn well what you meant, Nalia. And I for one do not take kindly to the inference.~
+@431 = ~You agreed to help me and my cause the minute <CHARNAME> did, Fade. Please remember that. As I said before, Daleson, keep no secrets.~
+@432 = ~Lessers? Why, you stuck-up old bitch! Just give me one good reason why I shouldn't fu-- mmmpphhhfff mmmppphhhf!~
+@433 = ~Uh, sorry. She doesn't mean what she's saying.~
+@434 = ~Fade, that's not helpful.~
+@435 = ~Please ignore my friend here, my Lady. She is a little overwrought.~
+@436 = ~Hooligans? We're here to rescue you, you stuck-up old bitch! Go on, just give me one good reason why I shouldn't fu-- mmmpphhhfff mmmppphhhf!~
+@437 = ~(shudder) What a despicable creature.~
+@438 = ~Nalia, I shudder to think about you mixing with such a foul and insolent wretch!~
+@439 = ~Well, you're entitled to your opinion, I suppose, but we really have to get you out of here. Please keep quiet, there are still those around who would do you harm.~
+@440 = ~I'm sorry? My friend here may be a little... undiplomatic at times, but that gives you no cause to insult her like that. She is here, as are the rest of us, to save your skin, so I think you should show a little respect!~
+@441 = ~You evil-minded witch. Fade--she's all yours.~
+@442 = ~I shudder to even *think* about Nalia mixing with such a foul and insolent wretch!~
+@443 = ~Well, at least one of you knows how to show proper respect to their betters. Who is this despicable creature?~
+@444 = ~Overwrought? I'm not overwrought! I am absolutely bloody disgusted, that's what I am! How *dare* this... this woman speak to us like this, after we've come here to help her?~
+@445 = ~How dare *I* speak in such a way? That is my BIRTHRIGHT, you stupid little scrubber! Who are *you* to question that?~
+@446 = ~(mutter) You can be a spineless bloody coward when you want to be, you know that, <CHARNAME>?~
+@447 = ~Well, you're entitled to your opinion, I suppose, but we really have to get you out of here. Let's move on. NOW.~
+@448 = ~Respect? What are you blathering on about? I am the Lady here, and so I am the one who should be demanding respect! You should be honoured to serve me in this way!~
+@449 = ~With pleasure.~
+@450 = ~There, that'll teach her!~
+@451 = ~What did you do that for? I know she's unpleasant, but you didn't have to punch her!~
+@452 = ~Nice right hook! Now we just have to come up with a reason as to *why* she is unconscious.~
+@453 = ~Gods, Fade--where did you learn to throw a punch like that?~
+@454 = ~Y-you hit her--you actually hit her! How could you?! I mean, I know she can be pretty insufferable, but... but how dare you strike her! She is the noble of this house, and--~
+@455 = ~Nalia, shut up. Unless you want some of the same, of course.~
+@456 = ~Oh, I think I did, <CHARNAME>... I think I did.~
+@457 = ~Troll did it. Nasty things, trolls.~
+@458 = ~You don't live by the Docks without learning a few tricks, <CHARNAME>. (grin)~
+
+@459 = ~(Fade pales considerably, her lips a thin, tight line) We have to stop this, <CHARNAME>. It's beyond monstrous.~
+@460 = ~You do not need to beg, my friend. Such activities as I have seen here sicken me beyond belief. We will free you and help you in any way we can.~
+@461 = ~Well, well, well, what do we have here? Incandescent beauty, you have set my heart aflame!~
+@462 = ~What? You being funny or something?~
+@463 = ~Never, O beauteous phoenix... just a chance to nestle for one night within your fiery embrace is all I can ask!~
+@464 = ~Are you for real?~
+@465 = ~Ummmm... yes... nestling... err... Aha! My smoldering lovely, I burn with a passion surpassing all others!~
+@466 = ~And?~
+@467 = ~Err... that's it.~
+@468 = ~So what you are saying, in essence, is you fancy a quickie?~
+@469 = ~Umm... possibly?~
+@470 = ~(She grins slowly, making sure Salvanas gets a good look at her slightly-more-pointed than could be considered the norm canines and flicks her tail at him)~
+@471 = ~(gulp) What was that?~
+@472 = ~(grin) My tail.~
+@473 = ~Tail? So you're a... ~
+@474 = ~Yes, I'm a tiefling. A Fey'ri tiefling--a part-succubus, to be more precise.~
+@475 = ~Really?! Well! It's been nice chatting with you, nice demon lady, but now I have to... I have to... ummm... well, go, really.~
+@476 = ~And the succubus returns! Still do I yearn for you. (quietly) Even though you do kind of scare me a bit... ~
+@477 = ~(sigh) Not you again.~
+@478 = ~Oh, you wound me, my fiery temptress! All I ask is to be able to caress those flaming locks... to warm my skin against yours... to part your no doubt scorching curtains... ~
+@479 = ~OI!! Wannabe Romeo! If anyone is going to be parting her curtains, scorching or not, it'll be me, okay?? Just wanted to make that absolutely clear!~
+@480 = ~Oh dear, oh dear. Well, just remember to clean the bits up after you've finished this time, Fade.~
+@481 = ~Excuse me, but I don't really appreciate you speaking to my girlfriend like that, and I would just like to take this opportunity to say that if you continue to speak to her like this, I'm going to rip your arms off. Okay?~
+@482 = ~Oh... what? Umm... I wasn't being serious, I was just, well... look, please don't hurt me! I'm leaving!~
+@483 = ~(gulp) Bits?~
+@484 = ~Oh, I just get, you know, a little overenthusiastic sometimes.~
+@485 = ~You... do? My, my, is that the time? Nice chatting to you, but I must go now! Uh... bye!~
+@486 = ~Okay, message received loud and clear! I'll just go elsewhere, yes? Yes. That seems the best idea... ~
+
+@487 = ~This is the training run for the Shadow Thieves, my friend. My domain. And I don't think I have seen *you* around here much lately, missy!~
+@488 = ~What, me? Oh, I'm here all the time, you just, err, can't... see... me.~
+@489 = ~Don't lie to me, girl. I know you haven't been here in a long time. I don't care how good you think you are, it still pays to practice on the run now and again!~
+@490 = ~(sigh) Yes, Pelanna. I'll do it as soon as I return from my mis--~
+@491 = ~Oh, no. You're going to run it NOW. Aran may have granted you a little play time to pursue other things, but *I* still expect you to practice!~
+@492 = ~Play time?? Aran has asked me to case the other guild!~
+@493 = ~Yes, I know. But I am also fully aware that gallivanting around the countryside with the likes of <PRO_HIMHER> is less of a chore than training with me. Now get to the run before you feel the flat of my sword!~
+@494 = ~(sigh) Yes, Pelanna.~
+@495 = ~There, all done. Are you satisfied?~
+@496 = ~Hmmm. Not bad. I expect better next time. You can go now.~
+@497 = ~(grin) Yeah, you wish! Best *dockside* crawler, more like.~
+@498 = ~Cheeky wench! Ye gotta watch this one, s'sharp she'll cut herself one o' these days. (grin) Yer off then? Well, good luck and all that. Don't really envy ye, but ye'll do a grand job, I'm sure.~
+
+@499 = ~Hey, I thought I told you not to come back in here, thief! Aran knows the rules--no Shadow Thieves casing this place!~
+@500 = ~Hello, Ribald! Lovely to see you again. And I see you are still harping on about that little faux pas I made... how long ago? Oh, about three years now, isn't it?~
+@501 = ~Maybe so, but that's not the point!~
+@502 = ~(sigh) Come on, how many times do I have to tell you that I am not about to rob you blind? I made a mistake, and for the last time, I am sorry!  Now, can we please put it behind us? I think <CHARNAME> wants to buy something.~
+
+@503 = ~Ahhh... and I see ye've got the tailed lass with ye. How y'doin', Fade?~
+@504 = ~I'm doing well, Thumb. And yourself?~
+@505 = ~All the better fer seein' you, my little sweet one. Now, will y'be havin' the usual?~
+@506 = ~No, you'd better ask <CHARNAME>. <PRO_HESHE> is running the show now.~
+
+@507 = ~As far as I am concerned, you can take your offer and shove it right up your ar--~
+@508 = ~FADE!!~
+@509 = ~(ahem) I mean you can jolly well take your offer and push off!~
+
+@510 = ~And well done to you too, Fade. Maybe I have... underestimated you somewhat in the past. You have shown yourself true to your Guild and your Shadow Master. Maybe we can "bury the hatchet", as they say?~
+@511 = ~Y-yes, sir, Renal, sir. I would like that very much.~
+@512 = ~Good show!~
+@513 = ~(gasp) <CHARNAME>, he's offering you the guild! You'd be a Guildmaster! That is indeed an honour!~
+@514 = ~And for once, Fade, you are absolutely correct. So, what say you, <CHARNAME>?~
+@515 = ~(grin) I suppose I'm going to have to call you 'boss' from now on, aren't I? Welcome to the Shadow Thieves!~
+@516 = ~(wink) I'm sure we'll have one hell of a time... ~
+
+@517 = ~You must avenge her, Anomen. If you do not, no one else will.~
+
+@518 = ~Oh, go on, <CHARNAME>. You're only young once.~
+
+@519 = ~Should have known... dragons bear the best grudges. (whisper) And have the best loot.~
+@520 = ~Is that all you care about? We stand before a Wyrm of the Dread Flame, and all you can think of is what treasure is has? That is despicable!~
+@521 = ~Despicable, practical, whatever. All I know is this overgrown lizard will have hoarded a pile of gold bigger than your head, if that is at all possible, and it's just ripe for the pilfering!~
+
+@522 = ~(mutter) Here we go again. Just shut up, Annoyman... ~
+@523 = ~What did you say?~
+@524 = ~Say? What are you on about?~
+@525 = ~You said something!~
+@526 = ~Did I?~
+@527 = ~Yes!~
+@528 = ~I don't think so--maybe you need to get your ears checked? (mutter) Or possibly a pin for that swollen head of yours... ~
+@529 = ~What you say or do not say is beneath my notice, fiendling. <CHARNAME>, as I was saying, an adventuring company that contains such... dregs... as this is hardly worthy of the name.~
+
+@530 = ~The amulet was intended for Fade's exclusive use. Your action, in the eyes of the law, may constitute criminal misappropriation, punishable by imprisonment for a term not less than six months and not more than five years and also by a fine.~
+@531 = ~The amulet was intended for the exclusive use of Fade and <CHARNAME>. Your action, in the eyes of the law, may constitute criminal misappropriation, punishable by imprisonment for a term not less than six months and not more than five years and also by a fine.~
+
+@532 = ~I won't stand for this, <CHARNAME>! I'm leaving, now!~
+
+@533 = ~The paladin is right. We must work to stop this evil trade.~
+@534 = ~I must admit, I never thought I would hear that sentiment from you. What makes you say such a thing?~
+@535 = ~We all have our reasons, Keldorn. No one has the right to own another person.~
+@536 = ~Slavery is disgusting enough when it involves adults, but children, too? That is indeed despicable. Is there no depth these people are unwilling to stoop to? <CHARNAME>, we have to put a stop to this, once and for all.~
+@537 = ~<CHARNAME>! How can you say that? We must help these people!~
+@538 = ~If you ever need our help again, we... I... would be more than happy to fight at your side. Please do not forget that.~
+@539 = ~Slaving bastards! I'll gut the lot of you like the pigs you are!~
+@540 = ~No, calm yourself, we're not here to hurt you. The way is clear... you're free!~
+@541 = ~If we hadn't rescued you, death would have been preferable compared to the other things such men are capable of.~
+@542 = ~Because some people are just evil bastards. It's a power thing--they think they can treat people, even children, like puppets, making them perform for their own twisted pleasure. (shudder) Just try to hold on to the fact that we saved that one little girl; we gave that little a girl a chance to live a normal life.~
+@543 = ~Jaheira is right--giving her something to live was the least we could do.~
+@544 = ~I'm glad you helped that poor little thing, although I cannot help but wonder if she will still have that gold by sunset. I wish there was more we could do.~
+
+@545 = ~"There once was an elf with demon blood,
+whom in the past treated all as mud,
+but then she was captured, 
+and escaped broken and fractured,
+And after her still they trudge!"~
+@546 = ~W-what? Where did you pick up that load of nonsense?! Answer me!~
+
+@547 = ~Watch yourself here, <CHARNAME>. I have a bad feeling about this. This guy is obviously nuts... you just *know* he's not going to ask you to do his shopping for him.~
+
+@548 = ~Hey, you! Lass with the tail!~
+@549 = ~It wasn't me! I didn't so it, no one saw me do it, you can't prove anything!!~
+@550 = ~Err... whatever. See this mighty fine sphere, here? You can have it for your very own for a mere 500 gold pieces!  What do you say?~
+@551 = ~What? You're having a laugh! Everyone and his dog knows the Wizards want in on that place. I wouldn't touch it with a ten foot barge pole!~
+
+@552 = ~(grin) This guy is *great*! He's just pure entertainment itself! Can we keep him?~
+@553 = ~Do not mock those here! Can't you see that their minds are broken? For shame!~
+
+@554 = ~Such a strange palm. I see great conflict here... you fight against your true nature, and it is a battle you worry about losing.~
+@555 = ~You do not need concern yourself, though. There is one... one who will help you face your personal demons. You will not be lost again. Take heart from this and learn to let go.~
+@556 = ~I... hope you're right. Thank you, anyway. (She throws a quick glance your way)~
+@557 = ~But there is strength in you, even if you do not believe it yet. Listen to yourself--do not doubt! What may not seem right to begin with will soon reveal itself to be true.~
+@558 = ~Hmmm... we'll see. Thank you, anyway.~
+
+@559 = ~Fade! You're a hard person to find. The Shadow Master wishes your prompt return to the Stronghold--he has a new job for you. Do not delay!~
+@560 = ~A new job? I see. <CHARNAME>, I'm sorry, I will have to go. When the Shadow Master summons you, you have to go.~
+@561 = ~Of course, Fade. We will go immediately.~
+@562 = ~We have more important things to do here. Surely Aran can wait?~
+@563 = ~Yet again, Aran snaps his fingers and you go running. I would have hoped that your feelings for me would have meant that your loyalties also lay with me. I guess I am wrong.~
+@564 = ~Thank you, <CHARNAME>. I knew I could count on you.~
+@565 = ~Aran doesn't tolerate waiting. We should go and see what he wants as quickly as we can. Please, it must be important if he is dispatching messengers to find me!~
+@566 = ~Okay, we'll go and see what he wants.~
+@567 = ~No! I will not be ordered around by him anymore! If you want to go, Fade, fine--but I'm not going with you!~
+@568 = ~Of course my loyalties lie with you! Please don't be like that, <CHARNAME>!  It must be important if he is dispatching messengers to find me, however. Please... let us go and at least see what he wants.~
+@569 = ~You leave me no choice then! I have to go.~
+
+@570 = ~Ah, you're here--and I thank you for your prompt return. I need you to do something for me.~
+@571 = ~Yes, sir. What do you wish of me?~
+@572 = ~It is a matter that needs some delicate handling. However, you, <CHARNAME>, do not have to involve yourself in this, if you don't want to. This is a job for Fade.~
+@573 = ~If it is a job for Fade, then it is also a job for me. Tell us what you want us to do.~
+@574 = ~But if Fade undertakes this mission, she will no longer be a part of my life, and I cannot allow that. What does this mission involve?~
+@575 = ~Really? I don't have to get involved? Now *that's* a novel idea.~
+@576 = ~Well, if that's the case, I have better things to do. See ya, Fade!~
+@577 = ~In that case... there have been some nasty attacks recently, undertaken by a person, or people, unknown. Go to the Five Flagons Inn--there are two contacts there who will give you more details.~
+@578 = ~I see. Well, in that case... there have been some nasty attacks recently, undertaken by a person, or people, unknown. Go to the Five Flagons Inn--there are two contacts there who will give you more details.~
+@579 = ~<CHARNAME>... does that mean you wish for me to undertake this myself, and leave the party?~
+@580 = ~No, of course not! I just meant it's a novel idea that I'm not being used to sort out everyone else's problems! Of course I will help you.~
+@581 = ~Yep. I have better things to do. Sorry, but you know how it is.~
+@582 = ~Then I will undertake this mission myself. Goodbye, <CHARNAME>. I thought we had something special; obviously I was wrong. You will not see me again.~
+@583 = ~Well, I see you are here at last! When your Shadow Master calls, Fade, you know better than to leave him waiting! What happened?~
+@584 = ~Yes, sir. I know, sir, and I apologise. We got caught up in other things... I'm very, very sorry. Now we are here, what do you wish us to do?~
+@585 = ~Even so, I expect better from my thieves! This is a matter that needs some delicate handling--I need to know I can rely on you. However, you, <CHARNAME>, do not have to involve yourself in this, if you don't want to. This is a job for Fade.~
+@586 = ~So, you've come, then?  I must admit I was surprised when Fade returned alone--and I am not very pleased that she has insisted to wait and see if you followed her! When I have a job to be done, I expect it to be done immediately!~
+@587 = ~Yes, sir. I know, sir, and I'm sorry, sir. I just don't know if I can undertake the mission without <CHARNAME>'s help, and I just wanted a little time to see if he would follow me...~
+@588 = ~W-Would you like to explain what is going on, or should I?~
+@589 = ~I shall explain. It is a matter that needs some delicate handling. However, unlike my errant sneak, I do not believe you have to involve yourself in this, <CHARNAME>, if you don't want to. This is a job for Fade.~
+
+@590 = ~Talk to Darla.~
+@591 = ~Fade! Aran said you were going to look into this for him. And is this your new friend?~
+@592 = ~Hello! I'm Darla--I'm a halfling, and this is Ella--she's a halfling too. Only she doesn't talk much, which some people think is a bit odd for halflings, but in our village that was okay because we didn't have much to do with the big folk, except when we went hunting them, but we don't do that anymore... well, not here anyway because people don't really appreciate that, but there again you city folk have the same opinions on orcs, and I've met some *perfectly* nice orcs in my time, just as...~
+@593 = ~Darla...~
+@594 = ~Hmm? As I was saying, we had more to do with orcs in the village. There were some gnomes too, nice people, we set up a Halfling Benevolent Society with them... well, it was more of a "Smaller Persons Benevolent Society", but there were more halflings in it than gnomes, but people thought it was a front for a Thieves' Guild! It was an honest establishment, most of the stock obtained through noble means... I mean, half the time the stuff wasn't even being used, and it's such a shame that people will let good things go to waste like that...~
+@595 = ~DARLA!! Please just shut up and listen--it's important!~
+@596 = ~That's the problem with the big folk--always so self-important!~
+@597 = ~Darla, please, Aran said you had some information for me about these strange people. He wouldn't be more specific than that about it, only that he said it was best if I dealt with it. What is going on?~
+@598 = ~Well... and I'm only saying this because you're asking and all... but yes, there have been some strange goings on. People're getting killed again... and... and...~
+@599 = ~And... what? Why do I have to deal with it? Tell me, Darla!~
+@600 = ~(sigh) And... "they" say that one of the people doing it has long, crimson hair and a tail. Remind you of anyone?~
+@601 = ~What?! They are saying it is me?? Who are "they" anyway?~
+@602 = ~You know... "them". The unidentified masses. And "they" aren't saying it's you as such. Only people who know you would recognise the description. We also know it isn't you--these things have been happening whilst you've been traipsing around with loverboy here. We have no idea what these people want. It just seems a bit... odd, don't you think?~
+@603 = ~That depends. There could be a reason for it. I just hope I'm wrong.~
+@604 = ~Well, the last time this person was sighted was in the Docks District--somewhere near the Thieves' Guild. I guess that's as good a place to start as any. Good luck!~
+@605 = ~Yeah. Thanks, Darla. You too, Ella.~
+@606 = ~No problem. Take care, okay?~
+@607 = ~Ella?! That was nearly a whole conversation!~
+@608 = ~(sigh)~
+@609 = ~You're not the one we've come to meet, are you? No, I don't think so!~
+
+@610 = ~Do I know you? No, I believe not. I suggest you leave here before I lose my limited patience and decide to gut you like the Lesser you are.~
+@611 = ~Well, well. If it isn't my dear long-lost sister.~
+@612 = ~Xek'ral... I had hoped it wasn't you, but I suppose it was inevitable.~
+@613 = ~So, sister dear... I had been led to believe you were already dead, but no, here you are, turning up like a bad copper. Have you been enjoying yourself over the years away from us?~
+@614 = ~Though I must say, I don't think much of the company you're keeping. Tut, tut. Gallivanting with Lessers, no less.~
+@615 = ~For someone who thought I was dead, you don't seem too surprised to see me! And how DARE you pass judgment on <CHARNAME> and his companions like that!~
+@616 = ~Ahh, I see that some of your infernal wrath has not left you--there may be hope for you still! Yes, Cirion told us you were dead, but you know better than to trust that old snake.~
+@617 = ~And besides, someone yelled "Fade!" after me once, and I seem to remember that being the stupid soubriquet you started to go by before you left. I knew then that you weren't dead. Pity.~
+@618 = ~Cirion? Cirion is here?? Where is he?! Why have you come here to Athkatla? Must I forever be haunted by you all?!~
+@619 = ~Oh, please, get over yourself. You always were the selfish one. We're not here for you! We have better and more important things to do. In fact, killing you would just be a nice bonus for me. Goodbye, sister dear.~
+
+@620 = ~You're back! Did you find the person? Was it who you thought it was? Are they sorted out now? What, no? Then what are you waiting for?~
+@621 = ~Hey there, girlie! You're back! Did you find the person? Was it who you thought it was? Are they sorted out now? Did you--~
+@622 = ~Darla, zip it. Here, take a look at this letter. What do you make of it?~
+@623 = ~Fade, this is really serious! I mean... these guys mean business, don't they?~
+@624 = ~I'm afraid they do. You're good at solving problems. Where would you begin looking?~
+@625 = ~"The bowels of the city..." Well, that could be anywhere, couldn't it? Lots of places to hide...~
+@626 = ~Sewers.~
+@627 = ~I think Ella is right. The sewers would be as good as any place to start looking. Take care, y'hear?~
+@628 = ~Well, I think we've been of as much use as we can! Good luck--we're off now!~
+
+@629 = ~Hello, Roger. Have you by any chance seen any strange people come through here recently?~
+@630 = ~Ahh! Yes! A troupe of some most... unusual characters did make their way through here some time ago. I was going to see if they wanted some of my fine merchandise, but as soon as I saw the head fellow, I changed my mind... a most evil-looking chap!~
+@631 = ~Where did they head?~
+@632 = ~Why, they took the north-west entrance, deeper into the sewer system.~
+@633 = ~Thank you, Roger. You have been most helpful.~
+
+@634 = ~Has anyone else come past here recently?~
+@635 = ~Yes, a most unsavoury group! Michel went to speak to them, to warn them of the dangers ahead, but they... killed him. They have not returned this way--I can only assume they have either perished, or are still down there. I would advise that you avoid them!~
+@636 = ~I don't think that's going to be an option, but thank you anyway.~
+@637 = ~But... but what business have you here, my <PRO_LADYLORD>?~
+@638 = ~I have told you all I know! Please... do not hurt us.~
+
+@639 = ~Again we are disturbed. I warn you, leave this place now--or suffer the slowest and more agonizing death I can devise.~
+@640 = ~Again we are disturbed. No matter, it has been some time since we had any real sport, so...~
+@641 = ~Hello, Cirion. Long time no see.~
+@642 = ~What? Kher'tal? My my my, it *has* been a long time! Your dear brother Xek'ral thought you might be around here--and to think I told him he was being silly! But there you stand, larger than life... how are you?~
+@643 = ~How am I? HOW AM I?!? You sold me into SLAVERY, you bastard!!~
+@644 = ~Oh yes, so I did. Well, I had to make some coin, didn't I? Being told what to do for a change was not to your taste, I take it? Although I would imagine everything else was... you always were a rather rampant one. "Fuck it then kill it" was your motto, I seem to remember.~
+@645 = ~Anyway, your appearance here is immaterial. We are not here for you--we have another, more important goal. So take your... oh my, you're traveling with Lessers now... your "people" and leave us be.~
+@646 = ~I can't leave, you know this! I'm going to make you *pay*, Cirion!~
+@647 = ~You are going to make ME pay? Kher'tal, I commend your spirit, but--~
+@648 = ~DON'T CALL ME THAT!! I am NOT Kher'tal anymore! You made sure of that! You tore me from my life without a second thought, discarded me as so much rubbish! If you think I'm going to walk away from you now, you're sorely mistaken!~
+@649 = ~I warn you, Kher'tal, I am in no mood for your stupidity and temper tantrums. We are here for the Rift Device, and you are not going to stop us.~
+@650 = ~Ha! You're here after the Device? Well, you're too late! It's gone, destroyed! By <CHARNAME> here, no less!~
+@651 = ~WHAT?!? That cannot be true...~
+@652 = ~It is! So now what are you going to do?!~
+@653 = ~You leave me no choice...~
+@654 = ~The Device? Are you mad? It'll destroy you!~
+@655 = ~I doubt that--remember your heritage! It may destroy the Lessers, but we will be able to wield it!~
+@656 = ~In that case, I have another reason to kill you!~
+@657 = ~So be it!~
+
+@658 = ~Back so soon, Fade?~
+@659 = ~You bastard! You knew!! You knew they were my family!! Why didn't you tell me?!~
+@660 = ~Fade, back away now! Yes, I did know--that is why you had to deal with it! I couldn't send anyone else--they wouldn't have stood a chance. I had to send someone who knew their ways!~
+@661 = ~So you manipulated me, yet again! Why were you even involved?~
+@662 = ~Politics. Underground crimes have to be dealt with sometimes by underground people, the Council knows this, and it is essential to our survival as a Guild. I don't expect you to understand.~
+@663 = ~You're right, I don't understand! But understand this, Aran--I will *never* be manipulated like this again!~
+@664 = ~And just what do you mean by that?~
+@665 = ~I... I'm leaving the Shadow Thieves, Aran. Now. For good.~
+@666 = ~(laugh) Do you think it is that easy? You can't just "leave", Fade. This isn't some two-bit operation you can back out of whenever you please!~
+@667 = ~She said she wants to leave, Aran, and you can't stop her. She's put up with a lot in her life, and now she's had enough. Let her go.~
+@668 = ~He's right, Fade. You joined the Shadow Thieves knowing this. You can't just leave like that.~
+@669 = ~And who are you to tell me this? You want her to leave so she can follow you around the countryside! I can't just "let her go"!~
+@670 = ~You can, and you will! Even if I have to kill you first!~
+@671 = ~I want her to leave because I love her, Aran! She's never been more than a useful tool to you, but she's everything to me. I want to see her happy for a change. Let her leave!~
+@672 = ~<CHARNAME>, you're not going to back me up on this? I... I can't do this without your support!~
+@673 = ~I am not unreasonable, Fade. I will allow you to continue your travels, but you still remain under my direction. That is all I have to say on the matter. Good day.~
+@674 = ~Then I am still someone else's lackey. <CHARNAME>... I had hoped you would stand up for me, that your feelings would have prevailed here. Obviously not. Nothing will ever be the same between us anymore. Ever.~
+@675 = ~You dare threaten me? You would not live out the day.~
+@676 = ~<CHARNAME>, no! This is not the way to go about this! Just... please, Aran... let me go. I can't stay here. I need to be with <CHARNAME>.~
+@677 = ~You "need" to be with him? Hmmm. I had heard the rumour that the two of you had formed an attachment. I see now that it is deeper than the rumours gave credit. Fade, you must understand--in letting you leave, I risk my guild!~
+@678 = ~I would never betray you, Aran! You have been good to me, but I need to go my own way, do my own thing! For too long have I been at the beck and call of others!~
+@679 = ~And now you will be at the beck and call of <CHARNAME>! Can't you see that?~
+@680 = ~Yes, I can. But the difference is, I love him. Simple as that.~
+@681 = ~(sigh) Then you would leave anyway, and I would be forced to hunt you down. At least this way, you can go with my blessing. <CHARNAME>... look after her.~
+@682 = ~Y-you mean...~
+@683 = ~Yes, you can leave. But if I hear that you have betrayed us in anyway, I *will* hunt you down. Do I make myself clear?~
+@684 = ~Absolutely! Th-thank you, Aran.~
+@685 = ~You love her? Hmmm. I had heard the rumour that the two of you had formed an attachment. I see now that it is deeper than the rumours gave credit. Fade, you must understand--in letting you leave, I risk my guild!~
+
+@686 = ~You turn to Fade, your unusual Fey'ri companion who has recently become so dear to you. You can see by the apprehensive look she is giving the stair that she is worried, frightened even, but before you can speak, she holds your hand to her lips and kisses it gently.~
+@687 = ~I'd be lying if I said I wasn't terrified... but I would not leave you to face this alone. Not only because of all the things you have done for me, but because of what you are to me--my heart and soul.~
+@688 = ~Know this: I would have traveled to the edges of Faerun and beyond just to be with you, just to help you. Let us face Irenicus. Let us make you whole again!~
+@689 = ~You turn to Fade, your unusual Fey'ri companion who has changed so much since you first met her. You can see by the apprehensive look she is giving the stair that she is worried... frightened even.~
+@690 = ~Fade, this is not your fight. You don't have to do this is you don't want to.~
+@691 = ~Well, this is it. I have to be sure I can count on you when the time comes. Are you sure you want to go through with this?~
+@692 = ~This is your last chance to back out of this. I won't blame you if you want to return to the Shadow Thieves.~
+@693 = ~This is as much my fight as yours, <CHARNAME>... abandoning you now is just not an option. Let us face Irenicus. Let us make you whole again!~
+@694 = ~(She hesitates for a second) Yes, I am sure. We have come this far... I could not abandon you now. Let us face Irenicus. Let us make you whole again!~
+@695 = ~But I would blame myself forever if I abandoned you now. Leaving is just not an option, <CHARNAME>! Let us face Irenicus. Let us make you whole again!~
+
+@696 = ~Wha-what happened? I... felt you calling, I knew I had to follow, that I could not leave, but... oh no. Can't you feel it? We're in the Hells! My blood will rebel here, <CHARNAME>... this feels so fundamentally wrong to me! Let us find a way out of here, and fast.~
+@697 = ~Wha-what happened? <CHARNAME>, my love... are you alright? Where are you?! I... felt you calling, I knew I had to follow, that I could not leave, but... oh no. Can't you feel it? We're in the Hells! My blood will rebel here, <CHARNAME>... this feels so fundamentally wrong to me! Let us find a way out of here, and fast.~
+
+@698 = ~So you thought you could cheat your fate, Irenicus? You should know better than that! My whole race are considered traitors by the rest of the elven community, but what you did would sicken even them! And now you are here in Hell. There can be only one outcome. You will stay here and ROT!!~
+
+@699 = ~We have not disguised our motives! The Shadow Master simply sought to rid Athkatla of you and your corrupted kin. Why should he not have employed <CHARNAME> to help, considering <PRO_HISHER> goals are so similar to ours?~
+@700 = ~Then you are indeed a naive and, dare I say it, ridiculously stupid individual. Of course there is intent, one that your precious Shadow Master has chosen not to divulge to you. A wise course, considering you obviously cannot watch your mouth.~
+@701 = ~Never have we hidden our intentions! The Shadow Master simply sought to rid Athkatla of you and your corrupted kin. Why should he not have employed <CHARNAME> to help, considering <PRO_HISHER> goals are so similar to ours?~
+@702 = ~For your information, <CHARNAME>'s "employers" intend nothing that hasn't already been laid out! The Shadow Master simply sought to rid Athkatla of you and your corrupted kin. Why should he not have employed <CHARNAME> to help, considering <PRO_HISHER> goals are so similar to ours?~
+
+@703 = ~Too damn right you have a guest! One that would rather like to spit you on the end of her sword, given the choice. Leave that poor wench alone!~
+@704 = ~And who are you to order *me* around? Who are you, <MANWOMAN>? Where are my useless guards?~
+
+@705 = ~Vampirism I can help with, but this... this is something else entirely. Speak with my fellow brother; he may be able help you.~
+
+@706 = ~I doubt it... I've never been one to do *anything* quietly.~
+
+@707 = ~Come now... I'm sure we can come to some kind of... arrangement?~
+@708 = ~Arrangement? What kind of... arrangement do you have in mind, wench?~
+@709 = ~Simple, really. If you let us in, I can be sure to make it worth your while...~
+@710 = ~Fade, no! I know you have used such... tactics in the past to get your own way, but you don't have to do it now. There are other ways!~
+@711 = ~Good girl--this will make it easier by far! Just don't take too long, okay?~
+@712 = ~I... I was only trying to help, <CHARNAME>. I thought it would be the easiest and quickest way to get an audience. Don't you think it would work?~
+@713 = ~Considering what is on offer, I'm absolutely sure it would work, but I'm not willing to let the likes of him paw at you, even if it makes achieving my goals easier.~
+@714 = ~Whether or not it would work is not the issue here. I will not allow you to prostitute yourself this way, ever.~
+@715 = ~Probably not. I am sure the likes of the Pirate Lord and his lackeys have pretty women throwing themselves at them all the time. Another one isn't going to make a difference.~
+@716 = ~I *was* just going to take him to one side and knock him over the head, <CHARNAME>--I do have some measure of pride!~
+@717 = ~I thought I said for you to go away! Hanging around here trying to bargain entry with comely wenches just doesn't work, you know. Like I said, you need an appointment!~
+@718 = ~That is... very sweet of you, <CHARNAME>. Like I said, I was just trying to help. I... hope you do not think any less of me.~
+@719 = ~That is very noble of you, <CHARNAME>. I was actually thinking of getting him on his own and knocking him over the head. But... thanks anyway. (smile)~
+@720 = ~Gee, thanks, <CHARNAME>. You sure do know how to make a girl feel good about herself. Again I don't know if I should be insulted or honoured!~
+
+@721 =~Elhan! I've the half vampire body of Fade here because of you! You'll tell me now!~
+
+@722 = ~I understand what you ask, child, although I would have thought you may already have guessed, since one of your party has a hint of the planes about her already. (She smiles at Fade)~
+@723 = ~We are people from distant lands and all of us are of mixed heritage.  Please, my good <MANWOMAN>... will you aid us?~
+
+@724 = ~Uh-oh... that's not good. Who in all the Nine Hells would go to all this effort to implicate you in the slaughter of those knights? I think it's going to take a bit more than a hopeful smile and a slice of Apology Cake to smooth this one over.~
+
+@725 = ~Missy, we have this discussion every time I come in here. Do you see me wearing a coat? Have you *ever* known me to wear a coat? And more to the point, what the hell would I want with your coats anyway?! No one wants your damn coats! The only reason the apprentices nick things from them in the first place is to wind you up! Now chill out!~
+
+@726 = ~I tell you, it's a blinking miracle Aran has any recruits left after that sadist has finished with them...~
+
+@727 = ~Have you completed your mission? No, I don’t think you have. Come and speak to me once you’re done.~
+@728 = ~Yes, Aran, I'll do that.~
+@729 = ~There's something else I want to discuss.~
+@730 = ~Ah... the matter of your little sea voyage? I must admit, after you left on Havarian's ship, I half-wondered if you would reach the island, never mind return.~
+@731 = ~This is hardly the time for discussion, <CHARNAME>. Go now... go to the graveyard and enter the catacombs when you are ready. My best assassins will meet you there, and I hope they will be enough. Now... I must make preparations, so excuse me.~
+@732 = ~There is nothing left to discuss, <CHARNAME>. I have told you my decision. Kill Bodhi, but do it without my help... and we shall be even. Now leave this place at once.~
+@733 = ~What could that be? Bodhi is dead, is she not? Incidentally, <CHARNAME>, I am very pleased. The Shadow Thieves at large can breathe a sigh of relief, now. A job well done.~
+
+@734 = ~Last time I looked, girl, *I* was the expert on traps and training 'round here. Out of my way.~
+
+
+
+
+
+
+
+
+
+
+

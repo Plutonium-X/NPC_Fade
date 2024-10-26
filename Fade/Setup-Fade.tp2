@@ -1,0 +1,287 @@
+BACKUP ~Fade/Backup~
+AUTHOR ~silmarien09@yahoo.com~
+
+ALWAYS
+	ACTION_DEFINE_ARRAY E3_reload BEGIN
+	"Setup-Fade"
+	END
+	ACTION_DEFINE_ARRAY E3_noconvert BEGIN END
+	LAF HANDLE_CHARSETS
+		INT_VAR
+		infer_charset = 1
+		STR_VAR
+		tra_path = EVAL ~%MOD_FOLDER%/tra~
+		noconvert_array = E3_noconvert
+		reload_array = E3_reload
+	END
+	ACTION_IF NOT VARIABLE_IS_SET bg2_chapter BEGIN
+	ACTION_IF GAME_IS ~eet~ BEGIN
+		OUTER_SET bg2_chapter = 12
+	END ELSE BEGIN
+		OUTER_SET bg2_chapter = 0
+	END
+	OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+		OUTER_SET bg2_chapter = bg2_chapter + 1
+		OUTER_SPRINT name_source ~bg2_chapter_%i%~
+		OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+	END
+	END
+END
+
+LANGUAGE ~English~
+         ~english~
+         ~Fade/tra/English/Setup-Fade.tra~
+LANGUAGE ~French~
+         ~french~
+         ~Fade/tra/English/Setup-Fade.tra~
+         ~Fade/tra/French/Setup-Fade.tra~
+
+BEGIN @1
+
+//Creatures
+COPY ~Fade/Creatures/E3FADE13.cre~ ~override/E3FADE13.cre~
+SAY NAME1 @2
+SAY NAME2 @2
+SAY MORALE @10
+SAY LEADER @11
+SAY TIRED @12
+SAY BORED @13
+SAY BATTLE_CRY1 @14
+SAY BATTLE_CRY2 @15
+SAY BATTLE_CRY3 @16
+SAY BATTLE_CRY4 @17
+SAY DAMAGE @18
+SAY DYING @19
+SAY HURT @20
+SAY SELECT_COMMON1 @21
+SAY SELECT_ACTION1 @22
+SAY SELECT_ACTION2 @23
+SAY CRITICAL_HIT @24
+SAY CRITICAL_MISS @25
+SAY TARGET_IMMUNE @26
+SAY INVENTORY_FULL @27
+SAY SPELL_DISRUPTED @28
+SAY BIO @3
+
+COPY ~Fade/Creatures/E3MALLON.cre~ ~override/E3MALLON.cre~
+SAY NAME1 @7
+SAY NAME2 @7
+
+COPY ~Fade/Creatures/E3HOODL.cre~ ~override/E3HOODL.cre~
+SAY NAME1 @6
+SAY NAME2 @6
+
+COPY ~Fade/Creatures/E3HOODG1.cre~ ~override/E3HOODG1.cre~
+SAY NAME1 @6
+SAY NAME2 @6
+
+COPY ~Fade/Creatures/E3ARANSM.cre~ ~override/E3ARANSM.cre~
+SAY NAME1 @29
+SAY NAME2 @29
+
+COPY ~Fade/Creatures/E3INVIS.cre~ ~override/E3INVIS.cre~
+
+COPY ~Fade/Creatures/E3DEMON.cre~ ~override/E3DEMON.cre~
+SAY NAME1 @2
+SAY NAME2 @2
+
+COPY ~Fade/Creatures/E3DEMON2.cre~ ~override/E3DEMON2.cre~
+SAY NAME1 @34
+SAY NAME2 @34
+
+COPY ~Fade/Creatures/E3FADE2.cre~ ~override/E3FADE2.cre~
+SAY NAME1 @2
+SAY NAME2 @2
+
+COPY ~Fade/Creatures/E3MSSNGR.cre~ ~override/E3MSSNGR.cre~
+SAY NAME1 @41
+SAY NAME2 @41
+
+COPY ~Fade/Creatures/E3DARLA.cre~ ~override/E3DARLA.cre~
+SAY NAME1 @42
+SAY NAME2 @42
+
+COPY ~Fade/Creatures/E3ELLA.cre~ ~override/E3ELLA.cre~
+SAY NAME1 @43
+SAY NAME2 @43
+
+COPY ~Fade/Creatures/E3XEKRAL.cre~ ~override/E3XEKRAL.cre~
+SAY NAME1 @44
+SAY NAME2 @44
+
+COPY ~Fade/Creatures/E3CIRION.cre~ ~override/E3CIRION.cre~
+SAY NAME1 @45
+SAY NAME2 @45
+
+COPY ~Fade/Creatures/E3SAVANY.cre~ ~override/E3SAVANY.cre~
+SAY NAME1 @46
+SAY NAME2 @46
+
+COPY ~Fade/Creatures/E3JEKHRI.cre~ ~override/E3JEKHRI.cre~
+SAY NAME1 @47
+SAY NAME2 @47
+
+COPY ~Fade/Creatures/E3SUME.cre~ ~override/E3SUME.cre~
+SAY NAME1 @48
+SAY NAME2 @48
+
+COPY ~Fade/Creatures/E3ERIALE.cre~ ~override/E3ERIALE.cre~
+SAY NAME1 @49
+SAY NAME2 @49
+
+COPY ~Fade/Creatures/E3TAEGHE.cre~ ~override/E3TAEGHE.cre~
+SAY NAME1 @50
+SAY NAME2 @50
+
+//Graphics
+	ACTION_IF GAME_IS ~BG2EE EET~ BEGIN
+COPY ~Fade/Portraits/EE/E3FadeS.bmp~ ~override/E3FadeS.bmp~
+     ~Fade/Portraits/EE/E3FadeL.bmp~ ~override/E3FadeL.bmp~
+END ELSE
+COPY ~Fade/Portraits/E3FadeS.bmp~ ~override/E3FadeS.bmp~
+     ~Fade/Portraits/E3FadeL.bmp~ ~override/E3FadeL.bmp~
+     
+//Sounds
+COPY ~Fade/fadeaudio.bat~ ~fadeaudio.bat~
+     ~Fade/fadeaudiouninstall.bat~ ~fadeaudiouninstall.bat~
+     ~Fade/audio~ ~override~
+
+//Items
+COPY ~Fade/Items/E3Letter.itm~ ~override/E3Letter.itm~
+SAY NAME2 @4
+SAY DESC @5
+
+COPY ~Fade/Items/E3Contra.itm~ ~override/E3Contra.itm~
+SAY NAME2 @8
+SAY DESC @9
+
+COPY ~Fade/Items/E3FadBd1.itm~ ~override/E3FadBd1.itm~
+SAY NAME2 @30
+SAY DESC @31
+
+COPY ~Fade/Items/E3FadBd2.itm~ ~override/E3FadBd2.itm~
+SAY NAME2 @30
+SAY DESC @35
+
+COPY ~Fade/Items/E3Tooth.itm~ ~override/E3Tooth.itm~
+SAY NAME2 @32
+SAY DESC @33
+
+COPY ~Fade/Items/E3Amul01.itm~ ~override/E3Amul01.itm~
+SAY NAME2 @36
+SAY DESC @37
+
+COPY ~Fade/Items/E3Amul02.itm~ ~override/E3Amul02.itm~
+SAY NAME2 @36
+SAY DESC @38
+
+COPY ~Fade/Items/E3XLette.itm~ ~override/E3XLette.itm~
+SAY NAME2 @39
+SAY DESC @40
+
+//Scripts
+COMPILE ~Fade/Scripts/E3Fade.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+COMPILE ~Fade/Scripts/E3FadeD.baf~
+COMPILE ~Fade/Scripts/E3Mallon.baf~
+COMPILE ~Fade/Scripts/E3Cut001.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+COMPILE ~Fade/Scripts/E3Cut002.baf~
+COMPILE ~Fade/Scripts/E3Cut003.baf~
+COMPILE ~Fade/Scripts/E3Cut004.baf~
+COMPILE ~Fade/Scripts/E3Cut005.baf~
+COMPILE ~Fade/Scripts/E3Demon.baf~
+COMPILE ~Fade/Scripts/E3Cut006.baf~
+COMPILE ~Fade/Scripts/E3Cut007.baf~
+COMPILE ~Fade/Scripts/E3Fade2.baf~
+COMPILE ~Fade/Scripts/E3Cut008.baf~
+COMPILE ~Fade/Scripts/E3Demon2.baf~
+COMPILE ~Fade/Scripts/E3Cut009.baf~
+COMPILE ~Fade/Scripts/E3Cut010.baf~
+COMPILE ~Fade/Scripts/fadefix.baf~
+COMPILE ~Fade/Scripts/E3Cleric.baf~
+COMPILE ~Fade/Scripts/E3Mage.baf~
+COMPILE ~Fade/Scripts/E3Fight.baf~
+COMPILE ~Fade/Scripts/E3Thief.baf~
+COMPILE ~Fade/Scripts/E3Archer.baf~
+COMPILE ~Fade/Scripts/E3Mssngr.baf~
+COMPILE ~Fade/Scripts/E3Cirion.baf~
+
+//Dialogues
+COMPILE ~Fade/Dialogues/Fade.d~
+USING ~Fade/tra/English/Fade.tra~
+      ~Fade/tra/%s/Fade.tra~
+
+COMPILE ~Fade/Dialogues/BE3Fade.d~
+USING ~Fade/tra/English/BE3Fade.tra~
+      ~Fade/tra/%s/BE3Fade.tra~
+
+COMPILE ~Fade/Dialogues/Misc.d~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+
+COMPILE ~Fade/Dialogues/Fadeflirt.d~
+USING ~Fade/tra/English/Fadeflirt.tra~
+      ~Fade/tra/%s/Fadeflirt.tra~
+
+// 2da appending
+APPEND ~pdialog.2da~
+~E3Fade      E3FadeP      E3FadeJ      E3FadeD~
+UNLESS ~E3Fade~
+UNLESS ~25POST~
+
+APPEND ~pdialog.2da~
+~E3Fade      E3FadeP      E3FadeJ      E3FadeD      E3Fad25P      E3Fad25J      E3Fad25D~
+UNLESS ~E3Fade~
+IF ~25POST~
+
+APPEND ~interdia.2da~
+~E3Fade      BE3Fade~
+UNLESS ~E3Fade~
+UNLESS ~25POST~
+
+APPEND ~interdia.2da~
+~E3Fade      BE3Fade      BE3Fad25~
+UNLESS ~E3Fade~
+IF ~25POST~
+
+//Script EXTEND-ing
+EXTEND_TOP ~aerie.bcs~ ~Fade/Scripts/E3Aerie.baf~
+EXTEND_TOP ~jaheira.bcs~ ~Fade/Scripts/E3Jaheira.baf~
+EXTEND_TOP ~viconia.bcs~ ~Fade/Scripts/E3Viconia.baf~
+EXTEND_TOP ~ar0527.bcs~ ~Fade/Scripts/E3AR0527.baf~
+EXTEND_BOTTOM ~ar0900.bcs~ ~Fade/Scripts/E3AR0900.baf~
+EXTEND_BOTTOM ~ar0907.bcs~ ~Fade/Scripts/E3AR0907.baf~
+EXTEND_BOTTOM ~ar0500.bcs~ ~Fade/Scripts/E3AR0500.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+EXTEND_BOTTOM ~ar2203.bcs~ ~Fade/Scripts/E3AR2203.baf~
+EXTEND_BOTTOM ~ar0809.bcs~ ~Fade/Scripts/E3AR0809.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+EXTEND_BOTTOM ~cleanse.bcs~ ~Fade/Scripts/E3Cleanse.baf~
+EXTEND_TOP ~ar1203.bcs~ ~Fade/Scripts/E3AR1203.baf~
+EXTEND_BOTTOM ~ar1303.bcs~ ~Fade/Scripts/E3AR1303.baf~
+EXTEND_BOTTOM ~ar2202.bcs~ ~Fade/Scripts/E3AR2202.baf~
+EXTEND_TOP ~Baldur.bcs~ ~Fade/Scripts/E3Amulet.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+EXTEND_BOTTOM ~ar0511.bcs~ ~Fade/Scripts/E3AR0511.baf~
+EXTEND_TOP ~ar0318.bcs~ ~Fade/Scripts/E3AR0318.baf~
+EXTEND_BOTTOM ~ar0204.bcs~ ~Fade/Scripts/E3AR0204.baf~
+
+COPY_EXISTING ~ar0527.are~ ~override/ar0527.are~
+WRITE_ASCII ~0x94~ ~AR0527~
+
+COPY_EXISTING ~ar1203.are~ ~override/ar1203.are~
+WRITE_ASCII ~0x94~ ~AR1203~
+
+COPY_EXISTING ~ar0318.are~ ~override/ar0318.are~
+WRITE_ASCII ~0x94~ ~AR0318~
+
+AT_INTERACTIVE_EXIT ~fadeaudio.bat~
+AT_INTERACTIVE_UNINSTALL ~fadeaudiouninstall.bat~
+
+

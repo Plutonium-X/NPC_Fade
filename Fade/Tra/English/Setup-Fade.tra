@@ -1,0 +1,79 @@
+@1 = ~Fade: An NPC for Baldur's Gate II~
+@2 = ~Fade~
+@3 = ~When you ask FADE, your exotic Fey'ri companion, about her background, she simply says she has been a member of the Shadow Thieves for a little over three years, after Aran Linvail found her living rough in the Docks District. She refuses to elaborate any further than that, and by the defiant set of her chin and the way her tail is twitching, you know better than to push her.~
+@4 = ~Torn Parchment~
+@5 = ~This parchment has been badly damaged in the brief struggle you witnessed, and is torn and crumpled. You can only make out the following:
+
+...the fiendling bitch is in Athkatla after all. I will not...though she could hide fro...be warned--she travels...Bhaa...ake her to the strongho...Temple...will arrange transport as soon as I receive you...do not delay...fool out of me!
+
+D
+~
+@6 = ~Hooded Figure~
+@7 = ~Mallon~
+@8 = ~Slaver Contract~
+@9 = ~This is a contract of sale for "one (1) female fiendling". A rough but accurate description of Fade follows.~
+@10 = ~Perhaps we'd better leave...Now!~ [E3FADE01]
+@11 = ~Why, how lovely...Thanks ever so much.~ [E3FADE02]
+@12 = ~OK, that's enough for me...I need some rest.~ [E3FADE03]
+@13 = ~Oh come on! Let's move this along, people!~ [E3FADE04]
+@14 = ~All right crew, let's take them down!~ [E3FADE05]
+@15 = ~Ha! There's more where that came from!~ [E3FADE06]
+@16 = ~This is too easy!~ [E3FADE07]
+@17 = ~You're about to bite off more than you can chew, cur.~ [E3FADE08]
+@18 = ~~ [E3FADE09]
+@19 = ~It's not supposed to happen like this...~ [E3FADE10]
+@20 = ~Ah! This isn't good...I need a healer, quick!~ [E3FADE11]
+@21 = ~Yes?~ [E3FADE12]
+@22 = ~Well, of course I can do that.~ [E3FADE13]
+@23 = ~Mmm...yes.~ [E3FADE14]
+@24 = ~Ha-ha!~ [E3FADE15]
+@25 = ~Blast!~ [E3FADE16]
+@26 = ~This...usually...works...Bah! I need a better weapon!~ [E3FADE17]
+@27 = ~No, I'm carrying far too much useless garbage. I'm going to have to dump some of this.~ [E3FADE18]
+@28 = ~My charms don't usually fall flat like that.~ [E3FADE19]
+@29 = ~Mrs. Linvail~
+@30 = ~Fade's Body~
+@31 = ~Fade was captured by Bodhi and infected with vampirism, and now lies in a trance. There may be some way to revive her, though you don't know what it would be.~
+@32 = ~Firkraag's Tooth~
+@33 = ~One of Firkraag's teeth has broken off. You look it over, and for some reason you get a distinct feeling of latent power. Although you do not know why, you get the feeling you should hang on to this--its function may come clearer in the future.~
+@34 = ~Fade-Demon~
+@35 = ~Fade lies terribly weakened after your battle with the demonic spirit that still possesses her. You need to find a way to revive her as soon as possible.~
+@36 = ~Fade's Amulet~
+@37 = ~This amulet was given to Fade by the Shadow Master once he charged her with uncovering all she could find out about the rival Guild plaguing the Shadow Thieves.
+
+STATISTICS
+
+Equipped Abilities:
+Negative Plane Protection
+Protection from Evil
+Protection from Charm
+
+Usable by:
+Fade~
+@38 = ~This amulet was given to <CHARNAME> by Fade to protect him from the many different dangers vampires can pose.
+
+STATISTICS
+
+Equipped Abilities:
+Negative Plane Protection
+Protection from Evil
+Protection from Charm
+
+Usable by:
+Fade
+<CHARNAME>~
+@39 = ~Letter from Cirion~
+@40 = ~I think we have located the item. If it is indeed as powerful as it is rumoured to be, the Countess will surely be pleased. Secure a base somewhere, and then come and meet us in the bowels of the city. Kill any who oppose you, but use restraint. Being discovered will only bring us more problems. Once we have the item, you can satiate your bloodlust to your heart's content.
+
+Cirion
+~
+@41 = ~Shadow Thief Messenger~
+@42 = ~Darla~
+@43 = ~Ella~
+@44 = ~Xek'ral~
+@45 = ~Cirion~
+@46 = ~Savanya~
+@47 = ~Jekh'ril~
+@48 = ~Sume~
+@49 = ~Eriale~
+@50 = ~Taeghen~
