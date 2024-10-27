@@ -1,5 +1,6 @@
-# Fade
-Fade est une compagne Fey'ri voleuse de l'ombre que vous pourrez recruter en vous alliant aux voleurs de l'ombre. Romence possible avec un homme.
+# Fade la Fey'ri voleuse
+
+Vous pourrez la recruter en vous alliant aux voleurs de l'ombre. Si vous êtes un homme vous pourrez la romancer.
 
 Particularités :
 - Son amulette inamovible l'immunise contre les charmes et le drain de niveau.
