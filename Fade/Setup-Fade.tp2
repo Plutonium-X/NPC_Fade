@@ -15,16 +15,6 @@ ALWAYS
 		reload_array = E3_reload
 	END
 	ACTION_IF NOT VARIABLE_IS_SET bg2_chapter BEGIN
-	ACTION_IF GAME_IS ~eet~ BEGIN
-		OUTER_SET bg2_chapter = 12
-	END ELSE BEGIN
-		OUTER_SET bg2_chapter = 0
-	END
-	OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
-		OUTER_SET bg2_chapter = bg2_chapter + 1
-		OUTER_SPRINT name_source ~bg2_chapter_%i%~
-		OUTER_SET EVAL ~%name_source%~ = bg2_chapter
-	END
 	END
 END
 
@@ -180,10 +170,6 @@ SAY NAME2 @39
 SAY DESC @40
 
 //Scripts
-COMPILE ~Fade/Scripts/E3Fade.baf~
-USING ~Fade/tra/English/Misc.tra~
-      ~Fade/tra/%s/Misc.tra~
-COMPILE ~Fade/Scripts/E3FadeD.baf~
 COMPILE ~Fade/Scripts/E3Mallon.baf~
 COMPILE ~Fade/Scripts/E3Cut001.baf~
 USING ~Fade/tra/English/Misc.tra~
@@ -214,6 +200,31 @@ COMPILE ~Fade/Dialogues/Fade.d~
 USING ~Fade/tra/English/Fade.tra~
       ~Fade/tra/%s/Fade.tra~
 
+COMPILE ~Fade/Dialogues/Fadeflirt.d~
+USING ~Fade/tra/English/Fadeflirt.tra~
+      ~Fade/tra/%s/Fadeflirt.tra~
+	  
+//EET block
+ACTION_IF GAME_IS ~EET~ BEGIN
+COMPILE ~Fade/Portraits/EE/E3Fade.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+COMPILE ~Fade/Portraits/EE/E3FadeD.baf~
+
+COMPILE ~Fade/Portraits/EE/BE3Fade.d~
+USING ~Fade/tra/English/BE3Fade.tra~
+      ~Fade/tra/%s/BE3Fade.tra~
+
+COMPILE ~Fade/Portraits/EE/Misc.d~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+END
+ACTION_IF GAME_IS ~BG2 TOB BGT BG2EE~ BEGIN
+COMPILE ~Fade/Scripts/E3Fade.baf~
+USING ~Fade/tra/English/Misc.tra~
+      ~Fade/tra/%s/Misc.tra~
+COMPILE ~Fade/Scripts/E3FadeD.baf~	
+
 COMPILE ~Fade/Dialogues/BE3Fade.d~
 USING ~Fade/tra/English/BE3Fade.tra~
       ~Fade/tra/%s/BE3Fade.tra~
@@ -221,10 +232,8 @@ USING ~Fade/tra/English/BE3Fade.tra~
 COMPILE ~Fade/Dialogues/Misc.d~
 USING ~Fade/tra/English/Misc.tra~
       ~Fade/tra/%s/Misc.tra~
-
-COMPILE ~Fade/Dialogues/Fadeflirt.d~
-USING ~Fade/tra/English/Fadeflirt.tra~
-      ~Fade/tra/%s/Fadeflirt.tra~
+END
+	  
 
 // 2da appending
 APPEND ~pdialog.2da~
