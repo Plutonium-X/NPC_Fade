@@ -3,7 +3,7 @@
 Vous pourrez la recruter en vous alliant aux voleurs de l'ombre. Si vous êtes un homme vous pourrez la romancer.
 
 Particularités :
-- Caractéristiques : Force 14, dextérité 19, endurance 10, intelligence 16, sagesse 11, charisme 16.
+- Caractéristiques : FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16.
 - Son amulette inamovible l'immunise contre les charmes et le drain de niveau.
 - Elle n'a pas de contenu TOB. C'est pratique pour la remplacer par Sarevok ou Irenicus.
 
